@@ -1,0 +1,108 @@
+# BeLagel Configuration File
+
+app:
+  name: "BeLagel"
+  version: "1.0.0"
+  description: "O'zbekiston Qonunchiligi uchun AI Q&A Tizimi"
+
+# Chunking Configuration
+chunking:
+  strategy: "article_level"  # article_level, fixed_size
+  min_article_length: 50
+  overlap_size: 0  # No overlap for legal articles
+  
+# Embedding Configuration
+embedding:
+  model_name: "intfloat/multilingual-e5-large"
+  dimension: 1024
+  normalize: true
+  batch_size: 32
+  device: "cuda"  # cuda, mps, or cpu
+  
+# Vector Database
+vectordb:
+  provider: "qdrant"
+  collection_name: "uzbek_legal_codes"
+  distance: "cosine"
+  shard_number: 1
+  replication_factor: 1
+  
+# Retrieval Configuration
+retrieval:
+  top_k: 5
+  score_threshold: 0.7
+  use_metadata_filter: true
+  enable_reranking: false
+  
+# config.yaml - legal_codes bo'limini shunday o'zgartiring:
+
+legal_codes:
+  - name: "O'zbekiston Respublikasi Konstitutsiyasi"
+    short_code: "KONST"
+    file_pattern: "KONSTITUTSIYASI"
+  - name: "O'zbekiston Respublikasi Jinoyat kodeksi"
+    short_code: "JK"
+    file_pattern: "JINOYAT KODEKSI"
+  - name: "O'zbekiston Respublikasi Ma'muriy javobgarlik to'g'risidagi kodeksi"
+    short_code: "MJK"
+    file_pattern: "Ma'muriy javobgarlik"
+  - name: "O'zbekiston Respublikasi Fuqarolik kodeksi"
+    short_code: "FK"
+    file_pattern: "FUQAROLIK KODEKSI"
+  - name: "O'zbekiston Respublikasi Mehnat kodeksi"
+    short_code: "MK"
+    file_pattern: "Mehnat kodeksi"
+  - name: "O'zbekiston Respublikasi Oila kodeksi"
+    short_code: "OK"
+    file_pattern: "OILA KODEKSI"
+  - name: "O'zbekiston Respublikasi Soliq kodeksi"
+    short_code: "SK"
+    file_pattern: "Soliq kodeksi"
+  - name: "O'zbekiston Respublikasi Jinoyat-protsessual kodeksi"
+    short_code: "JPK"
+    file_pattern: "JINOYAT-PROTSESSUAL"
+  - name: "O'zbekiston Respublikasi Fuqarolik protsessual kodeksi"
+    short_code: "FPK"
+    file_pattern: "Fuqarolik protsessual"
+  - name: "O'zbekiston Respublikasi Iqtisodiy protsessual kodeksi"
+    short_code: "IPK"
+    file_pattern: "Iqtisodiy protsessual"
+# LLM Configuration
+llm:
+  provider: "groq"
+  model: "llama-3.3-70b-versatile"
+  temperature: 0.1
+  max_tokens: 4000
+  top_p: 0.9
+  frequency_penalty: 0.0
+  presence_penalty: 0.0
+  streaming: true
+  
+# Prompt Configuration
+prompt:
+  system_template_version: "v2"
+  max_context_length: 4000
+  citation_format: "modda"  # modda, full_reference
+  
+# Cache Configuration
+cache:
+  enabled: true
+  ttl: 86400  # 24 hours
+  prefix: "belagel:"
+  
+# Logging Configuration
+logging:
+  level: "INFO"
+  format: "json"  # json, text
+  file: "logs/app.log"
+  max_size_mb: 100
+  backup_count: 5
+  
+# API Configuration
+api:
+  rate_limit_requests: 100
+  rate_limit_window: 3600  # 1 hour
+  cors_origins:
+    - "http://localhost:3000"
+    - "http://localhost:8000"
+  timeout_seconds: 60

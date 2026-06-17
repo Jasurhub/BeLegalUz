@@ -1,0 +1,3011 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title></title>
+	<meta name="generator" content="LibreOffice 26.2.3.2 (Linux)"/>
+	<meta name="created" content="00:00:00"/>
+	<meta name="changed" content="2026-06-09T11:14:35.764142993"/>
+	<style type="text/css">
+		@page { size: 8.27in 11.69in; margin-left: 0.79in; margin-right: 0.39in; margin-top: 0.39in; margin-bottom: 0.39in }
+		p { margin-bottom: 0.1in; line-height: 115%; background: transparent }
+		a:link { color: #000080; text-decoration: underline }
+	</style>
+</head>
+<body lang="uz-Latn-UZ" link="#000080" vlink="#800000" dir="ltr"><p><font face="Noto Sans Devanagari"><span lang="hi-IN">﻿</span></font></p>
+<div id="divCont" dir="ltr" style="background: #ffffff"><p><br/>
+<br/>
+
+	</p>
+	<div id="-6445149" dir="ltr"><p><br/>
+<br/>
+
+		</p>
+	</div>
+	<div id="-6445150" dir="ltr"><p>OʻZBEKISTON RESPUBLIKASI
+		KONSTITUTSIYASI</p>
+	</div>
+	<div id="-6445153" dir="ltr"><p><br/>
+<br/>
+
+		</p>
+	</div>
+	<div id="-6445154" dir="ltr"><p>MUQADDIMA</p>
+	</div>
+	<div id="-6448997" dir="ltr"><p>Biz, Oʻzbekistonning yagona xalqi,</p>
+	</div>
+	<div id="-6449436" dir="ltr"><p>inson huquq va erkinliklariga,
+		milliy va umuminsoniy qadriyatlarga, davlat suvereniteti
+		prinsiplariga sodiqligimizni tantanali ravishda eʼlon qilib,</p>
+	</div>
+	<div id="-6449441" dir="ltr"><p>demokratiya, erkinlik va tenglik,
+		ijtimoiy adolat va birdamlik gʻoyalariga sadoqatimizni namoyon
+		qilib,</p>
+	</div>
+	<div id="-6449445" dir="ltr"><p>inson, uning hayoti, erkinligi,
+		shaʼni va qadr-qimmati oliy qadriyat hisoblanadigan insonparvar
+		demokratik davlatni, ochiq va adolatli jamiyatni barpo etish
+		borasida hozirgi va kelajak avlodlar oldidagi yuksak
+		masʼuliyatimizni anglagan holda,</p>
+	</div>
+	<div id="-6449448" dir="ltr"><p>davlatchiligimiz rivojining uch ming
+		yildan ziyod tarixiy tajribasiga, shuningdek jahon
+		sivilizatsiyasiga beqiyos hissa qoʻshgan buyuk ajdodlarimizning
+		ilmiy, madaniy va maʼnaviy merosiga tayanib,</p>
+	</div>
+	<div id="-6449452" dir="ltr"><p>mamlakatimizning bebaho tabiiy
+		boyliklarini koʻpaytirishga hamda hozirgi va kelajak avlodlar
+		uchun asrab-avaylashga hamda atrof-muhit musaffoligini saqlashga
+		astoydil ahd qilib,</p>
+	</div>
+	<div id="-6449456" dir="ltr"><p>xalqaro huquqning umumeʼtirof
+		etilgan prinsip va normalariga asoslangan holda, 
+		</p>
+	</div>
+	<div id="-6449461" dir="ltr"><p>Oʻzbekistonning jahon hamjamiyati,
+		eng avvalo, qoʻshni davlatlar bilan doʻstona munosabatlarini
+		hamkorlik, oʻzaro qoʻllab-quvvatlash, tinchlik va totuvlik
+		asosida mustahkamlash hamda rivojlantirishga intilib,</p>
+	</div>
+	<div id="-6449465" dir="ltr"><p>fuqarolarning munosib hayot
+		kechirishini, millatlararo va konfessiyalararo totuvlikni, koʻp
+		millatli jonajon Oʻzbekistonimizning farovonligini va
+		gullab-yashnashini taʼminlashni maqsad qilgan holda,</p>
+	</div>
+	<div id="-6449472" dir="ltr"><p>ushbu Konstitutsiyani qabul qilamiz
+		va eʼlon qilamiz.</p>
+	</div>
+	<div id="-6445169" dir="ltr"><p>BIRINCHI BOʻLIM. ASOSIY PRINSIPLAR</p>
+	</div>
+	<div id="-6445170" dir="ltr"><p>I bob. Davlat suvereniteti</p>
+	</div>
+	<div id="-6445171" dir="ltr"><p>1-modda.</p>
+	</div>
+	<div id="-6445172" dir="ltr"><p>Oʻzbekiston — boshqaruvning
+		respublika shakliga ega boʻlgan suveren, demokratik, huquqiy,
+		ijtimoiy va dunyoviy davlat. 
+		</p>
+	</div>
+	<div id="-6445173" dir="ltr"><p>Davlatning “Oʻzbekiston
+		Respublikasi” va “Oʻzbekiston” degan nomlari bir maʼnoni
+		anglatadi.</p>
+	</div>
+	<div id="-6445174" dir="ltr"><p>2-modda.</p>
+	</div>
+	<div id="-6445175" dir="ltr"><p>Davlat xalq irodasini ifoda etib,
+		uning manfaatlariga xizmat qiladi. Davlat organlari va mansabdor
+		shaxslar jamiyat va fuqarolar oldida masʼuldirlar.</p>
+	</div>
+	<div id="-6445176" dir="ltr"><p>3-modda.</p>
+	</div>
+	<div id="-6445177" dir="ltr"><p>Oʻzbekiston Respublikasi oʻzining
+		milliy-davlat va maʼmuriy-hududiy tuzilishini, davlat hokimiyati
+		organlarining tizimini belgilaydi, ichki va tashqi siyosatini
+		amalga oshiradi.</p>
+	</div>
+	<div id="-6445178" dir="ltr"><p>Oʻzbekistonning davlat chegarasi va
+		hududi daxlsiz va boʻlinmasdir.</p>
+	</div>
+	<div id="-6445179" dir="ltr"><p>4-modda.</p>
+	</div>
+	<div id="-6445180" dir="ltr"><p>Oʻzbekiston Respublikasining davlat
+		tili oʻzbek tilidir.</p>
+	</div>
+	<div id="-6445181" dir="ltr"><p>Oʻzbekiston Respublikasi oʻz
+		hududida istiqomat qiluvchi millat va elatlarning tillari,
+		urf-odatlari va anʼanalari hurmat qilinishini taʼminlaydi,
+		ularning rivojlanishi uchun sharoit yaratadi.</p>
+	</div>
+	<div id="-6445182" dir="ltr"><p>5-modda.</p>
+	</div>
+	<div id="-6445183" dir="ltr"><p>Oʻzbekiston Respublikasi qonun
+		bilan tasdiqlanadigan oʻz davlat ramzlari — bayrogʻi, gerbi va
+		madhiyasiga ega.</p>
+	</div>
+	<div id="-6445184" dir="ltr"><p>Davlat ramzlari davlat
+		himoyasidadir.</p>
+	</div>
+	<div id="-6445185" dir="ltr"><p>6-modda.</p>
+	</div>
+	<div id="-6445186" dir="ltr"><p>Oʻzbekiston Respublikasining
+		poytaxti — Toshkent shahri.</p>
+	</div>
+	<div id="-6445187" dir="ltr"><p>II bob. Xalq hokimiyatchiligi</p>
+	</div>
+	<div id="-6445188" dir="ltr"><p>7-modda.</p>
+	</div>
+	<div id="-6445221" dir="ltr"><p>Xalq davlat hokimiyatining
+		birdan-bir manbaidir.</p>
+	</div>
+	<div id="-6445222" dir="ltr"><p>Oʻzbekiston Respublikasida davlat
+		hokimiyati xalq manfaatlarini koʻzlab va Oʻzbekiston Respublikasi
+		Konstitutsiyasi hamda uning asosida qabul qilingan qonunlar vakolat
+		bergan organlar tomonidangina amalga oshiriladi.</p>
+	</div>
+	<div id="-6445223" dir="ltr"><p>Konstitutsiyada nazarda tutilmagan
+		tartibda davlat hokimiyati vakolatlarini oʻzlashtirish, hokimiyat
+		organlari faoliyatini toʻxtatib qoʻyish yoki tugatish,
+		hokimiyatning yangi va muvoziy tarkiblarini tuzish Konstitutsiyaga
+		xilof hisoblanadi va qonunga binoan javobgarlikka tortishga asos
+		boʻladi.</p>
+	</div>
+	<div id="-6445224" dir="ltr"><p>8-modda.</p>
+	</div>
+	<div id="-6445225" dir="ltr"><p>Oʻzbekiston xalqini millatidan
+		qatʼi nazar, Oʻzbekiston Respublikasining fuqarolari tashkil
+		etadi.</p>
+	</div>
+	<div id="-6445226" dir="ltr"><p>9-modda.</p>
+	</div>
+	<div id="-6445227" dir="ltr"><p>Jamiyat va davlat hayotining eng
+		muhim masalalari xalq muhokamasiga taqdim etiladi, umumxalq ovoziga
+		— referendumga qoʻyiladi.</p>
+	</div>
+	<div id="-6445228" dir="ltr"><p>Oʻzbekiston Respublikasida
+		referendum oʻtkazish tartibi qonun bilan belgilanadi.</p>
+	</div>
+	<div id="-6445229" dir="ltr"><p>10-modda.</p>
+	</div>
+	<div id="-6445230" dir="ltr"><p>Oʻzbekiston xalqi nomidan faqat u
+		saylagan Oʻzbekiston Respublikasi Oliy Majlisi va Prezidenti ish
+		olib borishi mumkin.</p>
+	</div>
+	<div id="-6445231" dir="ltr"><p>Jamiyatning biron-bir qismi, siyosiy
+		partiya, jamoat birlashmasi, ijtimoiy harakat yoki alohida shaxs
+		Oʻzbekiston xalqi nomidan ish olib borishga haqli emas.</p>
+	</div>
+	<div id="-6445232" dir="ltr"><p>11-modda.</p>
+	</div>
+	<div id="-6445233" dir="ltr"><p>Oʻzbekiston Respublikasi davlat
+		hokimiyatining tizimi — hokimiyatning qonun chiqaruvchi, ijro
+		etuvchi va sud hokimiyatiga boʻlinishi prinsipiga asoslanadi.</p>
+	</div>
+	<div id="-6445234" dir="ltr"><p>12-modda.</p>
+	</div>
+	<div id="-6445235" dir="ltr"><p>Oʻzbekiston Respublikasida ijtimoiy
+		hayot siyosiy institutlar, mafkuralar va fikrlarning xilma-xilligi
+		asosida rivojlanadi.</p>
+	</div>
+	<div id="-6445236" dir="ltr"><p>Hech qaysi mafkura davlat mafkurasi
+		sifatida oʻrnatilishi mumkin emas.</p>
+	</div>
+	<div id="-6445237" dir="ltr"><p>13-modda.</p>
+	</div>
+	<div id="-6445238" dir="ltr"><p>Oʻzbekiston Respublikasida
+		demokratiya umuminsoniy prinsiplarga asoslanadi, ularga koʻra
+		inson, uning hayoti, erkinligi, shaʼni, qadr-qimmati va boshqa
+		ajralmas huquqlari oliy qadriyat hisoblanadi.</p>
+	</div>
+	<div id="-6445239" dir="ltr"><p>Demokratik huquq va erkinliklar
+		Konstitutsiya va qonunlar bilan himoya qilinadi.</p>
+	</div>
+	<div id="-6445240" dir="ltr"><p>14-modda.</p>
+	</div>
+	<div id="-6445241" dir="ltr"><p>Davlat oʻz faoliyatini inson
+		farovonligini va jamiyatning barqaror rivojlanishini taʼminlash
+		maqsadida qonuniylik, ijtimoiy adolat va birdamlik prinsiplari
+		asosida amalga oshiradi.</p>
+	</div>
+	<div id="-6445242" dir="ltr"><p>III bob. Konstitutsiya va qonunning
+		ustunligi</p>
+	</div>
+	<div id="-6445243" dir="ltr"><p>15-modda.</p>
+	</div>
+	<div id="-6445244" dir="ltr"><p>Oʻzbekiston Respublikasida
+		Oʻzbekiston Respublikasi Konstitutsiyasi va qonunlarining
+		ustunligi soʻzsiz tan olinadi.</p>
+	</div>
+	<div id="-6445245" dir="ltr"><p>Oʻzbekiston Respublikasi
+		Konstitutsiyasi mamlakatning butun hududida oliy yuridik kuchga
+		ega, toʻgʻridan-toʻgʻri amal qiladi va yagona huquqiy makonning
+		asosini tashkil etadi.</p>
+	</div>
+	<div id="-6445246" dir="ltr"><p>Oʻzbekiston Respublikasining
+		xalqaro shartnomalari xalqaro huquqning umumeʼtirof etilgan
+		prinsip va normalari bilan bir qatorda Oʻzbekiston Respublikasi
+		huquqiy tizimining tarkibiy qismidir.</p>
+	</div>
+	<div id="-6445247" dir="ltr"><p>Agar Oʻzbekiston Respublikasining
+		xalqaro shartnomasida Oʻzbekiston Respublikasining qonunida
+		nazarda tutilganidan boshqacha qoidalar belgilangan boʻlsa,
+		Oʻzbekiston Respublikasining xalqaro shartnomasi qoidalari
+		qoʻllaniladi.</p>
+	</div>
+	<div id="-6445248" dir="ltr"><p>Davlat va uning organlari, boshqa
+		tashkilotlar, mansabdor shaxslar, fuqarolik jamiyati institutlari
+		hamda fuqarolar Konstitutsiya va qonunlarga muvofiq ish
+		yuritadilar.</p>
+	</div>
+	<div id="-6445249" dir="ltr"><p>16-modda.</p>
+	</div>
+	<div id="-6445250" dir="ltr"><p>Ushbu Konstitutsiyaning birorta
+		qoidasi Oʻzbekiston Respublikasining huquq va manfaatlariga, ushbu
+		Konstitutsiyaning birinchi boʻlimida nazarda tutilgan asosiy
+		prinsip va normalarga zarar yetkazadigan tarzda talqin etilishi
+		mumkin emas.</p>
+	</div>
+	<div id="-6445251" dir="ltr"><p>Oʻzbekiston Respublikasining
+		qonunlari va boshqa normativ-huquqiy hujjatlari Oʻzbekiston
+		Respublikasining Konstitutsiyasi asosida va uni ijro etish
+		yuzasidan qabul qilinadi. Birorta qonun yoki boshqa
+		normativ-huquqiy hujjat Konstitutsiyaning prinsip va normalariga
+		zid boʻlishi mumkin emas.</p>
+	</div>
+	<div id="-6445252" dir="ltr"><p>IV bob. Tashqi siyosat</p>
+	</div>
+	<div id="-6445253" dir="ltr"><p>17-modda.</p>
+	</div>
+	<div id="-6445357" dir="ltr"><p>Oʻzbekiston Respublikasi xalqaro
+		munosabatlarning toʻla huquqli subyektidir.</p>
+	</div>
+	<div id="-6445358" dir="ltr"><p>Oʻzbekistonning tashqi siyosati
+		davlatlarning suveren tengligi, kuch ishlatmaslik yoki kuch bilan
+		tahdid qilmaslik, chegaralarning buzilmasligi, davlatlarning
+		hududiy yaxlitligi, nizolarni tinch yoʻl bilan hal etish, boshqa
+		davlatlarning ichki ishlariga aralashmaslik prinsiplariga hamda
+		xalqaro huquqning umumeʼtirof etilgan boshqa prinsip va
+		normalariga asoslanadi.</p>
+	</div>
+	<div id="-6445359" dir="ltr"><p>18-modda.</p>
+	</div>
+	<div id="-6445360" dir="ltr"><p>Oʻzbekiston Respublikasi davlatlar
+		va xalqaro tashkilotlar bilan ikki va koʻp tomonlama
+		munosabatlarni har taraflama rivojlantirishga qaratilgan
+		tinchliksevar tashqi siyosatni amalga oshiradi.</p>
+	</div>
+	<div id="-6445361" dir="ltr"><p>Oʻzbekiston Respublikasi
+		davlatning, xalqning oliy manfaatlaridan, uning farovonligi va
+		xavfsizligidan kelib chiqqan holda ittifoqlar tuzishi,
+		hamdoʻstliklarga va boshqa davlatlararo tuzilmalarga kirishi hamda
+		ulardan chiqishi mumkin.</p>
+	</div>
+	<div id="-6445362" dir="ltr"><p>IKKINCHI BOʻLIM. INSON VA
+		FUQARONING ASOSIY HUQUQLARI, ERKINLIKLARI VA BURCHLARI</p>
+	</div>
+	<div id="-6445363" dir="ltr"><p>V bob. Umumiy qoidalar</p>
+	</div>
+	<div id="-6445364" dir="ltr"><p>19-modda.</p>
+	</div>
+	<div id="-6445365" dir="ltr"><p>Oʻzbekiston Respublikasida
+		insonning huquq va erkinliklari xalqaro huquqning umumeʼtirof
+		etilgan normalariga binoan hamda ushbu Konstitutsiyaga muvofiq
+		eʼtirof etiladi va kafolatlanadi. Inson huquq va erkinliklari har
+		kimga tugʻilganidan boshlab tegishli boʻladi.</p>
+	</div>
+	<div id="-6445366" dir="ltr"><p>Oʻzbekiston Respublikasida barcha
+		fuqarolar bir xil huquq va erkinliklarga ega boʻlib, jinsi, irqi,
+		millati, tili, dini, eʼtiqodi, ijtimoiy kelib chiqishi, ijtimoiy
+		mavqeyidan qatʼi nazar, qonun oldida tengdirlar.</p>
+	</div>
+	<div id="-6445367" dir="ltr"><p>Imtiyozlar faqat qonunga muvofiq
+		belgilanadi va ijtimoiy adolat prinsiplariga mos boʻlishi shart.</p>
+	</div>
+	<div id="-6445369" dir="ltr"><p>20-modda.</p>
+	</div>
+	<div id="-6445371" dir="ltr"><p>Oʻzbekiston Respublikasi fuqarosi
+		va davlat bir-biriga nisbatan oʻzaro huquq va majburiyatlar bilan
+		bogʻliqdir.</p>
+	</div>
+	<div id="-6445373" dir="ltr"><p>Insonning Konstitutsiya va
+		qonunlarda mustahkamlab qoʻyilgan huquq va erkinliklari daxlsizdir
+		hamda ulardan sud qarorisiz mahrum etishga yoki ularni cheklab
+		qoʻyishga hech kim haqli emas.</p>
+	</div>
+	<div id="-6445374" dir="ltr"><p>Insonning huquq va erkinliklari
+		bevosita amal qiladi. Insonning huquq va erkinliklari qonunlarning,
+		davlat organlari, fuqarolarning oʻzini oʻzi boshqarish organlari,
+		ularning mansabdor shaxslari faoliyatining mohiyati va mazmunini
+		belgilaydi.</p>
+	</div>
+	<div id="-6445375" dir="ltr"><p>Davlat organlari tomonidan insonga
+		nisbatan qoʻllaniladigan huquqiy taʼsir choralari mutanosiblik
+		prinsipiga asoslanishi va qonunlarda nazarda tutilgan maqsadlarga
+		erishish uchun yetarli boʻlishi kerak.</p>
+	</div>
+	<div id="-6445377" dir="ltr"><p>Inson bilan davlat organlarining
+		oʻzaro munosabatlarida yuzaga keladigan qonunchilikdagi barcha
+		ziddiyatlar va noaniqliklar inson foydasiga talqin etiladi.</p>
+	</div>
+	<div id="-6445381" dir="ltr"><p>21-modda.</p>
+	</div>
+	<div id="-6445383" dir="ltr"><p>Har bir inson oʻz shaxsini erkin
+		kamol toptirish huquqiga ega. Hech kimga uning roziligisiz
+		qonunchilikda belgilanmagan majburiyat yuklatilishi mumkin emas.</p>
+	</div>
+	<div id="-6445385" dir="ltr"><p>Inson oʻz huquq va erkinliklarini
+		amalga oshirishda boshqa shaxslarning, jamiyat hamda davlatning
+		huquqlari, erkinliklari va qonuniy manfaatlariga putur
+		yetkazmasligi shart.</p>
+	</div>
+	<div id="-6445387" dir="ltr"><p>Insonning huquq va erkinliklari
+		faqat qonunga muvofiq va faqat konstitutsiyaviy tuzumni, aholining
+		sogʻligʻini, ijtimoiy axloqni, boshqa shaxslarning huquq va
+		erkinliklarini himoya qilish, jamoat xavfsizligini hamda jamoat
+		tartibini taʼminlash maqsadida zarur boʻlgan doirada cheklanishi
+		mumkin.</p>
+	</div>
+	<div id="-6445390" dir="ltr"><p>VI bob. Fuqarolik</p>
+	</div>
+	<div id="-6445392" dir="ltr"><p>22-modda.</p>
+	</div>
+	<div id="-6445395" dir="ltr"><p>Oʻzbekiston Respublikasining butun
+		hududida yagona fuqarolik oʻrnatiladi.</p>
+	</div>
+	<div id="-6445397" dir="ltr"><p>Oʻzbekiston Respublikasining
+		fuqaroligi, unga qanday asoslarda ega boʻlganlikdan qatʼi nazar,
+		hamma uchun tengdir.</p>
+	</div>
+	<div id="-6445399" dir="ltr"><p>Qoraqalpogʻiston Respublikasining
+		fuqarosi ayni vaqtda Oʻzbekiston Respublikasining fuqarosi
+		hisoblanadi.</p>
+	</div>
+	<div id="-6445401" dir="ltr"><p>Fuqarolikka ega boʻlish va uni
+		yoʻqotish asoslari hamda tartibi qonun bilan belgilanadi.</p>
+	</div>
+	<div id="-6445404" dir="ltr"><p>23-modda.</p>
+	</div>
+	<div id="-6445407" dir="ltr"><p>Oʻzbekiston Respublikasi oʻz
+		hududida ham, uning tashqarisida ham oʻz fuqarolarini himoya
+		qilish va ularga homiylik koʻrsatishni kafolatlaydi.</p>
+	</div>
+	<div id="-6445410" dir="ltr"><p>Oʻzbekiston Respublikasi fuqarosi
+		Oʻzbekistondan tashqariga majburiy chiqarib yuborilishi yoki
+		boshqa davlatga berib yuborilishi mumkin emas.</p>
+	</div>
+	<div id="-6445413" dir="ltr"><p>Davlat xorijda yashayotgan
+		vatandoshlar bilan aloqalarni saqlab qolish hamda rivojlantirish
+		toʻgʻrisida xalqaro huquq normalariga muvofiq gʻamxoʻrlik
+		qiladi.</p>
+	</div>
+	<div id="-6445415" dir="ltr"><p>24-modda.</p>
+	</div>
+	<div id="-6445418" dir="ltr"><p>Oʻzbekiston Respublikasi hududidagi
+		chet el fuqarolarining va fuqaroligi boʻlmagan shaxslarning huquq
+		va erkinliklari xalqaro huquq normalariga muvofiq taʼminlanadi.
+		Ular Oʻzbekiston Respublikasining Konstitutsiyasi, qonunlari va
+		xalqaro shartnomalari bilan belgilangan burchlarni ado etadilar.</p>
+	</div>
+	<div id="-6445421" dir="ltr"><p>VII bob. Shaxsiy huquq va
+		erkinliklar</p>
+	</div>
+	<div id="-6445423" dir="ltr"><p>25-modda.</p>
+	</div>
+	<div id="-6445425" dir="ltr"><p>Yashash huquqi har bir insonning
+		ajralmas huquqidir va u qonun bilan muhofaza qilinadi. Inson
+		hayotiga suiqasd qilish eng ogʻir jinoyatdir.</p>
+	</div>
+	<div id="-6445427" dir="ltr"><p>Oʻzbekiston Respublikasida oʻlim
+		jazosi taqiqlanadi.</p>
+	</div>
+	<div id="-6445428" dir="ltr"><p>26-modda.</p>
+	</div>
+	<div id="-6445430" dir="ltr"><p>Insonning shaʼni va qadr-qimmati
+		daxlsizdir. Hech narsa ularni kamsitish uchun asos boʻlishi mumkin
+		emas. 
+		</p>
+	</div>
+	<div id="-6445432" dir="ltr"><p>Hech kim qiynoqqa solinishi,
+		zoʻravonlikka, boshqa shafqatsiz, gʻayriinsoniy yoki inson
+		qadr-qimmatini kamsituvchi muomalaga yoxud jazoga duchor etilishi
+		mumkin emas. 
+		</p>
+	</div>
+	<div id="-6445433" dir="ltr"><p>Hech kimda uning roziligisiz tibbiy
+		va ilmiy tajribalar oʻtkazilishi mumkin emas.</p>
+	</div>
+	<div id="-6445434" dir="ltr"><p>27-modda.</p>
+	</div>
+	<div id="-6445477" dir="ltr"><p>Har kim erkinlik va shaxsiy
+		daxlsizlik huquqiga ega.</p>
+	</div>
+	<div id="-6445506" dir="ltr"><p>Hech kim qonunga asoslanmagan holda
+		hibsga olinishi, ushlab turilishi, qamoqqa olinishi, qamoqda
+		saqlanishi yoki uning ozodligi boshqacha tarzda cheklanishi mumkin
+		emas.</p>
+	</div>
+	<div id="-6445507" dir="ltr"><p>Hibsga olishga, qamoqqa olishga va
+		qamoqda saqlashga faqat sudning qaroriga koʻra yoʻl qoʻyiladi.
+		Shaxs sudning qarorisiz qirq sakkiz soatdan ortiq muddat ushlab
+		turilishi mumkin emas.</p>
+	</div>
+	<div id="-6445508" dir="ltr"><p>Shaxsni ushlash chogʻida unga
+		tushunarli tilda uning huquqlari va ushlab turilishi asoslari
+		tushuntirilishi shart.</p>
+	</div>
+	<div id="-6445509" dir="ltr"><p>28-modda.</p>
+	</div>
+	<div id="-6445510" dir="ltr"><p>Jinoyat sodir etganlikda
+		ayblanayotgan shaxs uning aybi qonunda nazarda tutilgan tartibda
+		oshkora sud muhokamasi yoʻli bilan isbotlanmaguncha va sudning
+		qonuniy kuchga kirgan hukmi bilan aniqlanmaguncha aybsiz deb
+		hisoblanadi. Ayblanuvchiga oʻzini himoya qilish uchun barcha
+		imkoniyatlar taʼminlanadi.</p>
+	</div>
+	<div id="-6445512" dir="ltr"><p>Aybdorlikka oid barcha shubhalar,
+		agar ularni bartaraf etish imkoniyatlari tugagan boʻlsa, gumon
+		qilinuvchining, ayblanuvchining, sudlanuvchining yoki mahkumning
+		foydasiga hal qilinishi kerak.</p>
+	</div>
+	<div id="-6445513" dir="ltr"><p>Gumon qilinuvchi, ayblanuvchi yoki
+		sudlanuvchi oʻzining aybsizligini isbotlashi shart emas va
+		istalgan vaqtda sukut saqlash huquqidan foydalanishi mumkin.</p>
+	</div>
+	<div id="-6445514" dir="ltr"><p>Hech kim oʻziga va yaqin
+		qarindoshlariga qarshi guvohlik berishga majbur emas.</p>
+	</div>
+	<div id="-6445515" dir="ltr"><p>Agar shaxsning oʻz aybini tan
+		olganligi unga qarshi yagona dalil boʻlsa, u aybdor deb topilishi
+		yoki jazoga tortilishi mumkin emas.</p>
+	</div>
+	<div id="-6445516" dir="ltr"><p>Ozodlikdan mahrum etilgan shaxslar
+		oʻziga nisbatan insoniy muomalada boʻlinishi hamda inson shaxsiga
+		xos boʻlgan shaʼni va qadr-qimmati hurmat qilinishi huquqiga ega.</p>
+	</div>
+	<div id="-6445517" dir="ltr"><p>Shaxsning sudlanganligi va bundan
+		kelib chiqadigan huquqiy oqibatlar uning qarindoshlari huquqlarini
+		cheklash uchun asos boʻlishi mumkin emas.</p>
+	</div>
+	<div id="-6445518" dir="ltr"><p>29-modda.</p>
+	</div>
+	<div id="-6445519" dir="ltr"><p>Har kimga malakali yuridik yordam
+		olish huquqi kafolatlanadi. Qonunda nazarda tutilgan hollarda
+		yuridik yordam davlat hisobidan koʻrsatiladi.</p>
+	</div>
+	<div id="-6445520" dir="ltr"><p>Har bir shaxs jinoyat protsessining
+		har qanday bosqichida, shaxs ushlanganida esa uning harakatlanish
+		erkinligi huquqi amalda cheklangan paytdan eʼtiboran oʻz
+		tanloviga koʻra advokat yordamidan foydalanish huquqiga ega.</p>
+	</div>
+	<div id="-6445522" dir="ltr"><p>Gumon qilinuvchi, ayblanuvchi yoki
+		sudlanuvchi ayblovning mohiyati va asoslari toʻgʻrisida xabardor
+		qilinish, unga qarshi yoki uning foydasiga guvohlik berayotgan
+		shaxslarning soʻroq qilinishini talab etish, tarjimon yordamidan
+		foydalanish huquqiga ega.</p>
+	</div>
+	<div id="-6445523" dir="ltr"><p>Qonunni buzgan holda olingan
+		dalillardan odil sudlovni amalga oshirish chogʻida foydalanishga
+		yoʻl qoʻyilmaydi.</p>
+	</div>
+	<div id="-6445524" dir="ltr"><p>Jinoyat uchun hukm qilingan har kim
+		qonunda belgilangan tartibda hukmning yuqori turuvchi sud tomonidan
+		qayta koʻrib chiqilishi huquqiga, shuningdek afv etish yoki jazoni
+		yengillashtirish toʻgʻrisida iltimos qilish huquqiga ega.</p>
+	</div>
+	<div id="-6445525" dir="ltr"><p>Huquqbuzarliklardan
+		jabrlanganlarning huquqlari qonun bilan muhofaza qilinadi. Davlat
+		jabrlanganlarga himoyalanishni va odil sudlovdan foydalanishni
+		taʼminlaydi, ularga yetkazilgan zararning oʻrni qoplanishi uchun
+		shart-sharoitlar yaratadi.</p>
+	</div>
+	<div id="-6445526" dir="ltr"><p>30-modda.</p>
+	</div>
+	<div id="-6445527" dir="ltr"><p>Hech kim rasmiy eʼlon qilinmagan
+		qonun asosida hukm qilinishi, jazoga tortilishi, mol-mulkidan yoki
+		biron-bir huquqidan mahrum etilishi mumkin emas.</p>
+	</div>
+	<div id="-6445528" dir="ltr"><p>Hech kim ayni bir jinoyat uchun
+		takroran hukm qilinishi mumkin emas.</p>
+	</div>
+	<div id="-6445529" dir="ltr"><p>31-modda.</p>
+	</div>
+	<div id="-6445531" dir="ltr"><p>Har bir inson shaxsiy hayotining
+		daxlsizligi, shaxsiy va oilaviy sirga ega boʻlish, oʻz shaʼni va
+		qadr-qimmatini himoya qilish huquqiga ega.</p>
+	</div>
+	<div id="-6445533" dir="ltr"><p>Har kim yozishmalari, telefon orqali
+		soʻzlashuvlari, pochta, elektron va boshqa xabarlari sir
+		saqlanishi huquqiga ega. Ushbu huquqning cheklanishiga faqat
+		qonunga muvofiq va sudning qaroriga asosan yoʻl qoʻyiladi.</p>
+	</div>
+	<div id="-6445534" dir="ltr"><p>Har kim oʻz shaxsiga doir
+		maʼlumotlarning himoya qilinishi huquqiga, shuningdek notoʻgʻri
+		maʼlumotlarning tuzatilishini, oʻzi toʻgʻrisida qonunga xilof
+		yoʻl bilan toʻplangan yoki huquqiy asoslarga ega boʻlmay qolgan
+		maʼlumotlarning yoʻq qilinishini talab qilish huquqiga ega.</p>
+	</div>
+	<div id="-6445536" dir="ltr"><p>Har kim uy-joy daxlsizligi huquqiga
+		ega.</p>
+	</div>
+	<div id="-6445537" dir="ltr"><p>Hech kim uy-joyga unda yashovchi
+		shaxslarning xohishiga qarshi kirishi mumkin emas. Uy-joyga
+		kirishga, shuningdek unda olib qoʻyishni va koʻzdan kechirishni
+		oʻtkazishga faqat qonunda nazarda tutilgan hollarda va tartibda
+		yoʻl qoʻyiladi. Uy-joyda tintuv oʻtkazishga faqat qonunga
+		muvofiq va sudning qaroriga asosan yoʻl qoʻyiladi. 
+		</p>
+	</div>
+	<div id="-6445538" dir="ltr"><p>32-modda.</p>
+	</div>
+	<div id="-6445539" dir="ltr"><p>Qonuniy asoslarda Oʻzbekiston
+		Respublikasi hududida boʻlib turgan har kim mamlakat boʻylab
+		erkin harakatlanish, turar va yashash joyini tanlash huquqiga ega,
+		bundan qonunda belgilangan cheklovlar mustasno.</p>
+	</div>
+	<div id="-6445541" dir="ltr"><p>Har kim Oʻzbekistondan tashqariga
+		erkin chiqish huquqiga ega, bundan qonunda belgilangan cheklovlar
+		mustasno. Oʻzbekiston Respublikasi fuqarosi Oʻzbekistonga
+		toʻsqinliksiz qaytish huquqiga ega.</p>
+	</div>
+	<div id="-6445542" dir="ltr"><p>33-modda.</p>
+	</div>
+	<div id="-6445543" dir="ltr"><p>Har kim fikrlash, soʻz va eʼtiqod
+		erkinligi huquqiga ega.</p>
+	</div>
+	<div id="-6445544" dir="ltr"><p>Har kim istalgan axborotni izlash,
+		olish va tarqatish huquqiga ega.</p>
+	</div>
+	<div id="-6445545" dir="ltr"><p>Davlat Internet jahon axborot
+		tarmogʻidan foydalanishni taʼminlash uchun shart-sharoitlar
+		yaratadi.</p>
+	</div>
+	<div id="-6445546" dir="ltr"><p>Axborotni izlash, olish va
+		tarqatishga boʻlgan huquqni cheklashga faqat qonunga muvofiq hamda
+		faqat konstitutsiyaviy tuzumni, aholining sogʻligʻini, ijtimoiy
+		axloqni, boshqa shaxslarning huquq va erkinliklarini himoya qilish,
+		jamoat xavfsizligini hamda jamoat tartibini taʼminlash, shuningdek
+		davlat sirlari yoki qonun bilan qoʻriqlanadigan boshqa sir oshkor
+		etilishining oldini olish maqsadida zarur boʻlgan doirada yoʻl
+		qoʻyiladi.</p>
+	</div>
+	<div id="-6445547" dir="ltr"><p>34-modda.</p>
+	</div>
+	<div id="-6445548" dir="ltr"><p>Davlat organlari va tashkilotlari,
+		fuqarolarning oʻzini oʻzi boshqarish organlari, ularning
+		mansabdor shaxslari har kimga oʻz huquqlari hamda qonuniy
+		manfaatlariga daxldor boʻlgan hujjatlar, qarorlar va boshqa
+		materiallar bilan tanishish imkoniyatini taʼminlashi shart.</p>
+	</div>
+	<div id="-6445549" dir="ltr"><p>35-modda.</p>
+	</div>
+	<div id="-6445550" dir="ltr"><p>Hamma uchun vijdon erkinligi
+		kafolatlanadi. Har kim xohlagan dinga eʼtiqod qilish yoki hech
+		qaysi dinga eʼtiqod qilmaslik huquqiga ega. Diniy qarashlarni
+		majburan singdirishga yoʻl qoʻyilmaydi.</p>
+	</div>
+	<div id="-6445551" dir="ltr"><p>VIII bob. Siyosiy huquqlar</p>
+	</div>
+	<div id="-6445552" dir="ltr"><p>36-modda.</p>
+	</div>
+	<div id="-6445553" dir="ltr"><p>Oʻzbekiston Respublikasining
+		fuqarolari jamiyat va davlat ishlarini boshqarishda bevosita hamda
+		oʻz vakillari orqali ishtirok etish huquqiga ega. Bunday ishtirok
+		etish oʻzini oʻzi boshqarish, referendumlar oʻtkazish va davlat
+		organlarini demokratik tarzda shakllantirish, shuningdek davlat
+		organlarining faoliyati ustidan jamoatchilik nazorati vositasida
+		amalga oshiriladi. 
+		</p>
+	</div>
+	<div id="-6445554" dir="ltr"><p>Davlat organlarining faoliyati
+		ustidan jamoatchilik nazoratini amalga oshirish tartibi qonun bilan
+		belgilanadi.</p>
+	</div>
+	<div id="-6445556" dir="ltr"><p>37-modda.</p>
+	</div>
+	<div id="-6445557" dir="ltr"><p>Oʻzbekiston Respublikasining
+		fuqarolari davlat xizmatiga kirishda teng huquqqa egadirlar.</p>
+	</div>
+	<div id="-6445558" dir="ltr"><p>Davlat xizmatini oʻtash bilan
+		bogʻliq cheklovlar qonun bilan belgilanadi.</p>
+	</div>
+	<div id="-6445559" dir="ltr"><p>38-modda.</p>
+	</div>
+	<div id="-6445561" dir="ltr"><p>Fuqarolar oʻz ijtimoiy
+		faolliklarini Oʻzbekiston Respublikasi qonunlariga muvofiq
+		mitinglar, yigʻilishlar va namoyishlar shaklida amalga oshirish
+		huquqiga ega. Hokimiyat organlari faqat xavfsizlik nuqtai
+		nazaridangina bunday tadbirlar oʻtkazilishini toʻxtatish yoki
+		taqiqlash huquqiga ega.9</p>
+	</div>
+	<div id="-6445562" dir="ltr"><p>39-modda.</p>
+	</div>
+	<div id="-6445565" dir="ltr"><p>Oʻzbekiston Respublikasi fuqarolari
+		kasaba uyushmalariga, siyosiy partiyalarga va boshqa jamoat
+		birlashmalariga uyushish, ommaviy harakatlarda ishtirok etish
+		huquqiga egadirlar.</p>
+	</div>
+	<div id="-6445566" dir="ltr"><p>Siyosiy partiyalarda, jamoat
+		birlashmalarida, ommaviy harakatlarda, shuningdek davlat hokimiyati
+		vakillik organlarida ozchilikni tashkil etuvchi muxolifatchi
+		shaxslarning huquqlari, erkinliklari va qadr-qimmatini hech kim
+		kamsitishi mumkin emas.</p>
+	</div>
+	<div id="-6445568" dir="ltr"><p>40-modda.</p>
+	</div>
+	<div id="-6445570" dir="ltr"><p>Har kim bevosita oʻzi va boshqalar
+		bilan birgalikda davlat organlariga hamda tashkilotlariga,
+		fuqarolarning oʻzini oʻzi boshqarish organlariga, mansabdor
+		shaxslarga yoki xalq vakillariga arizalar, takliflar va shikoyatlar
+		bilan murojaat qilish huquqiga ega.</p>
+	</div>
+	<div id="-6445571" dir="ltr"><p>Arizalar, takliflar va shikoyatlar
+		qonunda belgilangan tartibda va muddatlarda koʻrib chiqilishi
+		shart.</p>
+	</div>
+	<div id="-6445572" dir="ltr"><p>IX bob. Iqtisodiy, ijtimoiy, madaniy
+		va ekologik huquqlar</p>
+	</div>
+	<div id="-6445574" dir="ltr"><p>41-modda.</p>
+	</div>
+	<div id="-6445575" dir="ltr"><p>Har bir shaxs mulkdor boʻlishga
+		haqli.</p>
+	</div>
+	<div id="-6445577" dir="ltr"><p>Bank operatsiyalarining,
+		omonatlarning va hisobvaraqlarning sir tutilishi, shuningdek meros
+		huquqi qonun bilan kafolatlanadi.</p>
+	</div>
+	<div id="-6445578" dir="ltr"><p>42-modda.</p>
+	</div>
+	<div id="-6445579" dir="ltr"><p>Har kim munosib mehnat qilish, kasb
+		va faoliyat turini erkin tanlash, xavfsizlik va gigiyena
+		talablariga javob beradigan qulay mehnat sharoitlarida ishlash,
+		mehnati uchun hech qanday kamsitishlarsiz hamda mehnatga haq
+		toʻlashning belgilangan eng kam miqdoridan kam boʻlmagan tarzda
+		adolatli haq olish, shuningdek ishsizlikdan qonunda belgilangan
+		tartibda himoyalanish huquqiga ega.</p>
+	</div>
+	<div id="-6445581" dir="ltr"><p>Mehnatga haq toʻlashning eng kam
+		miqdori insonning munosib turmush darajasini taʼminlash zarurati
+		hisobga olingan holda belgilanadi.</p>
+	</div>
+	<div id="-6445582" dir="ltr"><p>Homiladorligi yoki bolasi borligi
+		sababli ayollarni ishga qabul qilishni rad etish, ishdan boʻshatish
+		va ularning ish haqini kamaytirish taqiqlanadi.</p>
+	</div>
+	<div id="-6445583" dir="ltr"><p>43-modda.</p>
+	</div>
+	<div id="-6445584" dir="ltr"><p>Davlat fuqarolarning bandligini
+		taʼminlash, ularni ishsizlikdan himoya qilish, shuningdek
+		kambagʻallikni qisqartirish choralarini koʻradi.</p>
+	</div>
+	<div id="-6445585" dir="ltr"><p>Davlat fuqarolarning kasbiy
+		tayyorgarligini va qayta tayyorlanishini tashkil etadi hamda
+		ragʻbatlantiradi.</p>
+	</div>
+	<div id="-6445586" dir="ltr"><p>44-modda.</p>
+	</div>
+	<div id="-6445587" dir="ltr"><p>Sud qarori bilan tayinlangan jazoni
+		ijro etish tartibidan yoxud qonunda nazarda tutilgan boshqa
+		hollardan tashqari majburiy mehnat taqiqlanadi.</p>
+	</div>
+	<div id="-6445588" dir="ltr"><p>Bolalar mehnatining bolaning
+		sogʻligʻiga, xavfsizligiga, axloqiga, aqliy va jismoniy
+		rivojlanishiga xavf soluvchi, shu jumladan uning taʼlim olishiga
+		toʻsqinlik qiluvchi har qanday shakllari taqiqlanadi.</p>
+	</div>
+	<div id="-6445589" dir="ltr"><p>45-modda.</p>
+	</div>
+	<div id="-6445590" dir="ltr"><p>Har kim dam olish huquqiga ega.</p>
+	</div>
+	<div id="-6445592" dir="ltr"><p>Yollanib ishlovchilarga dam olish
+		huquqi ish vaqtining davomiyligini, dam olish va ishlanmaydigan
+		bayram kunlarini, haq toʻlanadigan har yilgi mehnat taʼtilini
+		belgilash orqali taʼminlanadi.</p>
+	</div>
+	<div id="-6445593" dir="ltr"><p>46-modda.</p>
+	</div>
+	<div id="-6445594" dir="ltr"><p>Har kim qariganda, mehnat
+		qobiliyatini yoʻqotganda, ishsizlikda, shuningdek boquvchisini
+		yoʻqotganda va qonunda nazarda tutilgan boshqa hollarda ijtimoiy
+		taʼminot huquqiga ega.</p>
+	</div>
+	<div id="-6445596" dir="ltr"><p>Qonunda belgilangan pensiyalar,
+		nafaqalar va boshqa turdagi ijtimoiy yordamning miqdorlari rasman
+		belgilangan eng kam isteʼmol xarajatlaridan oz boʻlishi mumkin
+		emas.</p>
+	</div>
+	<div id="-6445597" dir="ltr"><p>47-modda.</p>
+	</div>
+	<div id="-6445598" dir="ltr"><p>Har kim uy-joyli boʻlish huquqiga
+		ega.</p>
+	</div>
+	<div id="-6445599" dir="ltr"><p>Hech kim sudning qarorisiz va
+		qonunga zid tarzda uy-joyidan mahrum etilishi mumkin emas.
+		Uy-joyidan mahrum etilgan mulkdorga uy-joyning qiymati hamda u
+		koʻrgan zararlarning oʻrni qonunda nazarda tutilgan hollarda va
+		tartibda oldindan hamda teng qiymatda qoplanishi taʼminlanadi.</p>
+	</div>
+	<div id="-6445601" dir="ltr"><p>Davlat uy-joy qurilishini
+		ragʻbatlantiradi va uy-joyga boʻlgan huquqning amalga oshirilishi
+		uchun shart-sharoitlar yaratadi.</p>
+	</div>
+	<div id="-6445602" dir="ltr"><p>Aholining ijtimoiy jihatdan
+		ehtiyojmand toifalarini uy-joy bilan taʼminlash tartibi qonun
+		bilan belgilanadi.</p>
+	</div>
+	<div id="-6445603" dir="ltr"><p>48-modda.</p>
+	</div>
+	<div id="-6445604" dir="ltr"><p>Har kim sogʻligʻini saqlash va
+		malakali tibbiy xizmatdan foydalanish huquqiga ega.</p>
+	</div>
+	<div id="-6445605" dir="ltr"><p>Oʻzbekiston Respublikasi fuqarolari
+		tibbiy yordamning kafolatlangan hajmini qonunda belgilangan
+		tartibda davlat hisobidan olishga haqli.</p>
+	</div>
+	<div id="-6445606" dir="ltr"><p>Davlat sogʻliqni saqlash tizimini,
+		uning davlat va nodavlat shakllarini, tibbiy sugʻurtaning har xil
+		turlarini rivojlantirish, aholining sanitariya-epidemiologik
+		osoyishtaligini taʼminlash choralarini koʻradi.</p>
+	</div>
+	<div id="-6445607" dir="ltr"><p>Davlat jismoniy tarbiya va sportni
+		rivojlantirish, aholi oʻrtasida sogʻlom turmush tarzini
+		shakllantirish uchun shart-sharoitlar yaratadi.</p>
+	</div>
+	<div id="-6445608" dir="ltr"><p>49-modda.</p>
+	</div>
+	<div id="-6445609" dir="ltr"><p>Har kim qulay atrof-muhitga, uning
+		holati toʻgʻrisidagi ishonchli axborotga ega boʻlish huquqiga
+		ega.</p>
+	</div>
+	<div id="-6445610" dir="ltr"><p>Davlat fuqarolarning ekologik
+		huquqlarini taʼminlash va atrof-muhitga zararli taʼsir
+		koʻrsatilishiga yoʻl qoʻymaslik maqsadida shaharsozlik faoliyati
+		sohasida jamoatchilik nazoratini amalga oshirish uchun
+		shart-sharoitlar yaratadi.</p>
+	</div>
+	<div id="-6445611" dir="ltr"><p>Shaharsozlik hujjatlarining
+		loyihalari qonunda belgilangan tartibda jamoatchilik muhokamasidan
+		oʻtkaziladi.</p>
+	</div>
+	<div id="-6445612" dir="ltr"><p>Davlat barqaror rivojlanish
+		prinsipiga muvofiq, atrof-muhitni yaxshilash, tiklash va muhofaza
+		qilish, ekologik muvozanatni saqlash boʻyicha chora-tadbirlarni
+		amalga oshiradi.</p>
+	</div>
+	<div id="-6445613" dir="ltr"><p>Davlat Orolboʻyi mintaqasining
+		ekologik tizimini muhofaza qilish hamda tiklash, mintaqani ijtimoiy
+		va iqtisodiy jihatdan rivojlantirish yuzasidan choralar koʻradi.</p>
+	</div>
+	<div id="-6445614" dir="ltr"><p>50-modda.</p>
+	</div>
+	<div id="-6445615" dir="ltr"><p>Har kim taʼlim olish huquqiga ega.</p>
+	</div>
+	<div id="-6445617" dir="ltr"><p>Davlat uzluksiz taʼlim tizimi,
+		uning har xil turlari va shakllari, davlat va nodavlat taʼlim
+		tashkilotlari rivojlanishini taʼminlaydi.</p>
+	</div>
+	<div id="-6445619" dir="ltr"><p>Davlat maktabgacha taʼlim va
+		tarbiyani rivojlantirish uchun shart-sharoitlar yaratadi. 
+		</p>
+	</div>
+	<div id="-6445621" dir="ltr"><p>Davlat bepul umumiy oʻrta taʼlim
+		va boshlangʻich professional taʼlim olishni kafolatlaydi. Umumiy
+		oʻrta taʼlim majburiydir.</p>
+	</div>
+	<div id="-6445622" dir="ltr"><p>Maktabgacha taʼlim va tarbiya,
+		umumiy oʻrta taʼlim davlat nazoratidadir.</p>
+	</div>
+	<div id="-6445624" dir="ltr"><p>Taʼlim tashkilotlarida alohida
+		taʼlim ehtiyojlariga ega boʻlgan bolalar uchun inklyuziv taʼlim
+		va tarbiya taʼminlanadi.</p>
+	</div>
+	<div id="-6445625" dir="ltr"><p>51-modda.</p>
+	</div>
+	<div id="-6445626" dir="ltr"><p>Fuqarolar davlat taʼlim
+		tashkilotlarida tanlov asosida davlat hisobidan oliy maʼlumot
+		olishga haqli.</p>
+	</div>
+	<div id="-6445627" dir="ltr"><p>Oliy taʼlim tashkilotlari qonunga
+		muvofiq akademik erkinlik, oʻzini oʻzi boshqarish, tadqiqotlar
+		oʻtkazish va oʻqitish erkinligi huquqiga ega.</p>
+	</div>
+	<div id="-6445629" dir="ltr"><p>52-modda.</p>
+	</div>
+	<div id="-6445630" dir="ltr"><p>Oʻzbekiston Respublikasida
+		oʻqituvchining mehnati jamiyat va davlatni rivojlantirish,
+		sogʻlom, barkamol avlodni shakllantirish hamda tarbiyalash,
+		xalqning maʼnaviy va madaniy salohiyatini saqlash hamda
+		boyitishning asosi sifatida eʼtirof etiladi.</p>
+	</div>
+	<div id="-6445631" dir="ltr"><p>Davlat oʻqituvchilarning shaʼni va
+		qadr-qimmatini himoya qilish, ularning ijtimoiy va moddiy
+		farovonligi, kasbiy jihatdan oʻsishi toʻgʻrisida gʻamxoʻrlik
+		qiladi.</p>
+	</div>
+	<div id="-6445632" dir="ltr"><p>53-modda.</p>
+	</div>
+	<div id="-6445633" dir="ltr"><p>Har kimga ilmiy, texnikaviy va
+		badiiy ijod erkinligi, madaniyat yutuqlaridan foydalanish huquqi
+		kafolatlanadi. Intellektual mulk qonun bilan muhofaza qilinadi.</p>
+	</div>
+	<div id="-6445634" dir="ltr"><p>Davlat jamiyatning madaniy, ilmiy va
+		texnikaviy rivojlanishi haqida gʻamxoʻrlik qiladi.</p>
+	</div>
+	<div id="-6445635" dir="ltr"><p>X bob. Inson hamda fuqaroning huquq
+		va erkinliklari kafolatlari</p>
+	</div>
+	<div id="-6445636" dir="ltr"><p>54-modda.</p>
+	</div>
+	<div id="-6445637" dir="ltr"><p>Insonning huquq va erkinliklarini
+		taʼminlash davlatning oliy maqsadidir.</p>
+	</div>
+	<div id="-6445639" dir="ltr"><p>Davlat inson hamda fuqaroning
+		Konstitutsiya va qonunlarda mustahkamlangan huquqlari va
+		erkinliklarini taʼminlaydi.</p>
+	</div>
+	<div id="-6445640" dir="ltr"><p>55-modda.</p>
+	</div>
+	<div id="-6445641" dir="ltr"><p>Har kim oʻz huquq va erkinliklarini
+		qonunda taqiqlanmagan barcha usullar bilan himoya qilishga haqli.</p>
+	</div>
+	<div id="-6445643" dir="ltr"><p>Har kimga oʻz huquq va
+		erkinliklarini sud orqali himoya qilish, davlat organlarining hamda
+		boshqa tashkilotlarning, ular mansabdor shaxslarining qonunga xilof
+		qarorlari, harakatlari va harakatsizligi ustidan sudga shikoyat
+		qilish huquqi kafolatlanadi.</p>
+	</div>
+	<div id="-6445644" dir="ltr"><p>Har kimga buzilgan huquq va
+		erkinliklarini tiklash uchun uning ishi qonunda belgilangan
+		muddatlarda vakolatli, mustaqil hamda xolis sud tomonidan koʻrib
+		chiqilishi huquqi kafolatlanadi.</p>
+	</div>
+	<div id="-6445646" dir="ltr"><p>Har kim Oʻzbekiston
+		Respublikasining qonunchiligiga va xalqaro shartnomalariga muvofiq,
+		agar davlatning huquqiy himoyaga doir barcha ichki vositalaridan
+		foydalanib boʻlingan boʻlsa, insonning huquq va erkinliklarini
+		himoya qiluvchi xalqaro organlarga murojaat etishga haqli.</p>
+	</div>
+	<div id="-6445647" dir="ltr"><p>Har kim davlat organlarining yoxud
+		ular mansabdor shaxslarining qonunga xilof qarorlari, harakatlari
+		yoki harakatsizligi tufayli yetkazilgan zararning oʻrni davlat
+		tomonidan qoplanishi huquqiga ega.</p>
+	</div>
+	<div id="-6445648" dir="ltr"><p>56-modda.</p>
+	</div>
+	<div id="-6445649" dir="ltr"><p>Inson huquqlari boʻyicha milliy
+		institutlar inson huquqlari va erkinliklarini himoya qilishning
+		mavjud shakllari hamda vositalarini toʻldiradi, fuqarolik
+		jamiyatini rivojlantirishga va inson huquqlari madaniyatini
+		yuksaltirishga koʻmaklashadi.</p>
+	</div>
+	<div id="-6445650" dir="ltr"><p>Davlat inson huquqlari boʻyicha
+		milliy institutlar faoliyatini tashkil etish uchun shart-sharoitlar
+		yaratadi.</p>
+	</div>
+	<div id="-6445652" dir="ltr"><p>57-modda.</p>
+	</div>
+	<div id="-6445653" dir="ltr"><p>Mehnatga layoqatsiz va yolgʻiz
+		keksalar, nogironligi boʻlgan shaxslar hamda aholining ijtimoiy
+		jihatdan ehtiyojmand boshqa toifalarining huquqlari davlat
+		himoyasidadir.</p>
+	</div>
+	<div id="-6445654" dir="ltr"><p>Davlat aholining ijtimoiy jihatdan
+		ehtiyojmand toifalarining turmush sifatini oshirishga, jamiyat va
+		davlat hayotida toʻlaqonli ishtirok etishi uchun ularga
+		shart-sharoitlar yaratishga hamda ularning asosiy hayotiy
+		ehtiyojlarini mustaqil ravishda taʼminlash imkoniyatlarini
+		kengaytirishga qaratilgan choralarni koʻradi.</p>
+	</div>
+	<div id="-6445655" dir="ltr"><p>Davlat nogironligi boʻlgan
+		shaxslarning ijtimoiy, iqtisodiy va madaniy sohalar obyektlari va
+		xizmatlaridan toʻlaqonli foydalanishi uchun shart-sharoitlar
+		yaratadi, ularning ishga joylashishiga, taʼlim olishiga
+		koʻmaklashadi, ularga zarur boʻlgan axborotni toʻsqinliksiz
+		olish imkoniyatini taʼminlaydi.</p>
+	</div>
+	<div id="-6445656" dir="ltr"><p>58-modda.</p>
+	</div>
+	<div id="-6445657" dir="ltr"><p>Xotin-qizlar va erkaklar teng
+		huquqlidirlar.</p>
+	</div>
+	<div id="-6445658" dir="ltr"><p>Davlat xotin-qizlar va erkaklarga
+		jamiyat hamda davlat ishlarini boshqarishda, shuningdek jamiyat va
+		davlat hayotining boshqa sohalarida teng huquq va imkoniyatlarni
+		taʼminlaydi.</p>
+	</div>
+	<div id="-6445659" dir="ltr"><p>XI bob. Fuqarolarning burchlari</p>
+	</div>
+	<div id="-6445660" dir="ltr"><p>59-modda.</p>
+	</div>
+	<div id="-6445661" dir="ltr"><p>Barcha fuqarolar Konstitutsiyada
+		belgilab qoʻyilgan burchlarini bajaradilar.</p>
+	</div>
+	<div id="-6445662" dir="ltr"><p>60-modda.</p>
+	</div>
+	<div id="-6445663" dir="ltr"><p>Fuqarolar Konstitutsiya va
+		qonunlarga rioya etishga, boshqa insonlarning huquqlari,
+		erkinliklari, shaʼni va qadr-qimmatini hurmat qilishga
+		majburdirlar.</p>
+	</div>
+	<div id="-6445664" dir="ltr"><p>61-modda.</p>
+	</div>
+	<div id="-6445665" dir="ltr"><p>Fuqarolar Oʻzbekiston xalqining
+		tarixiy, maʼnaviy, madaniy, ilmiy va tabiiy merosini
+		asrab-avaylashi shart.</p>
+	</div>
+	<div id="-6445666" dir="ltr"><p>Tarixiy, maʼnaviy, madaniy, ilmiy
+		va tabiiy meros davlat tomonidan muhofaza qilinadi.</p>
+	</div>
+	<div id="-6445668" dir="ltr"><p>62-modda.</p>
+	</div>
+	<div id="-6445669" dir="ltr"><p>Fuqarolar atrof tabiiy muhitga
+		ehtiyotkorona munosabatda boʻlishga majburdirlar.</p>
+	</div>
+	<div id="-6445670" dir="ltr"><p>63-modda.</p>
+	</div>
+	<div id="-6445671" dir="ltr"><p>Fuqarolar qonun bilan belgilangan
+		soliqlar va yigʻimlarni toʻlashi shart.</p>
+	</div>
+	<div id="-6445672" dir="ltr"><p>Soliq va yigʻimlar adolatli
+		boʻlishi hamda fuqarolarning konstitutsiyaviy huquqlarini amalga
+		oshirishiga toʻsqinlik qilmasligi kerak.</p>
+	</div>
+	<div id="-6445673" dir="ltr"><p>64-modda.</p>
+	</div>
+	<div id="-6445674" dir="ltr"><p>Oʻzbekiston Respublikasini himoya
+		qilish Oʻzbekiston Respublikasi har bir fuqarosining burchidir.
+		Fuqarolar qonunda belgilangan tartibda harbiy yoki muqobil xizmatni
+		oʻtashga majburdirlar.</p>
+	</div>
+	<div id="-6445676" dir="ltr"><p>UCHINCHI BOʻLIM. JAMIYAT VA SHAXS</p>
+	</div>
+	<div id="-6445677" dir="ltr"><p>XII bob. Jamiyatning iqtisodiy
+		negizlari</p>
+	</div>
+	<div id="-6445678" dir="ltr"><p>65-modda.</p>
+	</div>
+	<div id="-6445679" dir="ltr"><p>Fuqarolar farovonligini oshirishga
+		qaratilgan Oʻzbekiston iqtisodiyotining negizini xilma-xil
+		shakllardagi mulk tashkil etadi. Davlat bozor munosabatlarini
+		rivojlantirish va halol raqobat uchun shart-sharoitlar yaratadi,
+		isteʼmolchilarning huquqlari ustuvorligini hisobga olgan holda
+		iqtisodiy faoliyat, tadbirkorlik va mehnat qilish erkinligini
+		kafolatlaydi.</p>
+	</div>
+	<div id="-6445680" dir="ltr"><p>Oʻzbekiston Respublikasida barcha
+		mulk shakllarining teng huquqliligi va huquqiy jihatdan himoya
+		qilinishi taʼminlanadi. 
+		</p>
+	</div>
+	<div id="-6445681" dir="ltr"><p>Xususiy mulk daxlsizdir. Mulkdor oʻz
+		mol-mulkidan qonunda nazarda tutilgan hollardan va tartibdan
+		tashqari hamda sudning qaroriga asoslanmagan holda mahrum etilishi
+		mumkin emas.</p>
+	</div>
+	<div id="-6445682" dir="ltr"><p>66-modda.</p>
+	</div>
+	<div id="-6445683" dir="ltr"><p>Mulkdor oʻziga tegishli boʻlgan
+		mol-mulkka oʻz xohishicha egalik qiladi, undan foydalanadi va uni
+		tasarruf etadi. Mol-mulkdan foydalanish atrof-muhitga zarar
+		yetkazmasligi, boshqa shaxslarning, jamiyat va davlatning
+		huquqlarini hamda qonuniy manfaatlarini buzmasligi kerak.</p>
+	</div>
+	<div id="-6445684" dir="ltr"><p>67-modda.</p>
+	</div>
+	<div id="-6445686" dir="ltr"><p>Davlat qulay investitsiyaviy va
+		ishbilarmonlik muhitini taʼminlaydi.</p>
+	</div>
+	<div id="-6445687" dir="ltr"><p>Tadbirkorlar qonunchilikka muvofiq
+		har qanday faoliyatni amalga oshirishga va oʻz faoliyati
+		yoʻnalishlarini mustaqil ravishda tanlashga haqli.</p>
+	</div>
+	<div id="-6445689" dir="ltr"><p>Oʻzbekiston Respublikasi hududida
+		iqtisodiy makon birligi, tovarlar, xizmatlar, mehnat resurslari va
+		moliyaviy mablagʻlarning erkin harakatlanishi kafolatlanadi.</p>
+	</div>
+	<div id="-6445691" dir="ltr"><p>Monopol faoliyat qonun bilan
+		tartibga solinadi va cheklanadi.</p>
+	</div>
+	<div id="-6445692" dir="ltr"><p>68-modda.</p>
+	</div>
+	<div id="-6445693" dir="ltr"><p>Yer, yer osti boyliklari, suv,
+		oʻsimlik va hayvonot dunyosi hamda boshqa tabiiy resurslar
+		umummilliy boylikdir, ulardan oqilona foydalanish zarur va ular
+		davlat muhofazasidadir.</p>
+	</div>
+	<div id="-6445694" dir="ltr"><p>Yer qonunda nazarda tutilgan hamda
+		undan oqilona foydalanishni va uni umummilliy boylik sifatida
+		muhofaza qilishni taʼminlovchi shartlar asosida va tartibda
+		xususiy mulk boʻlishi mumkin.</p>
+	</div>
+	<div id="-6445695" dir="ltr"><p>XIII bob. Fuqarolik jamiyati
+		institutlari</p>
+	</div>
+	<div id="-6445696" dir="ltr"><p>69-modda.</p>
+	</div>
+	<div id="-6445697" dir="ltr"><p>Fuqarolik jamiyati institutlari, shu
+		jumladan jamoat birlashmalari va boshqa nodavlat notijorat
+		tashkilotlari, fuqarolarning oʻzini oʻzi boshqarish organlari,
+		ommaviy axborot vositalari fuqarolik jamiyatining asosini tashkil
+		etadi.</p>
+	</div>
+	<div id="-6445698" dir="ltr"><p>Fuqarolik jamiyati institutlarining
+		faoliyati qonunga muvofiq amalga oshiriladi.</p>
+	</div>
+	<div id="-6445699" dir="ltr"><p>70-modda.</p>
+	</div>
+	<div id="-6445700" dir="ltr"><p>Oʻzbekiston Respublikasida kasaba
+		uyushmalari, siyosiy partiyalar, olimlarning jamiyatlari,
+		xotin-qizlar tashkilotlari, faxriylar, yoshlar va nogironligi
+		boʻlgan shaxslar tashkilotlari, ijodiy uyushmalar, ommaviy
+		harakatlar hamda fuqarolarning boshqa birlashmalari jamoat
+		birlashmalari sifatida eʼtirof etiladi.</p>
+	</div>
+	<div id="-6445701" dir="ltr"><p>Jamoat birlashmalarini tarqatib
+		yuborish, ularning faoliyatini taqiqlab yoki cheklab qoʻyish faqat
+		sud qarori asosidagina amalga oshiriladi. 
+		</p>
+	</div>
+	<div id="-6445702" dir="ltr"><p>71-modda.</p>
+	</div>
+	<div id="-6445703" dir="ltr"><p>Konstitutsiyaviy tuzumni zoʻrlik
+		bilan oʻzgartirishni maqsad qilib qoʻyuvchi, Oʻzbekistonning
+		davlat suverenitetiga, hududiy yaxlitligiga va xavfsizligiga qarshi
+		chiquvchi, urushni, ijtimoiy, milliy, irqiy hamda diniy adovatni
+		targʻib qiluvchi, fuqarolarning konstitutsiyaviy huquqlari va
+		erkinliklariga, aholining sogʻligʻiga, ijtimoiy axloqqa tajovuz
+		qiluvchi siyosiy partiyalarning, boshqa nodavlat notijorat
+		tashkilotlarining, shuningdek milliy va diniy belgilariga koʻra
+		siyosiy partiyalarning, harbiylashtirilgan birlashmalarning tashkil
+		etilishi va faoliyati taqiqlanadi.</p>
+	</div>
+	<div id="-6445704" dir="ltr"><p>Maxfiy jamiyatlar va birlashmalar
+		tashkil etish taqiqlanadi.</p>
+	</div>
+	<div id="-6445705" dir="ltr"><p>72-modda.</p>
+	</div>
+	<div id="-6445706" dir="ltr"><p>Davlat nodavlat notijorat
+		tashkilotlarining huquqlari va qonuniy manfaatlariga rioya
+		etilishini taʼminlaydi, ularga jamiyat hayotida ishtirok etish
+		uchun teng huquqiy imkoniyatlar yaratadi.</p>
+	</div>
+	<div id="-6445707" dir="ltr"><p>Davlat organlari va mansabdor
+		shaxslarning nodavlat notijorat tashkilotlari faoliyatiga
+		aralashishiga, shuningdek nodavlat notijorat tashkilotlarining
+		davlat organlari va mansabdor shaxslar faoliyatiga aralashishiga
+		yoʻl qoʻyilmaydi.</p>
+	</div>
+	<div id="-6445708" dir="ltr"><p>73-modda.</p>
+	</div>
+	<div id="-6445709" dir="ltr"><p>Kasaba uyushmalari xodimlarning
+		ijtimoiy-iqtisodiy huquqlarini va manfaatlarini ifoda etadilar va
+		himoya qiladilar. Kasaba uyushmalariga aʼzo boʻlish ixtiyoriydir.</p>
+	</div>
+	<div id="-6445710" dir="ltr"><p>74-modda.</p>
+	</div>
+	<div id="-6445711" dir="ltr"><p>Siyosiy partiyalar turli ijtimoiy
+		tabaqa va guruhlarning siyosiy irodasini ifodalaydilar va
+		oʻzlarining demokratik yoʻl bilan saylab qoʻyilgan vakillari
+		orqali davlat hokimiyatini tuzishda ishtirok etadilar. Siyosiy
+		partiyalar oʻz faoliyatining moliyalashtirilishi manbalari haqida
+		Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasiga
+		yoki u vakolat bergan organga belgilangan tartibda oshkora
+		hisobotlar taqdim etadilar.</p>
+	</div>
+	<div id="-6445712" dir="ltr"><p>75-modda.</p>
+	</div>
+	<div id="-6445713" dir="ltr"><p>Diniy tashkilotlar davlatdan
+		ajratilgan hamda qonun oldida tengdirlar. Davlat diniy
+		tashkilotlarning faoliyatiga aralashmaydi.</p>
+	</div>
+	<div id="-6445715" dir="ltr"><p>Davlat qonunda belgilangan tartibda
+		faoliyat koʻrsatayotgan diniy tashkilotlar faoliyatining
+		erkinligini kafolatlaydi.</p>
+	</div>
+	<div id="-6445716" dir="ltr"><p>XIV bob. Oila, bolalar va yoshlar</p>
+	</div>
+	<div id="-6445717" dir="ltr"><p>76-modda.</p>
+	</div>
+	<div id="-6445718" dir="ltr"><p>Oila jamiyatning asosiy boʻgʻinidir
+		hamda u jamiyat va davlat muhofazasidadir.</p>
+	</div>
+	<div id="-6445719" dir="ltr"><p>Nikoh Oʻzbekiston xalqining
+		anʼanaviy oilaviy qadriyatlariga, nikohlanuvchilarning ixtiyoriy
+		roziligiga va teng huquqliligiga asoslanadi.</p>
+	</div>
+	<div id="-6445720" dir="ltr"><p>Davlat oilaning toʻlaqonli
+		rivojlanishi uchun ijtimoiy, iqtisodiy, huquqiy va boshqa
+		shart-sharoitlar yaratadi.</p>
+	</div>
+	<div id="-6445721" dir="ltr"><p>77-modda.</p>
+	</div>
+	<div id="-6445722" dir="ltr"><p>Ota-onalar va ularning oʻrnini
+		bosuvchi shaxslar oʻz farzandlarini voyaga yetguniga qadar
+		boqishi, ularning tarbiyasi, taʼlim olishi, sogʻlom, toʻlaqonli
+		va har tomonlama kamol topishi xususida gʻamxoʻrlik qilishga
+		majburdirlar.</p>
+	</div>
+	<div id="-6445723" dir="ltr"><p>Davlat va jamiyat yetim bolalarni
+		hamda ota-onasining vasiyligidan mahrum boʻlgan bolalarni
+		boqishni, tarbiyalashni, ularning taʼlim olishini, sogʻlom,
+		toʻlaqonli va har tomonlama kamol topishini taʼminlaydi, shu
+		maqsadda xayriya faoliyatini ragʻbatlantiradi.</p>
+	</div>
+	<div id="-6445724" dir="ltr"><p>78-modda.</p>
+	</div>
+	<div id="-6445725" dir="ltr"><p>Farzandlar ota-onasining nasl-nasabi
+		va fuqarolik holatidan qatʼi nazar, qonun oldida tengdirlar.</p>
+	</div>
+	<div id="-6445726" dir="ltr"><p>Bolaning huquqlari, erkinliklari va
+		qonuniy manfaatlarini taʼminlash hamda himoya qilish, uning
+		jismoniy, aqliy va madaniy jihatdan toʻlaqonli rivojlanishi uchun
+		eng yaxshi shart-sharoitlarni yaratish davlatning majburiyatidir.</p>
+	</div>
+	<div id="-6445727" dir="ltr"><p>Onalik, otalik va bolalik davlat
+		tomonidan muhofaza qilinadi.</p>
+	</div>
+	<div id="-6445728" dir="ltr"><p>Davlat va jamiyat bolalarda hamda
+		yoshlarda milliy va umuminsoniy qadriyatlarga sodiqlikni,
+		mamlakatidan hamda xalqning boy madaniy merosidan faxrlanishni,
+		vatanparvarlik va Vatanga boʻlgan mehr-muhabbat tuygʻularini
+		shakllantirish toʻgʻrisida gʻamxoʻrlik qiladi.</p>
+	</div>
+	<div id="-6445729" dir="ltr"><p>79-modda.</p>
+	</div>
+	<div id="-6445730" dir="ltr"><p>Davlat yoshlarning shaxsiy, siyosiy,
+		iqtisodiy, ijtimoiy, madaniy, ekologik huquqlari himoya qilinishini
+		taʼminlaydi, ularning jamiyat va davlat hayotida faol ishtirok
+		etishini ragʻbatlantiradi.</p>
+	</div>
+	<div id="-6445731" dir="ltr"><p>Davlat yoshlarning intellektual,
+		ijodiy, jismoniy va axloqiy jihatdan shakllanishi hamda
+		rivojlanishi uchun, ularning taʼlim olishga, sogʻligʻini
+		saqlashga, uy-joyga, ishga joylashishga, bandlik va dam olishga
+		boʻlgan huquqlarini amalga oshirish uchun shart-sharoitlar
+		yaratadi.</p>
+	</div>
+	<div id="-6445732" dir="ltr"><p>80-modda.</p>
+	</div>
+	<div id="-6445733" dir="ltr"><p>Voyaga yetgan mehnatga layoqatli
+		farzandlar oʻz ota-onalari haqida gʻamxoʻrlik qilishga
+		majburdirlar.</p>
+	</div>
+	<div id="-6445734" dir="ltr"><p>XV bob. Ommaviy axborot vositalari</p>
+	</div>
+	<div id="-6445735" dir="ltr"><p>81-modda.</p>
+	</div>
+	<div id="-6445736" dir="ltr"><p>Ommaviy axborot vositalari erkindir
+		va qonunga muvofiq ish olib boradilar.</p>
+	</div>
+	<div id="-6445737" dir="ltr"><p>Davlat ommaviy axborot vositalari
+		faoliyatining erkinligini, ularning axborotni izlash, olish, undan
+		foydalanish va uni tarqatishga boʻlgan huquqlari amalga
+		oshirilishini kafolatlaydi.</p>
+	</div>
+	<div id="-6445738" dir="ltr"><p>Ommaviy axborot vositalari oʻzi
+		taqdim etadigan axborotning ishonchliligi uchun javobgardir.</p>
+	</div>
+	<div id="-6445739" dir="ltr"><p>82-modda.</p>
+	</div>
+	<div id="-6445741" dir="ltr"><p>Senzuraga yoʻl qoʻyilmaydi.</p>
+	</div>
+	<div id="-6445742" dir="ltr"><p>Ommaviy axborot vositalarining
+		faoliyatiga toʻsqinlik qilish yoki aralashish qonunga muvofiq
+		javobgarlikka sabab boʻladi.</p>
+	</div>
+	<div id="-6445743" dir="ltr"><p>TOʻRTINCHI BOʻLIM.
+		MAʼMURIY-HUDUDIY VA DAVLAT TUZILISHI</p>
+	</div>
+	<div id="-6445744" dir="ltr"><p>XVI bob. Oʻzbekiston
+		Respublikasining maʼmuriy-hududiy tuzilishi</p>
+	</div>
+	<div id="-6445745" dir="ltr"><p>83-modda.</p>
+	</div>
+	<div id="-6445746" dir="ltr"><p>Oʻzbekiston Respublikasi
+		viloyatlar, tumanlar, shaharlar, shaharchalar, qishloqlar, ovullar,
+		shuningdek Qoraqalpogʻiston Respublikasidan iborat.</p>
+	</div>
+	<div id="-6445747" dir="ltr"><p>84-modda.</p>
+	</div>
+	<div id="-6445748" dir="ltr"><p>Qoraqalpogʻiston Respublikasi,
+		viloyatlar, Toshkent shahrining chegaralarini oʻzgartirish,
+		shuningdek viloyatlar, shaharlar, tumanlar tashkil qilish va ularni
+		tugatish Oʻzbekiston Respublikasi Oliy Majlisining roziligi bilan
+		amalga oshiriladi.</p>
+	</div>
+	<div id="-6445750" dir="ltr"><p>XVII bob. Qoraqalpogʻiston
+		Respublikasi</p>
+	</div>
+	<div id="-6445752" dir="ltr"><p>85-modda.</p>
+	</div>
+	<div id="-6445753" dir="ltr"><p>Suveren Qoraqalpogʻiston
+		Respublikasi Oʻzbekiston Respublikasi tarkibiga kiradi.</p>
+	</div>
+	<div id="-6445754" dir="ltr"><p>Qoraqalpogʻiston Respublikasining
+		suvereniteti Oʻzbekiston Respublikasi tomonidan muhofaza etiladi.</p>
+	</div>
+	<div id="-6445756" dir="ltr"><p>86-modda.</p>
+	</div>
+	<div id="-6445757" dir="ltr"><p>Qoraqalpogʻiston Respublikasi oʻz
+		Konstitutsiyasiga ega.</p>
+	</div>
+	<div id="-6445758" dir="ltr"><p>Qoraqalpogʻiston Respublikasining
+		Konstitutsiyasi Oʻzbekiston Respublikasining Konstitutsiyasiga zid
+		boʻlishi mumkin emas.</p>
+	</div>
+	<div id="-6445759" dir="ltr"><p>87-modda.</p>
+	</div>
+	<div id="-6445760" dir="ltr"><p>Oʻzbekiston Respublikasi qonunlari
+		Qoraqalpogʻiston Respublikasi hududida ham majburiydir.</p>
+	</div>
+	<div id="-6445761" dir="ltr"><p>88-modda.</p>
+	</div>
+	<div id="-6445762" dir="ltr"><p>Qoraqalpogʻiston Respublikasining
+		hududi va chegaralari uning roziligisiz oʻzgartirilishi mumkin
+		emas. Qoraqalpogʻiston Respublikasi oʻz maʼmuriy-hududiy
+		tuzilishi masalalarini mustaqil hal qiladi.</p>
+	</div>
+	<div id="-6445764" dir="ltr"><p>89-modda.</p>
+	</div>
+	<div id="-6445766" dir="ltr"><p>Qoraqalpogʻiston Respublikasi
+		Oʻzbekiston Respublikasi tarkibidan Qoraqalpogʻiston Respublikasi
+		xalqining umumiy referendumi asosida ajralib chiqish huquqiga ega.</p>
+	</div>
+	<div id="-6445767" dir="ltr"><p>90-modda.</p>
+	</div>
+	<div id="-6445769" dir="ltr"><p>Oʻzbekiston Respublikasi bilan
+		Qoraqalpogʻiston Respublikasining oʻzaro munosabatlari
+		Oʻzbekiston Respublikasi va Qoraqalpogʻiston Respublikasi
+		oʻrtasida Oʻzbekiston Respublikasi Konstitutsiyasi doirasida
+		tuzilgan shartnomalar hamda bitimlar bilan tartibga solinadi.</p>
+	</div>
+	<div id="-6445770" dir="ltr"><p>Oʻzbekiston Respublikasi va
+		Qoraqalpogʻiston Respublikasi oʻrtasidagi nizolar murosaga
+		keltiruvchi vositalar yordamida hal etiladi.</p>
+	</div>
+	<div id="-6445771" dir="ltr"><p>BESHINCHI BOʻLIM. DAVLAT
+		HOKIMIYATINING TASHKIL ETILISHI</p>
+	</div>
+	<div id="-6445772" dir="ltr"><p>XVIII bob. Oʻzbekiston Respublikasi
+		Oliy Majlisi</p>
+	</div>
+	<div id="-6445773" dir="ltr"><p>91-modda.</p>
+	</div>
+	<div id="-6445774" dir="ltr"><p>Oʻzbekiston Respublikasining Oliy
+		Majlisi oliy davlat vakillik organi boʻlib, qonun chiqaruvchi
+		hokimiyatni amalga oshiradi.</p>
+	</div>
+	<div id="-6445775" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisi ikki palatadan — Qonunchilik palatasi (quyi palata) va
+		Senatdan (yuqori palata) iborat.</p>
+	</div>
+	<div id="-6445776" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Qonunchilik palatasi va Senati vakolat muddati — besh
+		yil.</p>
+	</div>
+	<div id="-6445777" dir="ltr"><p>92-modda.</p>
+	</div>
+	<div id="-6445778" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Qonunchilik palatasi qonunga muvofiq saylanadigan bir
+		yuz ellik deputatdan iborat.</p>
+	</div>
+	<div id="-6445780" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Senati hududiy vakillik palatasi boʻlib, Senat
+		aʼzolaridan (senatorlardan) iborat.</p>
+	</div>
+	<div id="-6445781" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Senati aʼzolari Qoraqalpogʻiston Respublikasi
+		Joʻqorgʻi Kengesi, viloyatlar, tumanlar va shaharlar davlat
+		hokimiyati vakillik organlari deputatlarining tegishli qoʻshma
+		majlislarida mazkur deputatlar orasidan yashirin ovoz berish yoʻli
+		bilan Qoraqalpogʻiston Respublikasi, viloyatlar va Toshkent
+		shahridan teng miqdorda — toʻrt kishidan saylanadi. Oʻzbekiston
+		Respublikasi Oliy Majlisi Senatining toʻqqiz nafar aʼzosi fan,
+		sanʼat, adabiyot, ishlab chiqarish sohasida hamda davlat va
+		jamiyat faoliyatining boshqa tarmoqlarida katta amaliy tajribaga
+		ega boʻlgan hamda alohida xizmat koʻrsatgan eng obroʻli
+		fuqarolar orasidan Oʻzbekiston Respublikasi Prezidenti tomonidan
+		tayinlanadi.</p>
+	</div>
+	<div id="-6445782" dir="ltr"><p>Saylov kuni yigirma besh yoshga
+		toʻlgan hamda kamida besh yil Oʻzbekiston Respublikasi hududida
+		muqim yashayotgan Oʻzbekiston Respublikasi fuqarosi Oʻzbekiston
+		Respublikasi Oliy Majlisining Qonunchilik palatasi deputati,
+		shuningdek Oʻzbekiston Respublikasi Oliy Majlisining Senati aʼzosi
+		boʻlishi mumkin. Deputatlikka nomzodlarga qoʻyiladigan talablar
+		qonun bilan belgilanadi.</p>
+	</div>
+	<div id="-6445783" dir="ltr"><p>Ayni bir shaxs bir paytning oʻzida
+		Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasi
+		deputati va Senati aʼzosi boʻlishi mumkin emas.</p>
+	</div>
+	<div id="-6445784" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisi Qonunchilik palatasining deputati bir vaqtning oʻzida
+		Qoraqalpogʻiston Respublikasi Joʻqorgʻi Kengesining, viloyatlar,
+		tumanlar, shaharlar davlat hokimiyati vakillik organlarining
+		deputati boʻlishi mumkin emas.</p>
+	</div>
+	<div id="-6445785" dir="ltr"><p>93-modda.</p>
+	</div>
+	<div id="-6445786" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisi Qonunchilik palatasi va Senatining birgalikdagi vakolatlari
+		quyidagilardan iborat:</p>
+	</div>
+	<div id="-6445787" dir="ltr"><p>1) Oʻzbekiston Respublikasining
+		Konstitutsiyasini qabul qilish, unga oʻzgartirish va qoʻshimchalar
+		kiritish;</p>
+	</div>
+	<div id="-6445788" dir="ltr"><p>2) Oʻzbekiston Respublikasining
+		konstitutsiyaviy qonunlarini, qonunlarini qabul qilish, ularga
+		oʻzgartirish va qoʻshimchalar kiritish;</p>
+	</div>
+	<div id="-6445790" dir="ltr"><p>3) xalqaro shartnomalarni
+		ratifikatsiya va denonsatsiya qilish;</p>
+	</div>
+	<div id="-6445792" dir="ltr"><p>4) Oʻzbekiston Respublikasining
+		referendumini oʻtkazish toʻgʻrisida va uni oʻtkazish sanasini
+		tayinlash haqida qaror qabul qilish;</p>
+	</div>
+	<div id="-6445793" dir="ltr"><p>5) Oʻzbekiston Respublikasi ichki
+		va tashqi siyosatining asosiy yoʻnalishlarini belgilash hamda
+		davlat strategik dasturlarini qabul qilish;</p>
+	</div>
+	<div id="-6445794" dir="ltr"><p>6) Oʻzbekiston Respublikasi qonun
+		chiqaruvchi, ijro etuvchi hamda sud hokimiyati organlarining
+		tizimini va vakolatlarini belgilash;</p>
+	</div>
+	<div id="-6445795" dir="ltr"><p>7) Oʻzbekiston Respublikasi
+		tarkibiga yangi davlat tuzilmalarini qabul qilish va ularning
+		Oʻzbekiston Respublikasi tarkibidan chiqishi haqidagi qarorlarni
+		tasdiqlash;</p>
+	</div>
+	<div id="-6445797" dir="ltr"><p>8) bojxona, valyuta va kredit
+		ishlarini qonun yoʻli bilan tartibga solish;</p>
+	</div>
+	<div id="-6445798" dir="ltr"><p>9) Oʻzbekiston Respublikasi
+		Vazirlar Mahkamasining taqdimiga binoan Oʻzbekiston
+		Respublikasining Davlat budjetini qabul qilish, unga oʻzgartirish
+		va qoʻshimchalar kiritish;</p>
+	</div>
+	<div id="-6445800" dir="ltr"><p>10) Oʻzbekiston Respublikasi davlat
+		qarzining eng yuqori miqdorini belgilash;</p>
+	</div>
+	<div id="-6445801" dir="ltr"><p>11) soliqlar va boshqa majburiy
+		toʻlovlarni joriy qilish;</p>
+	</div>
+	<div id="-6445802" dir="ltr"><p>12) Oʻzbekiston Respublikasining
+		maʼmuriy-hududiy tuzilishi masalalarini qonun yoʻli bilan
+		tartibga solish, chegaralarini oʻzgartirish;</p>
+	</div>
+	<div id="-6445804" dir="ltr"><p>13) tumanlar, shaharlar,
+		viloyatlarni tashkil etish, tugatish, ularning nomini hamda
+		chegaralarini oʻzgartirish;</p>
+	</div>
+	<div id="-6445805" dir="ltr"><p>14) davlat mukofotlari va
+		unvonlarini taʼsis etish;</p>
+	</div>
+	<div id="-6445806" dir="ltr"><p>15) Oʻzbekiston Respublikasi
+		Markaziy saylov komissiyasini tuzish;</p>
+	</div>
+	<div id="-6445807" dir="ltr"><p>16) Oʻzbekiston Respublikasi Oliy
+		Majlisining Inson huquqlari boʻyicha vakilini va uning
+		oʻrinbosarini saylash;</p>
+	</div>
+	<div id="-6445808" dir="ltr"><p>17) Oʻzbekiston Respublikasi
+		Prezidentining Oʻzbekiston Respublikasiga hujum qilinganda yoki
+		tajovuzdan bir-birini mudofaa qilish yuzasidan tuzilgan shartnoma
+		majburiyatlarini bajarish zaruriyati tugʻilganda urush holati
+		eʼlon qilish toʻgʻrisidagi farmonini tasdiqlash;</p>
+	</div>
+	<div id="-6445809" dir="ltr"><p>18) Oʻzbekiston Respublikasi
+		Prezidentining umumiy yoki qisman safarbarlik eʼlon qilish,
+		favqulodda holat joriy etish, uning amal qilishini uzaytirish yoki
+		tugatish toʻgʻrisidagi farmonlarini tasdiqlash;</p>
+	</div>
+	<div id="-6445810" dir="ltr"><p>19) Oʻzbekiston Respublikasida
+		korrupsiyaga qarshi kurashish toʻgʻrisidagi har yilgi milliy
+		maʼruzani eshitish;</p>
+	</div>
+	<div id="-6445811" dir="ltr"><p>20) parlament tekshiruvini
+		oʻtkazish;</p>
+	</div>
+	<div id="-6445812" dir="ltr"><p>21) ushbu Konstitutsiya va
+		qonunlarda nazarda tutilgan boshqa vakolatlarni amalga oshirish.</p>
+	</div>
+	<div id="-6445814" dir="ltr"><p>Palatalarning birgalikdagi
+		vakolatlariga kiradigan masalalar, qoida tariqasida, avval
+		Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasida,
+		soʻngra Senatida koʻrib chiqiladi.</p>
+	</div>
+	<div id="-6445815" dir="ltr"><p>94-modda.</p>
+	</div>
+	<div id="-6445817" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Qonunchilik palatasi mutlaq vakolatlari quyidagilardan
+		iborat:</p>
+	</div>
+	<div id="-6445818" dir="ltr"><p>1) Oʻzbekiston Respublikasi Davlat
+		budjetining ijro etilishi ustidan nazoratni amalga oshirish;</p>
+	</div>
+	<div id="-6445819" dir="ltr"><p>2) Oʻzbekiston Respublikasi Hisob
+		palatasining hisobotini koʻrib chiqish;</p>
+	</div>
+	<div id="-6445820" dir="ltr"><p>3) Oʻzbekiston Respublikasi
+		Prezidentining taqdimiga binoan Oʻzbekiston Respublikasi Bosh
+		vaziri nomzodini koʻrib chiqish va maʼqullash;</p>
+	</div>
+	<div id="-6445821" dir="ltr"><p>4) Oʻzbekiston Respublikasi Bosh
+		vazirining mamlakatni ijtimoiy-iqtisodiy jihatdan
+		rivojlantirishning dolzarb masalalari yuzasidan, shuningdek
+		Vazirlar Mahkamasi aʼzolarining oʻz faoliyati masalalari
+		yuzasidan hisobotlarini eshitish;</p>
+	</div>
+	<div id="-6445823" dir="ltr"><p>5) Oʻzbekiston Respublikasi
+		Prezidentining taqdimiga binoan Oʻzbekiston Respublikasi Vazirlar
+		Mahkamasi aʼzoligiga nomzodlarni koʻrib chiqish va maʼqullash;</p>
+	</div>
+	<div id="-6445824" dir="ltr"><p>6) Oʻzbekiston Respublikasi
+		Vazirlar Mahkamasining mamlakat ijtimoiy-iqtisodiy hayotining eng
+		muhim masalalari boʻyicha har yilgi maʼruzasini eshitish;</p>
+	</div>
+	<div id="-6445825" dir="ltr"><p>7) davlat organlarining mansabdor
+		shaxslariga parlament soʻrovini yuborish va parlament nazoratining
+		boshqa shakllarini amalga oshirish;</p>
+	</div>
+	<div id="-6445826" dir="ltr"><p>8) Oʻzbekiston Respublikasi Oliy
+		Majlisining Qonunchilik palatasi Spikeri va uning oʻrinbosarlarini,
+		qoʻmitalarning raislari va ularning oʻrinbosarlarini saylash;</p>
+	</div>
+	<div id="-6445828" dir="ltr"><p>9) Oʻzbekiston Respublikasi Bosh
+		prokurorining taqdimiga binoan Oʻzbekiston Respublikasi Oliy
+		Majlisining Qonunchilik palatasi deputatini daxlsizlik huquqidan
+		mahrum etish toʻgʻrisidagi masalalarni hal etish;</p>
+	</div>
+	<div id="-6445829" dir="ltr"><p>10) oʻz faoliyatini tashkil etish
+		va palataning ichki tartib-qoidalari bilan bogʻliq masalalar
+		yuzasidan qarorlar qabul qilish;</p>
+	</div>
+	<div id="-6445830" dir="ltr"><p>11) siyosiy, ijtimoiy-iqtisodiy
+		hayot sohasidagi u yoki bu masalalar yuzasidan, shuningdek
+		davlatning ichki va tashqi siyosati masalalari yuzasidan qarorlar
+		qabul qilish;</p>
+	</div>
+	<div id="-6445831" dir="ltr"><p>12) ushbu Konstitutsiya va
+		qonunlarda nazarda tutilgan boshqa vakolatlarni amalga oshirish.</p>
+	</div>
+	<div id="-6445832" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Qonunchilik palatasi oʻzini oʻzi tarqatib yuborish
+		toʻgʻrisida deputatlar umumiy sonining kamida uchdan ikki
+		qismidan iborat koʻpchilik ovozi bilan qaror qabul qilishi mumkin.</p>
+	</div>
+	<div id="-6445834" dir="ltr"><p>95-modda.</p>
+	</div>
+	<div id="-6445836" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Senati mutlaq vakolatlari quyidagilardan iborat:</p>
+	</div>
+	<div id="-6445837" dir="ltr"><p>1) Oʻzbekiston Respublikasi
+		Prezidentining taqdimiga binoan Oʻzbekiston Respublikasi
+		Konstitutsiyaviy sudini, Oliy sudini, Sudyalar oliy kengashini,
+		respublika korrupsiyaga qarshi kurashish organining rahbarini va
+		respublika monopoliyaga qarshi organining rahbarini saylash;</p>
+	</div>
+	<div id="-6445838" dir="ltr"><p>2) Oʻzbekiston Respublikasi
+		Prezidentining taqdimiga binoan Oʻzbekiston Respublikasi Bosh
+		prokurori va Oʻzbekiston Respublikasi Hisob palatasi raisi
+		lavozimlariga nomzodlarni koʻrib chiqish hamda maʼqullash;</p>
+	</div>
+	<div id="-6445839" dir="ltr"><p>3) Oʻzbekiston Respublikasi
+		Prezidenti tomonidan taklif etilgan Oʻzbekiston Respublikasi
+		Davlat xavfsizlik xizmati raisi lavozimiga nomzod yuzasidan
+		maslahatlashuvlar oʻtkazish;</p>
+	</div>
+	<div id="-6445840" dir="ltr"><p>4) Oʻzbekiston Respublikasi
+		Prezidentining taqdimiga binoan Oʻzbekiston Respublikasining chet
+		davlatlardagi va xalqaro tashkilotlar huzuridagi diplomatik hamda
+		boshqa vakolatxonalari rahbarlarini tayinlash va ularni lavozimidan
+		ozod etish;</p>
+	</div>
+	<div id="-6445841" dir="ltr"><p>5) Oʻzbekiston Respublikasi
+		Prezidentining taqdimiga binoan Oʻzbekiston Respublikasi Markaziy
+		banki boshqaruvining raisini tayinlash va uni lavozimidan ozod
+		etish;</p>
+	</div>
+	<div id="-6445842" dir="ltr"><p>6) Oʻzbekiston Respublikasi
+		Prezidentining vazirliklarni va boshqa respublika ijro etuvchi
+		hokimiyat organlarini tuzish hamda tugatish toʻgʻrisidagi
+		farmonlarini tasdiqlash;</p>
+	</div>
+	<div id="-6445843" dir="ltr"><p>7) Oʻzbekiston Respublikasi
+		Prezidentining taqdimiga binoan amnistiya toʻgʻrisidagi
+		hujjatlarni qabul qilish;</p>
+	</div>
+	<div id="-6445844" dir="ltr"><p>8) Oʻzbekiston Respublikasi Bosh
+		prokurorining, Oʻzbekiston Respublikasi Markaziy banki boshqaruvi
+		raisining hisobotlarini eshitish;</p>
+	</div>
+	<div id="-6445845" dir="ltr"><p>9) Oʻzbekiston Respublikasining
+		chet davlatlardagi va xalqaro tashkilotlar huzuridagi diplomatik
+		hamda boshqa vakolatxonalari rahbarlarining oʻz faoliyati
+		masalalari boʻyicha hisobotlarini eshitish;</p>
+	</div>
+	<div id="-6445846" dir="ltr"><p>10) davlat organlarining mansabdor
+		shaxslariga parlament soʻrovini yuborish va parlament nazoratining
+		boshqa shakllarini amalga oshirish;</p>
+	</div>
+	<div id="-6445847" dir="ltr"><p>11) mahalliy davlat hokimiyati
+		vakillik organlariga oʻz faoliyatini amalga oshirishda
+		koʻmaklashish;</p>
+	</div>
+	<div id="-6445848" dir="ltr"><p>12) mahalliy davlat hokimiyati
+		vakillik organlarining qarorlarini, ular qonunchilik normalariga
+		muvofiq boʻlmagan taqdirda, bekor qilish;</p>
+	</div>
+	<div id="-6445850" dir="ltr"><p>13) Oʻzbekiston Respublikasi Oliy
+		Majlisining Senati Raisini va uning oʻrinbosarlarini,
+		qoʻmitalarning raislari va ularning oʻrinbosarlarini saylash;</p>
+	</div>
+	<div id="-6445852" dir="ltr"><p>14) Oʻzbekiston Respublikasi Bosh
+		prokurorining taqdimiga binoan Oʻzbekiston Respublikasi Oliy
+		Majlisining Senati aʼzosini daxlsizlik huquqidan mahrum etish
+		toʻgʻrisidagi masalalarni hal etish;</p>
+	</div>
+	<div id="-6445853" dir="ltr"><p>15) oʻz faoliyatini tashkil etish
+		va palataning ichki tartib-qoidalari bilan bogʻliq masalalar
+		yuzasidan qarorlar qabul qilish;</p>
+	</div>
+	<div id="-6445854" dir="ltr"><p>16) siyosiy, ijtimoiy-iqtisodiy
+		hayot sohasidagi u yoki bu masalalar yuzasidan, shuningdek davlat
+		ichki va tashqi siyosati masalalari yuzasidan qarorlar qabul
+		qilish;</p>
+	</div>
+	<div id="-6445856" dir="ltr"><p>17) Qonunchilik palatasi tarqatib
+		yuborilgan davrda Oʻzbekiston Respublikasi Oliy Majlisining
+		qonunlarni qabul qilishga doir vakolatlarini bajarish, bundan
+		Konstitutsiya va konstitutsiyaviy qonunlar mustasno;</p>
+	</div>
+	<div id="-6445857" dir="ltr"><p>18) ushbu Konstitutsiya va
+		qonunlarda nazarda tutilgan boshqa vakolatlarni amalga oshirish.</p>
+	</div>
+	<div id="-6445858" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Senati oʻzini oʻzi tarqatib yuborish toʻgʻrisida
+		senatorlar umumiy sonining kamida uchdan ikki qismidan iborat
+		koʻpchilik ovozi bilan qaror qabul qilishi mumkin.</p>
+	</div>
+	<div id="-6445859" dir="ltr"><p>96-modda.</p>
+	</div>
+	<div id="-6445860" dir="ltr"><p>Vakolat muddati tugagach,
+		Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasi va
+		Senati tegishincha yangi chaqiriq Qonunchilik palatasi va Senati
+		ish boshlaguniga qadar oʻz faoliyatini davom ettirib turadi.</p>
+	</div>
+	<div id="-6445862" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisi Qonunchilik palatasi va Senatining birinchi majlislari
+		tegishincha Qonunchilik palatasiga saylovdan keyin ikki oydan
+		kechiktirmay va Senat tarkib topganidan keyin bir oydan
+		kechiktirmay Markaziy saylov komissiyasi tomonidan chaqiriladi.</p>
+	</div>
+	<div id="-6445863" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Qonunchilik palatasi majlislari sessiyalar davrida
+		oʻtkaziladi. Sessiyalar, qoida tariqasida, sentabrning birinchi
+		ish kunidan boshlab kelgusi yilning iyun oyi oxirgi ish kuniga
+		qadar oʻtkaziladi.</p>
+	</div>
+	<div id="-6445864" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Senati majlislari zaruratga qarab, lekin yiliga kamida
+		uch marta oʻtkaziladi.</p>
+	</div>
+	<div id="-6445865" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisi palatalarining majlislari, agar ular ishida barcha
+		deputatlar, senatorlar umumiy sonining yarmidan koʻpi ishtirok
+		etayotgan boʻlsa, vakolatli hisoblanadi.</p>
+	</div>
+	<div id="-6445866" dir="ltr"><p>Konstitutsiyaviy qonunlarni qabul
+		qilishda barcha deputatlar, senatorlar umumiy sonining kamida
+		uchdan ikki qismi ishtirok etishi shart.</p>
+	</div>
+	<div id="-6445867" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Qonunchilik palatasi va Senati majlislarida, shuningdek
+		ularning organlari majlislarida Oʻzbekiston Respublikasi
+		Prezidenti, Bosh vazir, Vazirlar Mahkamasining aʼzolari,
+		Konstitutsiyaviy sud, Oliy sud, Sudyalar oliy kengashi raislari,
+		Bosh prokuror, Markaziy bank boshqaruvining raisi ishtirok
+		etishlari mumkin. Oʻzbekiston Respublikasi Oliy Majlisining
+		Qonunchilik palatasi va uning organlari majlislarida Senat Raisi,
+		Oʻzbekiston Respublikasi Oliy Majlisining Senati va uning
+		organlari majlislarida Qonunchilik palatasi Spikeri ishtirok etishi
+		mumkin.</p>
+	</div>
+	<div id="-6445869" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Qonunchilik palatasi va Senati alohida-alohida majlis
+		oʻtkazadilar.</p>
+	</div>
+	<div id="-6445870" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisi Qonunchilik palatasi va Senatining qoʻshma majlislari
+		Oʻzbekiston Respublikasi Prezidenti qasamyod qilganda, Oʻzbekiston
+		Respublikasi Prezidenti mamlakat ijtimoiy-iqtisodiy hayotining,
+		ichki va tashqi siyosatining eng muhim masalalari yuzasidan nutq
+		soʻzlaganda, chet davlatlarning rahbarlari nutq soʻzlaganda
+		oʻtkaziladi. Palatalarning kelishuviga binoan qoʻshma majlislar
+		boshqa masalalar yuzasidan ham oʻtkazilishi mumkin.</p>
+	</div>
+	<div id="-6445871" dir="ltr"><p>97-modda.</p>
+	</div>
+	<div id="-6445872" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Qonunchilik palatasi va Senati oʻz vakolatlariga
+		kiritilgan masalalar yuzasidan qarorlar qabul qiladi.</p>
+	</div>
+	<div id="-6445873" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisi Qonunchilik palatasi va Senatining qarorlari Qonunchilik
+		palatasi deputatlari yoki Senat aʼzolari umumiy sonining
+		koʻpchilik ovozi bilan qabul qilinadi, ushbu Konstitutsiyada
+		nazarda tutilgan hollar bundan mustasno.</p>
+	</div>
+	<div id="-6445874" dir="ltr"><p>98-modda.</p>
+	</div>
+	<div id="-6445875" dir="ltr"><p>Qonunchilik tashabbusi huquqiga
+		Oʻzbekiston Respublikasi Prezidenti, davlat hokimiyatining oliy
+		vakillik organi orqali Qoraqalpogʻiston Respublikasi, Oʻzbekiston
+		Respublikasi Oliy Majlisining Qonunchilik palatasi deputatlari,
+		Oʻzbekiston Respublikasi Vazirlar Mahkamasi ega. Oʻzbekiston
+		Respublikasining Konstitutsiyaviy sudi, Oliy sudi va Bosh prokurori
+		ham oʻz vakolatlari jumlasiga kiritilgan masalalar boʻyicha
+		qonunchilik tashabbusi huquqiga egadir.</p>
+	</div>
+	<div id="-6445876" dir="ltr"><p>Qonunchilik tashabbusi huquqi qonun
+		loyihasini qonunchilik tashabbusi huquqi subyektlari tomonidan
+		Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasiga
+		kiritish orqali amalga oshiriladi.</p>
+	</div>
+	<div id="-6445877" dir="ltr"><p>Oʻzbekiston Respublikasining saylov
+		huquqiga ega boʻlgan, yuz ming nafardan kam boʻlmagan fuqarolari,
+		Oʻzbekiston Respublikasi Oliy Majlisining Senati, Oʻzbekiston
+		Respublikasi Oliy Majlisining Inson huquqlari boʻyicha vakili
+		(ombudsman), Oʻzbekiston Respublikasi Markaziy saylov komissiyasi
+		qonunchilik takliflarini qonunchilik tashabbusi tartibida
+		Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasiga
+		kiritishga haqli.</p>
+	</div>
+	<div id="-6445878" dir="ltr"><p>Qonun loyihalarini, qonunchilik
+		takliflarini kiritish va koʻrib chiqish tartibi qonun bilan
+		belgilanadi.</p>
+	</div>
+	<div id="-6445880" dir="ltr"><p>99-modda.</p>
+	</div>
+	<div id="-6445881" dir="ltr"><p>Qonun Qonunchilik palatasi tomonidan
+		qabul qilinib, Senat tomonidan maʼqullanib, Oʻzbekiston
+		Respublikasi Prezidenti tomonidan imzolangach va qonunda
+		belgilangan tartibda rasmiy manbalarda eʼlon qilingach, yuridik
+		kuchga ega boʻladi.</p>
+	</div>
+	<div id="-6445882" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Qonunchilik palatasi tomonidan qabul qilingan qonun
+		qabul qilingan kundan eʼtiboran oʻn kundan kechiktirmay
+		Oʻzbekiston Respublikasi Oliy Majlisining Senatiga yuboriladi.</p>
+	</div>
+	<div id="-6445883" dir="ltr"><p>Qonun Oʻzbekiston Respublikasi Oliy
+		Majlisining Senati tomonidan oltmish kun ichida koʻrib chiqiladi
+		va maʼqullangan taqdirda, imzolanishi va eʼlon qilinishi uchun
+		Oʻzbekiston Respublikasi Prezidentiga oʻn kundan kechiktirmay
+		yuboriladi.</p>
+	</div>
+	<div id="-6445884" dir="ltr"><p>Agar Oʻzbekiston Respublikasi Oliy
+		Majlisining Senati qonunni maʼqullash yoki rad etish toʻgʻrisida
+		oltmish kun ichida qaror qabul qilmasa, Qonunchilik palatasi
+		tomonidan qonun imzolanishi va eʼlon qilinishi uchun Oʻzbekiston
+		Respublikasi Prezidentiga yuboriladi.</p>
+	</div>
+	<div id="-6445885" dir="ltr"><p>Oʻzbekiston Respublikasi Prezidenti
+		qonunni oltmish kun ichida imzolaydi va eʼlon qiladi.</p>
+	</div>
+	<div id="-6445886" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Senati tomonidan rad etilgan qonun Oʻzbekiston
+		Respublikasi Oliy Majlisining Qonunchilik palatasiga qaytariladi.</p>
+	</div>
+	<div id="-6445888" dir="ltr"><p>Agar Oʻzbekiston Respublikasi Oliy
+		Majlisining Senati tomonidan rad etilgan qonunni qayta koʻrib
+		chiqishda Qonunchilik palatasi deputatlar umumiy sonining uchdan
+		ikki qismidan iborat koʻpchilik ovozi bilan qonunni yana
+		maʼqullasa, qonun Oʻzbekiston Respublikasi Oliy Majlisi tomonidan
+		qabul qilingan hisoblanadi hamda imzolanishi va eʼlon qilinishi
+		uchun Oʻzbekiston Respublikasi Prezidentiga Qonunchilik palatasi
+		tomonidan yuboriladi.</p>
+	</div>
+	<div id="-6445889" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Senati tomonidan rad etilgan qonun yuzasidan
+		Qonunchilik palatasi va Senat yuzaga kelgan kelishmovchiliklarni
+		bartaraf etish uchun Qonunchilik palatasi deputatlari va Senat
+		aʼzolari orasidan tenglik asosida kelishuv komissiyasini tuzishi
+		mumkin. Palatalar kelishuv komissiyasi takliflarini qabul qilganda
+		qonun odatdagi tartibda koʻrib chiqilishi kerak.</p>
+	</div>
+	<div id="-6445890" dir="ltr"><p>Oʻzbekiston Respublikasi Prezidenti
+		qonunni oʻz eʼtirozlari bilan Oʻzbekiston Respublikasi Oliy
+		Majlisiga qaytarishga haqli.</p>
+	</div>
+	<div id="-6445892" dir="ltr"><p>Agar qonun avvalgi qabul qilingan
+		tahririda tegishincha Oʻzbekiston Respublikasi Oliy Majlisining
+		Qonunchilik palatasi deputatlari va Senati aʼzolari umumiy
+		sonining kamida uchdan ikki qismidan iborat koʻpchilik ovozi bilan
+		maʼqullansa, qonun Oʻzbekiston Respublikasi Prezidenti tomonidan
+		oʻn toʻrt kun ichida imzolanishi va eʼlon qilinishi kerak.</p>
+	</div>
+	<div id="-6445893" dir="ltr"><p>Qonunlarning va boshqa
+		normativ-huquqiy hujjatlarning eʼlon qilinishi ular
+		qoʻllanilishining majburiy shartidir.</p>
+	</div>
+	<div id="-6445894" dir="ltr"><p>100-modda.</p>
+	</div>
+	<div id="-6445895" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Qonunchilik palatasi oʻz tarkibidan Qonunchilik
+		palatasining Spikeri va uning oʻrinbosarlarini saylaydi.</p>
+	</div>
+	<div id="-6445897" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Qonunchilik palatasi Spikeri va uning oʻrinbosarlari
+		yashirin ovoz berish orqali deputatlar umumiy sonining koʻpchilik
+		ovozi bilan Qonunchilik palatasining vakolati muddatiga saylanadi.</p>
+	</div>
+	<div id="-6445898" dir="ltr"><p>Ayni bir shaxs surunkasiga ikki
+		muddatdan ortiq Oʻzbekiston Respublikasi Oliy Majlisi Qonunchilik
+		palatasining Spikeri boʻlishi mumkin emas.</p>
+	</div>
+	<div id="-6445899" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Qonunchilik palatasi Spikeri va uning oʻrinbosarlari
+		yashirin ovoz berish orqali Qonunchilik palatasi deputatlari umumiy
+		sonining uchdan ikki qismidan koʻprogʻining ovozi bilan qabul
+		qilingan Qonunchilik palatasi qaroriga binoan muddatidan ilgari
+		chaqirib olinishi mumkin.</p>
+	</div>
+	<div id="-6445900" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Qonunchilik palatasi Spikeri:</p>
+	</div>
+	<div id="-6445901" dir="ltr"><p>1) Qonunchilik palatasining
+		majlislarini chaqiradi, ularda raislik qiladi;</p>
+	</div>
+	<div id="-6445902" dir="ltr"><p>2) Qonunchilik palatasi muhokamasiga
+		kiritiladigan masalalarni tayyorlashga umumiy rahbarlik qiladi;</p>
+	</div>
+	<div id="-6445903" dir="ltr"><p>3) Qonunchilik palatasi qoʻmitalari
+		va komissiyalarining faoliyatini muvofiqlashtirib boradi;</p>
+	</div>
+	<div id="-6445904" dir="ltr"><p>4) Oʻzbekiston Respublikasi
+		qonunlarining va Qonunchilik palatasi qarorlarining ijrosi ustidan
+		nazoratni tashkil etadi;</p>
+	</div>
+	<div id="-6445905" dir="ltr"><p>5) parlamentlararo aloqalarni amalga
+		oshirish ishlariga hamda xalqaro parlament tashkilotlari ishi bilan
+		bogʻliq Qonunchilik palatasi guruhlarining faoliyatiga rahbarlik
+		qiladi;</p>
+	</div>
+	<div id="-6445906" dir="ltr"><p>6) Oʻzbekiston Respublikasi Oliy
+		Majlisining Senati, boshqa davlat organlari, chet davlatlar,
+		xalqaro va boshqa tashkilotlar bilan oʻzaro munosabatlarda
+		Qonunchilik palatasi nomidan ish koʻradi;</p>
+	</div>
+	<div id="-6445907" dir="ltr"><p>7) Qonunchilik palatasi qarorlarini
+		imzolaydi;</p>
+	</div>
+	<div id="-6445908" dir="ltr"><p>8) ushbu Konstitutsiya va qonun
+		hujjatlarida nazarda tutilgan boshqa vakolatlarni amalga oshiradi.</p>
+	</div>
+	<div id="-6445909" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Qonunchilik palatasi Spikeri farmoyishlar chiqaradi.</p>
+	</div>
+	<div id="-6445910" dir="ltr"><p>101-modda.</p>
+	</div>
+	<div id="-6445911" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Senati oʻz tarkibidan Senat Raisi va uning
+		oʻrinbosarlarini saylaydi. Senat Raisi Oʻzbekiston Respublikasi
+		Prezidentining taqdimiga binoan saylanadi.</p>
+	</div>
+	<div id="-6445912" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Senati Raisi oʻrinbosarlaridan biri Qoraqalpogʻiston
+		Respublikasining vakili boʻladi.</p>
+	</div>
+	<div id="-6445913" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Senati Raisi va uning oʻrinbosarlari yashirin ovoz
+		berish orqali senatorlar umumiy sonining koʻpchilik ovozi bilan
+		Senat vakolati muddatiga saylanadi.</p>
+	</div>
+	<div id="-6445914" dir="ltr"><p>Ayni bir shaxs surunkasiga ikki
+		muddatdan ortiq Oʻzbekiston Respublikasi Oliy Majlisi Senatining
+		Raisi boʻlishi mumkin emas.</p>
+	</div>
+	<div id="-6445915" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Senati Raisi va uning oʻrinbosarlari yashirin ovoz
+		berish orqali senatorlar umumiy sonining uchdan ikki qismidan
+		koʻprogʻining ovozi bilan qabul qilingan Senat qaroriga binoan
+		muddatidan ilgari chaqirib olinishi mumkin.</p>
+	</div>
+	<div id="-6445916" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Senati Raisi:</p>
+	</div>
+	<div id="-6445917" dir="ltr"><p>1) Senat majlislarini chaqiradi,
+		ularda raislik qiladi;</p>
+	</div>
+	<div id="-6445918" dir="ltr"><p>2) Senat muhokamasiga kiritiladigan
+		masalalarni tayyorlashga umumiy rahbarlik qiladi;</p>
+	</div>
+	<div id="-6445919" dir="ltr"><p>3) Senat qoʻmitalari va
+		komissiyalarining faoliyatini muvofiqlashtirib boradi;</p>
+	</div>
+	<div id="-6445920" dir="ltr"><p>4) Oʻzbekiston Respublikasi
+		qonunlarining va Senat qarorlarining ijrosi ustidan nazoratni
+		tashkil etadi;</p>
+	</div>
+	<div id="-6445921" dir="ltr"><p>5) parlamentlararo aloqalarni amalga
+		oshirish ishlariga hamda xalqaro parlament tashkilotlari ishi bilan
+		bogʻliq Senat guruhlarining faoliyatiga rahbarlik qiladi;</p>
+	</div>
+	<div id="-6445922" dir="ltr"><p>6) Oʻzbekiston Respublikasi Oliy
+		Majlisining Qonunchilik palatasi, boshqa davlat organlari, chet
+		davlatlar, xalqaro va boshqa tashkilotlar bilan oʻzaro
+		munosabatlarda Senat nomidan ish koʻradi;</p>
+	</div>
+	<div id="-6445923" dir="ltr"><p>7) Senat qarorlarini imzolaydi;</p>
+	</div>
+	<div id="-6445924" dir="ltr"><p>8) ushbu Konstitutsiya va qonun
+		hujjatlarida nazarda tutilgan boshqa vakolatlarni amalga oshiradi.</p>
+	</div>
+	<div id="-6445925" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Senati Raisi farmoyishlar chiqaradi.</p>
+	</div>
+	<div id="-6445926" dir="ltr"><p>102-modda.</p>
+	</div>
+	<div id="-6445927" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Qonunchilik palatasi qonun loyihalarini tayyorlash
+		ishini olib borish, Qonunchilik palatasi muhokamasiga kiritiladigan
+		masalalarni dastlabki tarzda koʻrib chiqish va tayyorlash,
+		Oʻzbekiston Respublikasi qonunlari hamda Qonunchilik palatasi
+		tomonidan qabul qilinadigan qarorlarning ijrosini nazorat qilish
+		uchun oʻz vakolatlari muddatiga Qonunchilik palatasi deputatlari
+		orasidan qoʻmitalarni saylaydi.</p>
+	</div>
+	<div id="-6445929" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Senati Senat muhokamasiga kiritiladigan masalalarni
+		dastlabki tarzda koʻrib chiqish va tayyorlash, Oʻzbekiston
+		Respublikasi qonunlari hamda Senat tomonidan qabul qilinadigan
+		qarorlarning ijrosini nazorat qilish uchun oʻz vakolatlari
+		muddatiga senatorlar orasidan qoʻmitalarni saylaydi.</p>
+	</div>
+	<div id="-6445930" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Qonunchilik palatasi va Senati, zarurat boʻlgan
+		taqdirda, muayyan vazifalarni bajarish uchun deputatlar, senatorlar
+		orasidan komissiyalar tuzadi.</p>
+	</div>
+	<div id="-6445931" dir="ltr"><p>103-modda.</p>
+	</div>
+	<div id="-6445932" dir="ltr"><p>Mamlakatning xavfsizligi, barqaror
+		rivojlanishi asoslariga salbiy taʼsir koʻrsatishi mumkin boʻlgan,
+		inson huquqlari va erkinliklariga, jamiyat va davlat manfaatlariga
+		tahdid soladigan faktlar va voqealarni oʻrganish maqsadida
+		Oʻzbekiston Respublikasi Oliy Majlisi Qonunchilik palatasi va
+		Senatining qoʻshma qarori bilan parlament tekshiruvi oʻtkazilishi
+		mumkin.</p>
+	</div>
+	<div id="-6445933" dir="ltr"><p>Parlament tekshiruvini oʻtkazish
+		uchun Oʻzbekiston Respublikasi Oliy Majlisi Qonunchilik palatasi
+		deputatlari va Senati aʼzolari orasidan tenglik asosida maxsus
+		komissiya tuzilib, u oʻz faoliyatini qonunga muvofiq amalga
+		oshiradi.</p>
+	</div>
+	<div id="-6445934" dir="ltr"><p>104-modda.</p>
+	</div>
+	<div id="-6445936" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Qonunchilik palatasi deputatlariga va Senati aʼzolariga
+		ularning deputatlik yoki senatorlik faoliyati bilan bogʻliq
+		xarajatlar belgilangan tartibda qoplanadi.</p>
+	</div>
+	<div id="-6445937" dir="ltr"><p>Qonunchilik palatasi deputatlari
+		hamda Senatda doimiy asosda ishlovchi Senat aʼzolari oʻz
+		vakolatlari davrida ilmiy, ijodiy va pedagogik faoliyatdan tashqari
+		haq toʻlanadigan boshqa turdagi faoliyat bilan shugʻullanishlari
+		mumkin emas.</p>
+	</div>
+	<div id="-6445938" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Qonunchilik palatasi deputati va Senati aʼzosi
+		daxlsizlik huquqidan foydalanadilar. Ular tegishincha Qonunchilik
+		palatasi yoki Senatning roziligisiz jinoiy javobgarlikka
+		tortilishi, ushlab turilishi, qamoqqa olinishi yoki sud tartibida
+		beriladigan maʼmuriy jazo choralariga tortilishi mumkin emas.</p>
+	</div>
+	<div id="-6445939" dir="ltr"><p>XIX bob. Oʻzbekiston
+		Respublikasining Prezidenti</p>
+	</div>
+	<div id="-6445940" dir="ltr"><p>105-modda.</p>
+	</div>
+	<div id="-6445941" dir="ltr"><p>Oʻzbekiston Respublikasining
+		Prezidenti davlat boshligʻidir va davlat hokimiyati organlarining
+		kelishilgan holda faoliyat yuritishini hamda hamkorligini
+		taʼminlaydi.</p>
+	</div>
+	<div id="-6445942" dir="ltr"><p>106-modda.</p>
+	</div>
+	<div id="-6445943" dir="ltr"><p>Oʻzbekiston Respublikasi Prezidenti
+		lavozimiga oʻttiz besh yoshdan kichik boʻlmagan, davlat tilini
+		yaxshi biladigan, bevosita saylovgacha kamida 10 yil Oʻzbekiston
+		hududida muqim yashayotgan Oʻzbekiston Respublikasi fuqarosi
+		saylanishi mumkin. Ayni bir shaxs surunkasiga ikki muddatdan ortiq
+		Oʻzbekiston Respublikasining Prezidenti boʻlishi mumkin emas.</p>
+	</div>
+	<div id="-6445944" dir="ltr"><p>Oʻzbekiston Respublikasining
+		Prezidenti Oʻzbekiston Respublikasining fuqarolari tomonidan
+		umumiy, teng va toʻgʻridan-toʻgʻri saylov huquqi asosida
+		yashirin ovoz berish yoʻli bilan yetti yil muddatga saylanadi.
+		Oʻzbekiston Respublikasining Prezidentini saylash tartibi qonun
+		bilan belgilanadi.</p>
+	</div>
+	<div id="-6445945" dir="ltr"><p>107-modda.</p>
+	</div>
+	<div id="-6445946" dir="ltr"><p>Oʻzbekiston Respublikasi Prezidenti
+		oʻz vazifasini bajarib turgan davrda boshqa haq toʻlanadigan
+		lavozimni egallashi, vakillik organining deputati boʻlishi,
+		tadbirkorlik faoliyati bilan shugʻullanishi mumkin emas.</p>
+	</div>
+	<div id="-6445947" dir="ltr"><p>Oʻzbekiston Respublikasi
+		Prezidentining shaxsi daxlsizdir va qonun bilan muhofaza etiladi.</p>
+	</div>
+	<div id="-6445949" dir="ltr"><p>108-modda.</p>
+	</div>
+	<div id="-6445950" dir="ltr"><p>Oʻzbekiston Respublikasi Prezidenti
+		Oʻzbekiston Respublikasi Oliy Majlisi yigʻilishida quyidagi
+		qasamyodni qabul qilgan paytdan boshlab oʻz lavozimiga kirishgan
+		hisoblanadi:</p>
+	</div>
+	<div id="-6445951" dir="ltr"><p>“Oʻzbekiston xalqiga sadoqat
+		bilan xizmat qilishga, respublikaning Konstitutsiyasi va
+		qonunlariga qatʼiy rioya etishga, fuqarolarning huquqlari va
+		erkinliklariga kafolat berishga, Oʻzbekiston Respublikasi
+		Prezidenti zimmasiga yuklatilgan vazifalarni vijdonan bajarishga
+		tantanali qasamyod qilaman”. 
+		</p>
+	</div>
+	<div id="-6445952" dir="ltr"><p>109-modda.</p>
+	</div>
+	<div id="-6445953" dir="ltr"><p>Oʻzbekiston Respublikasining
+		Prezidenti:</p>
+	</div>
+	<div id="-6445954" dir="ltr"><p>1) fuqarolarning huquqlari va
+		erkinliklariga, Oʻzbekiston Respublikasining Konstitutsiyasi va
+		qonunlariga rioya etilishining, Oʻzbekiston Respublikasi
+		suvereniteti, xavfsizligi va hududiy yaxlitligining kafilidir,
+		milliy-davlat tuzilishi masalalariga doir qarorlarni amalga
+		oshirish yuzasidan zarur chora-tadbirlar koʻradi;</p>
+	</div>
+	<div id="-6445955" dir="ltr"><p>2) mamlakat ichkarisida va xalqaro
+		munosabatlarda Oʻzbekiston Respublikasi nomidan ish koʻradi;</p>
+	</div>
+	<div id="-6445956" dir="ltr"><p>3) muzokaralar olib boradi hamda
+		Oʻzbekiston Respublikasining shartnoma va bitimlarini imzolaydi,
+		respublika tomonidan tuzilgan shartnomalarga, bitimlarga va uning
+		qabul qilingan majburiyatlariga rioya etilishini taʼminlaydi;</p>
+	</div>
+	<div id="-6445957" dir="ltr"><p>4) oʻz huzurida akkreditatsiyadan
+		oʻtgan diplomatik hamda boshqa vakillarning ishonch va chaqiruv
+		yorliqlarini qabul qiladi;</p>
+	</div>
+	<div id="-6445958" dir="ltr"><p>5) Oʻzbekiston Respublikasining
+		chet davlatlardagi va xalqaro tashkilotlar huzuridagi diplomatik
+		hamda boshqa vakolatxonalarining rahbarlarini tayinlash uchun
+		nomzodlarni Oʻzbekiston Respublikasi Oliy Majlisining Senatiga
+		taqdim etadi;</p>
+	</div>
+	<div id="-6445959" dir="ltr"><p>6) Oʻzbekiston Respublikasi xalqiga
+		hamda Oliy Majlisiga mamlakat ichki va tashqi siyosatini amalga
+		oshirishning eng muhim masalalari yuzasidan murojaat qilish
+		huquqiga ega;</p>
+	</div>
+	<div id="-6445960" dir="ltr"><p>7) vazirliklarni va boshqa
+		respublika ijro etuvchi hokimiyat organlarini tuzadi hamda
+		tugatadi, shu masalalarga doir farmonlarni keyinchalik Oʻzbekiston
+		Respublikasi Oliy Majlisining Senati tasdigʻiga kiritadi;</p>
+	</div>
+	<div id="-6445961" dir="ltr"><p>8) Senat Raisi lavozimiga saylash
+		uchun nomzodni Oʻzbekiston Respublikasi Oliy Majlisining Senatiga
+		taqdim etadi;</p>
+	</div>
+	<div id="-6445962" dir="ltr"><p>9) Oʻzbekiston Respublikasi Bosh
+		vazirini, Oʻzbekiston Respublikasi Vazirlar Mahkamasi aʼzolarini
+		Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasi
+		maʼqullaganidan keyin lavozimga tayinlaydi va ularni lavozimidan
+		ozod etadi;</p>
+	</div>
+	<div id="-6445963" dir="ltr"><p>10) qoʻmitalar, agentliklar va
+		boshqa respublika davlat organlari rahbarlarini qonunchilikka
+		muvofiq lavozimga tayinlaydi va lavozimidan ozod etadi;</p>
+	</div>
+	<div id="-6445964" dir="ltr"><p>11) Oʻzbekiston Respublikasi Bosh
+		prokurorini, Oʻzbekiston Respublikasi Hisob palatasi raisini
+		Oʻzbekiston Respublikasi Oliy Majlisining Senati maʼqullaganidan
+		keyin lavozimga tayinlaydi va ularni lavozimidan ozod etadi;</p>
+	</div>
+	<div id="-6445965" dir="ltr"><p>12) Oʻzbekiston Respublikasi Oliy
+		Majlisining Senati bilan maslahatlashuvlardan keyin Oʻzbekiston
+		Respublikasi Davlat xavfsizlik xizmati raisini lavozimga tayinlaydi
+		va uni lavozimidan ozod etadi;</p>
+	</div>
+	<div id="-6445966" dir="ltr"><p>13) Oʻzbekiston Respublikasi Oliy
+		Majlisining Senatiga Oʻzbekiston Respublikasi Konstitutsiyaviy
+		sudi, Oʻzbekiston Respublikasi Oliy sudi, Oʻzbekiston
+		Respublikasi Sudyalar oliy kengashi tarkiblariga nomzodlarni,
+		shuningdek Oʻzbekiston Respublikasi Markaziy banki boshqaruvining
+		raisi, respublika korrupsiyaga qarshi kurashish organining rahbari
+		va respublika monopoliyaga qarshi organining rahbari lavozimlariga
+		nomzodlarni taqdim etadi;</p>
+	</div>
+	<div id="-6445968" dir="ltr"><p>14) Oʻzbekiston Respublikasi
+		Sudyalar oliy kengashining taqdimiga binoan viloyatlar va Toshkent
+		shahar sudlari raislarini va rais oʻrinbosarlarini, Oʻzbekiston
+		Respublikasi Harbiy sudi raisini tayinlaydi va lavozimidan ozod
+		etadi;</p>
+	</div>
+	<div id="-6445969" dir="ltr"><p>15) viloyatlar hokimlarini va
+		Toshkent shahar hokimini tayinlaydi hamda lavozimidan ozod etadi.
+		Konstitutsiyani, qonunlarni buzgan yoki hokim shaʼni va
+		qadr-qimmatiga dogʻ tushiradigan xatti-harakat sodir etgan tuman
+		va shahar hokimlarini Oʻzbekiston Respublikasi Prezidenti oʻz
+		qarori bilan lavozimidan ozod etishga haqli;</p>
+	</div>
+	<div id="-6445970" dir="ltr"><p>16) respublika ijro etuvchi
+		hokimiyat organlarining va hokimlarning hujjatlarini toʻxtatadi,
+		bekor qiladi; Oʻzbekiston Respublikasi Vazirlar Mahkamasi
+		majlislarida raislik qilishga haqli;</p>
+	</div>
+	<div id="-6445972" dir="ltr"><p>17) Oʻzbekiston Respublikasining
+		qonunlarini imzolaydi va eʼlon qiladi; qonunni oʻz eʼtirozlari
+		bilan takroran muhokama qilish va ovozga qoʻyish uchun Oʻzbekiston
+		Respublikasi Oliy Majlisiga qaytarishga haqli;</p>
+	</div>
+	<div id="-6445973" dir="ltr"><p>18) Oʻzbekiston Respublikasiga
+		hujum qilinganda yoki tajovuzdan bir-birini mudofaa qilish
+		yuzasidan tuzilgan shartnoma majburiyatlarini bajarish zaruriyati
+		tugʻilganda urush holati, umumiy yoki qisman safarbarlik eʼlon
+		qiladi va qabul qilgan qarorini uch kun ichida Oʻzbekiston
+		Respublikasi Oliy Majlisi palatalarining tasdigʻiga kiritadi;</p>
+	</div>
+	<div id="-6445974" dir="ltr"><p>19) alohida hollarda (real tashqi
+		xavf, ommaviy tartibsizliklar, yirik halokat, tabiiy ofat,
+		epidemiyalar) fuqarolarning xavfsizligini taʼminlashni koʻzlab,
+		Oʻzbekiston Respublikasining butun hududida yoki uning ayrim
+		joylarida favqulodda holat joriy etadi va qabul qilgan qarorini uch
+		kun ichida Oʻzbekiston Respublikasi Oliy Majlisining palatalari
+		tasdigʻiga kiritadi. Favqulodda holat joriy etish shartlari va
+		tartibi qonun bilan belgilanadi;</p>
+	</div>
+	<div id="-6445975" dir="ltr"><p>20) Oʻzbekiston Respublikasi
+		Qurolli Kuchlarining Oliy Bosh qoʻmondoni hisoblanadi, Qurolli
+		Kuchlarning oliy qoʻmondonlarini tayinlaydi va lavozimidan ozod
+		etadi, oliy harbiy unvonlar beradi;</p>
+	</div>
+	<div id="-6445976" dir="ltr"><p>21) Oʻzbekiston Respublikasining
+		ordenlari, medallari va yorligʻi bilan mukofotlaydi, Oʻzbekiston
+		Respublikasining malakaviy va faxriy unvonlarini beradi;</p>
+	</div>
+	<div id="-6445978" dir="ltr"><p>22) Oʻzbekiston Respublikasining
+		fuqaroligiga va siyosiy boshpana berishga oid masalalarni hal
+		etadi;</p>
+	</div>
+	<div id="-6445979" dir="ltr"><p>23) amnistiya toʻgʻrisidagi
+		hujjatlarni qabul qilish haqida Oʻzbekiston Respublikasi Oliy
+		Majlisining Senatiga taqdimnomalar kiritadi va Oʻzbekiston
+		Respublikasining sudlari tomonidan hukm qilingan shaxslarni afv
+		etadi;</p>
+	</div>
+	<div id="-6445980" dir="ltr"><p>24) Oʻzbekiston Respublikasi
+		Prezidenti huzuridagi Xavfsizlik kengashini tuzadi va unga
+		boshchilik qiladi, oʻz vakolatlari amalga oshirilishini taʼminlash
+		maqsadida Oʻzbekiston Respublikasi Prezidenti Administratsiyasini,
+		shuningdek Oʻzbekiston Respublikasi Prezidenti huzuridagi
+		maslahat-kengash organlarini va boshqa organlarni shakllantiradi;</p>
+	</div>
+	<div id="-6445981" dir="ltr"><p>25) ushbu Konstitutsiya va
+		qonunlarda nazarda tutilgan boshqa vakolatlarni amalga oshiradi.</p>
+	</div>
+	<div id="-6445983" dir="ltr"><p>Oʻzbekiston Respublikasi Prezidenti
+		oʻz vakolatlarini bajarishni davlat organlariga yoki mansabdor
+		shaxslarga topshirishga haqli emas.</p>
+	</div>
+	<div id="-6445984" dir="ltr"><p>110-modda.</p>
+	</div>
+	<div id="-6445985" dir="ltr"><p>Oʻzbekiston Respublikasining
+		Prezidenti Konstitutsiyaga va qonunlarga asoslanib hamda ularni
+		ijro etish yuzasidan respublikaning butun hududida majburiy kuchga
+		ega boʻlgan farmonlar, qarorlar va farmoyishlar chiqaradi.</p>
+	</div>
+	<div id="-6445987" dir="ltr"><p>111-modda.</p>
+	</div>
+	<div id="-6445988" dir="ltr"><p>Qonunchilik palatasi yoki Senat
+		tarkibida ularning normal faoliyatiga tahdid soluvchi hal qilib
+		boʻlmaydigan ixtiloflar yuz berganda yoxud ular bir necha marta
+		Oʻzbekiston Respublikasining Konstitutsiyasiga zid qarorlar qabul
+		qilgan taqdirda, shuningdek Qonunchilik palatasi bilan Senat
+		oʻrtasida Oʻzbekiston Respublikasi Oliy Majlisining normal
+		faoliyatiga tahdid soluvchi hal qilib boʻlmaydigan ixtiloflar yuz
+		berganda Oʻzbekiston Respublikasi Prezidentining Oʻzbekiston
+		Respublikasi Konstitutsiyaviy sudi bilan bamaslahat qabul qilgan
+		qarori asosida Oʻzbekiston Respublikasi Oliy Majlisining
+		Qonunchilik palatasi, Senati tarqatib yuborilishi mumkin.</p>
+	</div>
+	<div id="-6445989" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Qonunchilik palatasi, Senati tarqatib yuborilgan
+		taqdirda yangi saylov uch oy mobaynida oʻtkaziladi.</p>
+	</div>
+	<div id="-6445990" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Qonunchilik palatasi va Senati favqulodda holat amal
+		qilishi davrida tarqatib yuborilishi mumkin emas.</p>
+	</div>
+	<div id="-6445991" dir="ltr"><p>112-modda.</p>
+	</div>
+	<div id="-6445992" dir="ltr"><p>Oʻzbekiston Respublikasining
+		amaldagi Prezidenti oʻz vazifalarini bajara olmaydigan holatlarda
+		uning vazifa va vakolatlari vaqtincha Oʻzbekiston Respublikasi
+		Oliy Majlisi Senati Raisining zimmasiga yuklatiladi, bunda uch oy
+		muddat ichida qonunga toʻliq muvofiq holda Oʻzbekiston
+		Respublikasi Prezidenti saylovi oʻtkaziladi.</p>
+	</div>
+	<div id="-6445993" dir="ltr"><p>113-modda.</p>
+	</div>
+	<div id="-6445994" dir="ltr"><p>Vakolati tugashi munosabati bilan
+		isteʼfoga chiqqan Oʻzbekiston Respublikasi Prezidenti umrbod
+		Oʻzbekiston Respublikasi Oliy Majlisi Senati aʼzosi lavozimini
+		egallaydi.</p>
+	</div>
+	<div id="-6445996" dir="ltr"><p>XX bob. Oʻzbekiston Respublikasi
+		Vazirlar Mahkamasi</p>
+	</div>
+	<div id="-6445997" dir="ltr"><p>114-modda.</p>
+	</div>
+	<div id="-6445998" dir="ltr"><p>Oʻzbekiston Respublikasi Vazirlar
+		Mahkamasi ijro etuvchi hokimiyatni amalga oshiradi. Oʻzbekiston
+		Respublikasi Vazirlar Mahkamasi Oʻzbekiston Respublikasi Bosh
+		vaziri, uning oʻrinbosarlari va vazirlardan iborat.
+		Qoraqalpogʻiston Respublikasi hukumatining boshligʻi Vazirlar
+		Mahkamasi tarkibiga oʻz lavozimi boʻyicha kiradi.</p>
+	</div>
+	<div id="-6445999" dir="ltr"><p>Vazirlar Mahkamasi oʻz faoliyatini
+		ijro etuvchi hokimiyat faoliyatining Oʻzbekiston Respublikasi
+		Prezidenti tomonidan belgilanadigan asosiy yoʻnalishlari doirasida
+		amalga oshiradi.</p>
+	</div>
+	<div id="-6446000" dir="ltr"><p>115-modda.</p>
+	</div>
+	<div id="-6446001" dir="ltr"><p>Oʻzbekiston Respublikasi Vazirlar
+		Mahkamasi:</p>
+	</div>
+	<div id="-6446002" dir="ltr"><p>1) samarali iqtisodiy, ijtimoiy,
+		soliq va budjet siyosati amalga oshirilishi, ilm-fan, madaniyat,
+		taʼlim, sogʻliqni saqlashni hamda iqtisodiyotning va ijtimoiy
+		sohaning boshqa tarmoqlarini rivojlantirishga doir dasturlarning
+		ishlab chiqilishi hamda bajarilishi uchun javobgar boʻladi;</p>
+	</div>
+	<div id="-6446003" dir="ltr"><p>2) barqaror iqtisodiy oʻsishni,
+		makroiqtisodiy barqarorlikni taʼminlash, kambagʻallikni
+		qisqartirish, aholi uchun munosib turmush sharoitlarini yaratish,
+		oziq-ovqat xavfsizligini taʼminlash, qulay investitsiyaviy muhitni
+		yaratish, hududlarni kompleks va barqaror rivojlantirish boʻyicha
+		choralar koʻradi; 
+		</p>
+	</div>
+	<div id="-6446004" dir="ltr"><p>3) aholini, shu jumladan nogironligi
+		boʻlgan shaxslarni ijtimoiy himoya qilish tizimining samarali
+		faoliyat koʻrsatishini taʼminlaydi;</p>
+	</div>
+	<div id="-6446005" dir="ltr"><p>4) atrof-muhitni muhofaza qilish,
+		tabiiy boyliklarni va biologik xilma-xillikni saqlash, iqlim
+		oʻzgarishiga, epidemiyalarga, pandemiyalarga qarshi kurashish
+		hamda ularning oqibatlarini yumshatish sohalarida yagona davlat
+		siyosati amalga oshirilishini taʼminlaydi;</p>
+	</div>
+	<div id="-6446006" dir="ltr"><p>5) yoshlarga oid davlat siyosatining
+		amalga oshirilishini taʼminlaydi, oilani qoʻllab-quvvatlash,
+		mustahkamlash va himoya qilish, anʼanaviy oilaviy qadriyatlarni
+		saqlash boʻyicha choralar koʻradi;</p>
+	</div>
+	<div id="-6446007" dir="ltr"><p>6) fuqarolik jamiyati institutlarini
+		qoʻllab-quvvatlash chora-tadbirlarini amalga oshiradi,
+		ijtimoiy-iqtisodiy rivojlantirish hamda ijtimoiy sheriklik
+		dasturlarini ishlab chiqish va amalga oshirishda ularning ishtirok
+		etishini taʼminlaydi;</p>
+	</div>
+	<div id="-6446008" dir="ltr"><p>7) fuqarolarning iqtisodiy, ijtimoiy
+		hamda boshqa huquqlari va qonuniy manfaatlarini himoya qilish
+		boʻyicha chora-tadbirlarni amalga oshiradi;</p>
+	</div>
+	<div id="-6446009" dir="ltr"><p>8) Oʻzbekiston Respublikasi
+		Konstitutsiyasi va qonunlari, Oliy Majlis palatalari qarorlari,
+		Oʻzbekiston Respublikasi Prezidenti farmonlari, qarorlari va
+		farmoyishlari ijrosini taʼminlaydi;</p>
+	</div>
+	<div id="-6446010" dir="ltr"><p>9) ijro etuvchi hokimiyat organlari
+		ishini muvofiqlashtiradi va yoʻnaltiradi, ularning faoliyati
+		ustidan qonunda belgilangan tartibda nazoratni amalga oshiradi;</p>
+	</div>
+	<div id="-6446011" dir="ltr"><p>10) ijro etuvchi hokimiyat
+		organlarining ishida ochiqlik va shaffoflikni, qonuniylik va
+		samaradorlikni taʼminlash, ularning faoliyatida korrupsiya
+		holatlariga qarshi kurashish, davlat xizmatlarining sifatini
+		oshirish va ulardan foydalanish imkoniyatini kengaytirish boʻyicha
+		choralar koʻradi;</p>
+	</div>
+	<div id="-6446012" dir="ltr"><p>11) Oʻzbekiston Respublikasi Oliy
+		Majlisi Qonunchilik palatasiga mamlakat ijtimoiy-iqtisodiy
+		hayotining eng muhim masalalari yuzasidan har yilgi maʼruzalarni
+		taqdim etadi;</p>
+	</div>
+	<div id="-6446013" dir="ltr"><p>12) ushbu Konstitutsiya va
+		qonunlarda nazarda tutilgan boshqa vakolatlarni amalga oshiradi.</p>
+	</div>
+	<div id="-6446014" dir="ltr"><p>116-modda.</p>
+	</div>
+	<div id="-6446016" dir="ltr"><p>Vazirlar Mahkamasi konstitutsiyaviy
+		normalar doirasida va qonunchilikka muvofiq Oʻzbekiston
+		Respublikasining butun hududidagi barcha organlar, korxonalar,
+		muassasalar, tashkilotlar, mansabdor shaxslar va fuqarolar
+		tomonidan bajarilishi majburiy boʻlgan qarorlar va farmoyishlar
+		chiqaradi.</p>
+	</div>
+	<div id="-6446017" dir="ltr"><p>Vazirlar Mahkamasi oʻz faoliyatida
+		Oʻzbekiston Respublikasi Oliy Majlisi va Oʻzbekiston Respublikasi
+		Prezidenti oldida javobgardir.</p>
+	</div>
+	<div id="-6446018" dir="ltr"><p>Amaldagi Vazirlar Mahkamasi yangi
+		saylangan Oʻzbekiston Respublikasi Oliy Majlisi oldida oʻz
+		vakolatlarini zimmasidan soqit qiladi, biroq Vazirlar Mahkamasining
+		yangi tarkibi shakllantirilguniga qadar Oʻzbekiston Respublikasi
+		Prezidentining qaroriga muvofiq oʻz faoliyatini davom ettirib
+		turadi. 
+		</p>
+	</div>
+	<div id="-6446019" dir="ltr"><p>117-modda.</p>
+	</div>
+	<div id="-6446020" dir="ltr"><p>Oʻzbekiston Respublikasi Bosh
+		vaziri:</p>
+	</div>
+	<div id="-6446021" dir="ltr"><p>1) Vazirlar Mahkamasi faoliyatini
+		tashkil etadi va unga rahbarlik qiladi, uning samarali ishlashi
+		uchun shaxsan javobgar boʻladi;</p>
+	</div>
+	<div id="-6446022" dir="ltr"><p>2) Vazirlar Mahkamasining
+		majlislarida raislik qiladi, uning qarorlarini imzolaydi;</p>
+	</div>
+	<div id="-6446023" dir="ltr"><p>3) xalqaro munosabatlarda
+		Oʻzbekiston Respublikasi Vazirlar Mahkamasi nomidan ish koʻradi;</p>
+	</div>
+	<div id="-6446024" dir="ltr"><p>4) Oʻzbekiston Respublikasi
+		qonunlarida nazarda tutilgan boshqa vazifalarni bajaradi.</p>
+	</div>
+	<div id="-6446025" dir="ltr"><p>118-modda.</p>
+	</div>
+	<div id="-6446026" dir="ltr"><p>Oʻzbekiston Respublikasi Bosh
+		vaziri nomzodi Oʻzbekiston Respublikasi Oliy Majlisi
+		palatalarining mansabdor shaxslari saylangandan va organlari
+		shakllangandan soʻng bir oy ichida yoki Bosh vazir lavozimidan
+		ozod etilganidan keyin yoxud Bosh vazir, Vazirlar Mahkamasining
+		amaldagi tarkibi isteʼfoga chiqqanidan keyin bir oy ichida
+		Qonunchilik palatasi koʻrib chiqishi va maʼqullashi uchun
+		Oʻzbekiston Respublikasi Prezidenti tomonidan barcha siyosiy
+		partiyalar fraksiyalari bilan maslahatlashuvlar oʻtkazilganidan
+		soʻng taqdim etiladi.</p>
+	</div>
+	<div id="-6446027" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Qonunchilik palatasi Oʻzbekiston Respublikasi
+		Prezidenti tomonidan taqdim etilgan Oʻzbekiston Respublikasi Bosh
+		vaziri nomzodini taqdimnoma kiritilgan kundan eʼtiboran oʻn kun
+		ichida koʻrib chiqadi.</p>
+	</div>
+	<div id="-6446028" dir="ltr"><p>Bosh vazir lavozimiga nomzod
+		Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasida
+		uning nomzodi koʻrib chiqilayotganda Vazirlar Mahkamasining yaqin
+		muddatga va uzoq istiqbolga moʻljallangan harakat dasturini taqdim
+		etadi.</p>
+	</div>
+	<div id="-6446029" dir="ltr"><p>Bosh vazir nomzodi uning uchun
+		Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasi
+		deputatlari umumiy sonining yarmidan koʻpi tomonidan ovoz berilgan
+		taqdirda maʼqullangan hisoblanadi.</p>
+	</div>
+	<div id="-6446030" dir="ltr"><p>Bosh vazir lavozimiga taqdim etilgan
+		nomzod uch marta rad etilgan taqdirda, Oʻzbekiston Respublikasi
+		Prezidenti Bosh vazirni tayinlaydi va Oʻzbekiston Respublikasi
+		Oliy Majlisining Qonunchilik palatasini tarqatib yuborishga haqli.</p>
+	</div>
+	<div id="-6446031" dir="ltr"><p>Oʻzbekiston Respublikasi Vazirlar
+		Mahkamasining aʼzolari ularning nomzodlari Oʻzbekiston
+		Respublikasi Oliy Majlisining Qonunchilik palatasi tomonidan
+		maʼqullanganidan keyin Oʻzbekiston Respublikasi Prezidenti
+		tomonidan lavozimga tayinlanadi.</p>
+	</div>
+	<div id="-6446032" dir="ltr"><p>Oʻzbekiston Respublikasi Prezidenti
+		Bosh vazirni, Oʻzbekiston Respublikasi Vazirlar Mahkamasining
+		amaldagi tarkibini yoki aʼzosini isteʼfoga chiqarishga haqli.</p>
+	</div>
+	<div id="-6446033" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Qonunchilik palatasi Oʻzbekiston Respublikasi Vazirlar
+		Mahkamasi aʼzosining oʻz faoliyatiga oid masalalar yuzasidan
+		hisobotini eshitishga haqli. Vazirlar Mahkamasi aʼzosining
+		hisobotini eshitish yakunlariga koʻra Qonunchilik palatasi uni
+		isteʼfoga chiqarish toʻgʻrisidagi taklifni Oʻzbekiston
+		Respublikasi Prezidentiga koʻrib chiqish uchun kiritishga haqli.</p>
+	</div>
+	<div id="-6446034" dir="ltr"><p>Oʻzbekiston Respublikasi Vazirlar
+		Mahkamasi aʼzolari parlament soʻrovlariga va Qonunchilik palatasi
+		deputatining, Senat aʼzosining soʻrovlariga qonunda belgilangan
+		tartibda javob berishi shart.</p>
+	</div>
+	<div id="-6446035" dir="ltr"><p>Vazirlar Mahkamasining faoliyatini
+		tashkil etish tartibi va vakolat doirasi qonun bilan belgilanadi.</p>
+	</div>
+	<div id="-6446036" dir="ltr"><p>119-modda.</p>
+	</div>
+	<div id="-6446037" dir="ltr"><p>Oʻzbekiston Respublikasi Bosh
+		vaziri va Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik
+		palatasi oʻrtasida ziddiyatlar doimiy tus olgan holda Qonunchilik
+		palatasi deputatlari umumiy sonining kamida uchdan bir qismi
+		tomonidan Oʻzbekiston Respublikasi Prezidenti nomiga rasman
+		kiritilgan taklif boʻyicha Oʻzbekiston Respublikasi Oliy Majlisi
+		Qonunchilik palatasining muhokamasiga Bosh vazirga nisbatan
+		ishonchsizlik votumi bildirish haqidagi masala kiritiladi.</p>
+	</div>
+	<div id="-6446038" dir="ltr"><p>Bosh vazirga nisbatan ishonchsizlik
+		votumi, agar Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik
+		palatasi deputatlari umumiy sonining kamida uchdan ikki qismi ovoz
+		bersa, qabul qilingan hisoblanadi. Bunday holatda Oʻzbekiston
+		Respublikasi Prezidenti Bosh vazirni lavozimidan ozod etish
+		toʻgʻrisida qaror qabul qiladi. Bunda Oʻzbekiston Respublikasi
+		Vazirlar Mahkamasining butun tarkibi Bosh vazir bilan birga
+		isteʼfoga chiqadi.</p>
+	</div>
+	<div id="-6446040" dir="ltr"><p>XXI bob. Mahalliy davlat hokimiyati
+		asoslari. Fuqarolarning oʻzini oʻzi boshqarish organlari</p>
+	</div>
+	<div id="-6446041" dir="ltr"><p>120-modda.</p>
+	</div>
+	<div id="-6446042" dir="ltr"><p>Viloyatlar, tumanlar va shaharlarda
+		(tumanga boʻysunadigan shaharlardan tashqari) xalq deputatlari
+		Kengashlari davlat hokimiyati vakillik organlaridir.</p>
+	</div>
+	<div id="-6446044" dir="ltr"><p>Xalq deputatlari Kengashiga uning
+		deputatlari orasidan qonunga muvofiq saylanadigan rais boshchilik
+		qiladi.</p>
+	</div>
+	<div id="-6446045" dir="ltr"><p>Viloyat, tuman, shahar hokimi
+		lavozimini egallab turgan shaxs bir vaqtning oʻzida xalq
+		deputatlari Kengashining raisi lavozimini egallashi mumkin emas.</p>
+	</div>
+	<div id="-6446046" dir="ltr"><p>Xalq deputatlari Kengashlarining
+		vakolatlari muddati — besh yil. Ayni bir shaxs surunkasiga ikki
+		muddatdan ortiq ayni bir viloyat, tuman, shahar xalq deputatlari
+		Kengashining raisi etib saylanishi mumkin emas.</p>
+	</div>
+	<div id="-6446047" dir="ltr"><p>Xalq deputatlari Kengashlari
+		deputatlari saylovi va xalq deputatlari Kengashlarining faoliyatini
+		tashkil etish tartibi qonun bilan belgilanadi.</p>
+	</div>
+	<div id="-6446048" dir="ltr"><p>Yangidan tashkil etilgan
+		maʼmuriy-hududiy birliklarda xalq deputatlari Kengashlariga saylov
+		xalq deputatlari Kengashlariga navbatdagi umumiy saylovlarga qadar
+		qolgan davrdan oshmaydigan muddatga oʻtkaziladi.</p>
+	</div>
+	<div id="-6446049" dir="ltr"><p>121-modda.</p>
+	</div>
+	<div id="-6446051" dir="ltr"><p>Tegishli hududdagi ijro etuvchi
+		hokimiyatga viloyat, tuman va shahar hokimi boshchilik qiladi.</p>
+	</div>
+	<div id="-6446052" dir="ltr"><p>Hokimlarning vakolatlari muddati —
+		besh yil. Ayni bir shaxs surunkasiga ikki muddatdan ortiq ayni bir
+		viloyat, tuman, shaharning hokimi etib tayinlanishi mumkin emas.</p>
+	</div>
+	<div id="-6446053" dir="ltr"><p>Hokimlarning faoliyatini tashkil
+		etish tartibi qonun bilan belgilanadi.</p>
+	</div>
+	<div id="-6446054" dir="ltr"><p>122-modda.</p>
+	</div>
+	<div id="-6446055" dir="ltr"><p>Xalq deputatlari Kengashlarining
+		vakolatlari quyidagilardan iborat:</p>
+	</div>
+	<div id="-6446056" dir="ltr"><p>1) tegishli mahalliy budjetlarni
+		koʻrib chiqish va qabul qilish, ularning ijro etilishi ustidan
+		nazoratni amalga oshirish;</p>
+	</div>
+	<div id="-6446057" dir="ltr"><p>2) hududlarni ijtimoiy-iqtisodiy
+		rivojlantirish va aholini ijtimoiy himoya qilish dasturlarini
+		tasdiqlash;</p>
+	</div>
+	<div id="-6446058" dir="ltr"><p>3) hokimni lavozimga tasdiqlash,
+		uning faoliyati toʻgʻrisidagi hisobotlarni eshitish;</p>
+	</div>
+	<div id="-6446059" dir="ltr"><p>4) ushbu Konstitutsiya va qonunlarda
+		nazarda tutilgan boshqa vakolatlarni amalga oshirish.</p>
+	</div>
+	<div id="-6446060" dir="ltr"><p>123-modda.</p>
+	</div>
+	<div id="-6446061" dir="ltr"><p>Viloyatlar, tumanlar, shaharlar
+		hokimlarining vakolatlari quyidagilardan iborat:</p>
+	</div>
+	<div id="-6446062" dir="ltr"><p>1) Oʻzbekiston Respublikasining
+		Konstitutsiyasi va qonunlarini, Oliy Majlis palatalarining
+		qarorlarini, Oʻzbekiston Respublikasi Prezidentining farmonlari,
+		qarorlari hamda farmoyishlarini, Vazirlar Mahkamasining, yuqori
+		turuvchi hokimlarning va tegishli xalq deputatlari Kengashlarining
+		qarorlarini bajarish;</p>
+	</div>
+	<div id="-6446063" dir="ltr"><p>2) hududlarni iqtisodiy, ijtimoiy,
+		madaniy va ekologik jihatdan rivojlantirishni taʼminlashga
+		qaratilgan chora-tadbirlarni amalga oshirish;</p>
+	</div>
+	<div id="-6446064" dir="ltr"><p>3) mahalliy budjetni shakllantirish
+		va ijro etish;</p>
+	</div>
+	<div id="-6446065" dir="ltr"><p>4) ushbu Konstitutsiya va qonunlarda
+		nazarda tutilgan boshqa vakolatlarni amalga oshirish.</p>
+	</div>
+	<div id="-6446066" dir="ltr"><p>124-modda.</p>
+	</div>
+	<div id="-6446067" dir="ltr"><p>Viloyat va Toshkent shahar hokimi
+		Oʻzbekiston Respublikasi Prezidenti tomonidan qonunga muvofiq
+		tayinlanadi va lavozimidan ozod etiladi.</p>
+	</div>
+	<div id="-6446068" dir="ltr"><p>Tuman va shaharlarning hokimlari
+		viloyat, Toshkent shahar hokimi tomonidan tayinlanadi va
+		lavozimidan ozod etiladi hamda tegishli xalq deputatlari Kengashi
+		tomonidan tasdiqlanadi.</p>
+	</div>
+	<div id="-6446069" dir="ltr"><p>Tumanga boʻysunadigan shaharlarning
+		hokimlari tuman hokimi tomonidan tayinlanadi va lavozimidan ozod
+		etiladi hamda xalq deputatlari tuman Kengashi tomonidan
+		tasdiqlanadi.</p>
+	</div>
+	<div id="-6446070" dir="ltr"><p>125-modda.</p>
+	</div>
+	<div id="-6446071" dir="ltr"><p>Viloyat, tuman va shahar hokimi oʻz
+		vakolatlarini yakkaboshchilik asosida amalga oshiradi hamda oʻzi
+		rahbarlik qilayotgan organlarning qarorlari va harakatlari uchun
+		shaxsan javobgar boʻladi.</p>
+	</div>
+	<div id="-6446072" dir="ltr"><p>Viloyat, tuman va shahar hokimi
+		tegishli xalq deputatlari Kengashiga viloyatni, tumanni, shaharni
+		ijtimoiy-iqtisodiy rivojlantirishning eng muhim va dolzarb
+		masalalari yuzasidan hisobotlar taqdim etadi, ushbu hisobotlar
+		boʻyicha xalq deputatlari Kengashi tomonidan tegishli qarorlar
+		qabul qilinadi.</p>
+	</div>
+	<div id="-6446073" dir="ltr"><p>126-modda.</p>
+	</div>
+	<div id="-6446074" dir="ltr"><p>Xalq deputatlari Kengashi va hokim
+		oʻz vakolatlari doirasida tegishli hududdagi barcha tashkilotlar,
+		shuningdek mansabdor shaxslar va fuqarolar tomonidan bajarilishi
+		majburiy boʻlgan qarorlar qabul qiladi.</p>
+	</div>
+	<div id="-6446075" dir="ltr"><p>127-modda.</p>
+	</div>
+	<div id="-6446076" dir="ltr"><p>Shaharchalar, qishloqlar va
+		ovullarda, shuningdek shaharlar, shaharchalar, qishloqlar va
+		ovullardagi mahallalarda fuqarolarning yigʻinlari oʻzini oʻzi
+		boshqarish organlari boʻlib, ular raisni saylaydi.</p>
+	</div>
+	<div id="-6446077" dir="ltr"><p>Fuqarolarning oʻzini oʻzi
+		boshqarish organlari davlat hokimiyati organlari tizimiga kirmaydi
+		hamda mahalliy ahamiyatga molik masalalarni fuqarolarning
+		manfaatlaridan, rivojlanishning tarixiy oʻziga xos
+		xususiyatlaridan, shuningdek milliy qadriyatlardan, mahalliy
+		urf-odatlar va anʼanalardan kelib chiqqan holda, qonunga muvofiq
+		mustaqil ravishda hal etishga haqli.</p>
+	</div>
+	<div id="-6446078" dir="ltr"><p>Davlat fuqarolarning oʻzini oʻzi
+		boshqarish organlari faoliyatini amalga oshirishi uchun zarur
+		shart-sharoitlar yaratadi, ularga qonunda belgilangan vakolatlarini
+		amalga oshirishida koʻmaklashadi.</p>
+	</div>
+	<div id="-6446079" dir="ltr"><p>Fuqarolarning oʻzini oʻzi
+		boshqarish organlari saylovi tartibi, ularning faoliyatini tashkil
+		etish va vakolatlari qonun bilan belgilanadi.</p>
+	</div>
+	<div id="-6446080" dir="ltr"><p>XXII bob. Saylov tizimi</p>
+	</div>
+	<div id="-6446081" dir="ltr"><p>128-modda.</p>
+	</div>
+	<div id="-6446082" dir="ltr"><p>Oʻzbekiston Respublikasining
+		fuqarolari davlat hokimiyati vakillik organlariga saylash va
+		saylanish huquqiga egadirlar. Har bir saylovchi bir ovozga ega.
+		Ovoz berish huquqi, oʻz xohish-irodasini bildirish tengligi va
+		erkinligi qonun bilan kafolatlanadi.</p>
+	</div>
+	<div id="-6446083" dir="ltr"><p>Oʻzbekiston Respublikasi Prezidenti
+		saylovi, Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik
+		palatasiga hamda Qoraqalpogʻiston Respublikasi Joʻqorgʻi
+		Kengesiga, viloyatlar, tumanlar, shaharlar davlat hokimiyati
+		vakillik organlariga saylov tegishincha ularning konstitutsiyaviy
+		vakolat muddati tugaydigan yilda — oktabr oyi uchinchi oʻn
+		kunligining birinchi yakshanbasida oʻtkaziladi, bundan ushbu
+		Konstitutsiyada nazarda tutilgan muddatidan ilgari saylov oʻtkazish
+		hollari mustasno. Saylovlar umumiy, teng va toʻgʻridan-toʻgʻri
+		saylov huquqi asosida yashirin ovoz berish yoʻli bilan
+		oʻtkaziladi. Oʻzbekiston Respublikasining oʻn sakkiz yoshga
+		toʻlgan fuqarolari saylash huquqiga ega.</p>
+	</div>
+	<div id="-6446084" dir="ltr"><p>Oʻzbekiston Respublikasi Prezidenti
+		muddatidan ilgari Oʻzbekiston Respublikasi Prezidenti saylovini
+		tayinlashga haqli.</p>
+	</div>
+	<div id="-6446085" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisining Senati aʼzolari Qoraqalpogʻiston Respublikasi
+		Joʻqorgʻi Kengesi, viloyatlar, tumanlar va shaharlar davlat
+		hokimiyati vakillik organlari deputatlarining tegishli qoʻshma
+		majlislarida mazkur deputatlar saylanganidan soʻng bir oy ichida
+		ular orasidan yashirin ovoz berish yoʻli bilan saylanadilar.</p>
+	</div>
+	<div id="-6446086" dir="ltr"><p>Sud tomonidan muomalaga layoqatsiz
+		deb topilgan fuqarolar, shuningdek sud hukmi bilan ozodlikdan
+		mahrum etish joylarida saqlanayotgan shaxslar saylanishi mumkin
+		emas.</p>
+	</div>
+	<div id="-6446087" dir="ltr"><p>Sud tomonidan muomalaga layoqatsiz
+		deb topilgan fuqarolar, shuningdek ogʻir va oʻta ogʻir
+		jinoyatlar sodir etganlik uchun sudning hukmiga koʻra ozodlikdan
+		mahrum etish joylarida saqlanayotgan shaxslar saylovda ishtirok
+		etish huquqidan faqat qonunga muvofiq hamda sudning qarori asosida
+		mahrum etilishi mumkin. Boshqa har qanday hollarda fuqarolarning
+		saylov huquqlarini toʻgʻridan-toʻgʻri yoki bilvosita cheklashga
+		yoʻl qoʻyilmaydi.</p>
+	</div>
+	<div id="-6446088" dir="ltr"><p>Oʻzbekiston Respublikasi fuqarosi
+		bir vaqtning oʻzida ikkidan ortiq davlat hokimiyati vakillik
+		organining deputati boʻlishi mumkin emas.</p>
+	</div>
+	<div id="-6446089" dir="ltr"><p>Saylov oʻtkazish tartibi qonun
+		bilan belgilanadi.</p>
+	</div>
+	<div id="-6446090" dir="ltr"><p>129-modda.</p>
+	</div>
+	<div id="-6446091" dir="ltr"><p>Oʻzbekiston Respublikasi Prezidenti
+		saylovini, Oʻzbekiston Respublikasi Oliy Majlisiga, viloyatlar,
+		tumanlar, shaharlar davlat hokimiyati vakillik organlariga
+		saylovlarni, shuningdek Oʻzbekiston Respublikasining referendumini
+		tashkil etish va oʻtkazish uchun Oʻzbekiston Respublikasi Oliy
+		Majlisi tomonidan faoliyatining asosiy prinsiplari mustaqillik,
+		qonuniylik, kollegiallik, oshkoralik va adolatlilikdan iborat
+		boʻlgan Oʻzbekiston Respublikasi Markaziy saylov komissiyasi
+		tuziladi.</p>
+	</div>
+	<div id="-6446092" dir="ltr"><p>Oʻzbekiston Respublikasi Markaziy
+		saylov komissiyasi saylov komissiyalari tizimiga boshchilik qiladi,
+		oʻz faoliyatini doimiy asosda amalga oshiradi hamda oʻz
+		faoliyatida Oʻzbekiston Respublikasining Konstitutsiyasiga va
+		qonunlariga amal qiladi.</p>
+	</div>
+	<div id="-6446093" dir="ltr"><p>Oʻzbekiston Respublikasi Markaziy
+		saylov komissiyasining aʼzolari Qoraqalpogʻiston Respublikasi
+		Joʻqorgʻi Kengesining, xalq deputatlari viloyatlar va Toshkent
+		shahar Kengashlarining tavsiyasi boʻyicha Oʻzbekiston
+		Respublikasi Oliy Majlisining Qonunchilik palatasi va Senati
+		tomonidan saylanadi.</p>
+	</div>
+	<div id="-6446094" dir="ltr"><p>Oʻzbekiston Respublikasi Markaziy
+		saylov komissiyasining raisi Oʻzbekiston Respublikasi
+		Prezidentining taqdimiga binoan komissiya aʼzolari orasidan besh
+		yillik muddatga komissiya majlisida saylanadi. Ayni bir shaxs
+		surunkasiga ikki muddatdan ortiq Oʻzbekiston Respublikasi Markaziy
+		saylov komissiyasining raisi etib saylanishi mumkin emas.</p>
+	</div>
+	<div id="-6446095" dir="ltr"><p>XXIII bob. Sud hokimiyati</p>
+	</div>
+	<div id="-6446096" dir="ltr"><p>130-modda.</p>
+	</div>
+	<div id="-6446097" dir="ltr"><p>Oʻzbekiston Respublikasida odil
+		sudlov faqat sud tomonidan amalga oshiriladi.</p>
+	</div>
+	<div id="-6446098" dir="ltr"><p>Oʻzbekiston Respublikasida sud
+		hokimiyati qonun chiqaruvchi va ijro etuvchi hokimiyatdan, siyosiy
+		partiyalardan, fuqarolik jamiyatining boshqa institutlaridan
+		mustaqil holda ish yuritadi.</p>
+	</div>
+	<div id="-6446099" dir="ltr"><p>131-modda.</p>
+	</div>
+	<div id="-6446100" dir="ltr"><p>Oʻzbekiston Respublikasida sud
+		tizimi va sudlar faoliyatining tartibi qonun bilan belgilanadi.</p>
+	</div>
+	<div id="-6446101" dir="ltr"><p>Favqulodda sudlar tuzishga yoʻl
+		qoʻyilmaydi.</p>
+	</div>
+	<div id="-6446102" dir="ltr"><p>132-modda.</p>
+	</div>
+	<div id="-6446103" dir="ltr"><p>Oʻzbekiston Respublikasi
+		Konstitutsiyaviy sudi qonun chiqaruvchi va ijro etuvchi hokimiyat
+		hujjatlarining Konstitutsiyaga muvofiqligi toʻgʻrisidagi ishlarni
+		koʻradi.</p>
+	</div>
+	<div id="-6446104" dir="ltr"><p>Konstitutsiyaviy sud Oʻzbekiston
+		Respublikasi Prezidentining taqdimiga binoan Oʻzbekiston
+		Respublikasi Oliy Majlisining Senati tomonidan Oʻzbekiston
+		Respublikasi Sudyalar oliy kengashi tavsiya etgan siyosat va huquq
+		sohasidagi mutaxassislar orasidan, Qoraqalpogʻiston Respublikasi
+		vakilini qoʻshgan holda saylanadi. 
+		</p>
+	</div>
+	<div id="-6446105" dir="ltr"><p>Konstitutsiyaviy sudning sudyalari
+		qayta saylanish huquqisiz oʻn yillik muddatga saylanadi.</p>
+	</div>
+	<div id="-6446106" dir="ltr"><p>Oʻzbekiston Respublikasi
+		Konstitutsiyaviy sudi oʻz tarkibidan Oʻzbekiston Respublikasi
+		Konstitutsiyaviy sudining raisini va uning oʻrinbosarini besh
+		yillik muddatga saylaydi. 
+		</p>
+	</div>
+	<div id="-6446107" dir="ltr"><p>133-modda.</p>
+	</div>
+	<div id="-6446108" dir="ltr"><p>Oʻzbekiston Respublikasi
+		Konstitutsiyaviy sudi:</p>
+	</div>
+	<div id="-6446109" dir="ltr"><p>1) Oʻzbekiston Respublikasi
+		qonunlarining va Oʻzbekiston Respublikasi Oliy Majlisi palatalari
+		qarorlarining, Oʻzbekiston Respublikasi Prezidenti farmonlari,
+		qarorlari va farmoyishlarining, hukumat, mahalliy davlat hokimiyati
+		organlari qarorlarining, Oʻzbekiston Respublikasi davlatlararo
+		shartnomaviy va boshqa majburiyatlarining Oʻzbekiston
+		Respublikasining Konstitutsiyasiga muvofiqligini aniqlaydi;</p>
+	</div>
+	<div id="-6446110" dir="ltr"><p>2) Oʻzbekiston Respublikasining
+		Prezidenti tomonidan imzolanguniga qadar — Oʻzbekiston
+		Respublikasi konstitutsiyaviy qonunlarining, ratifikatsiya qilish
+		toʻgʻrisidagi Oʻzbekiston Respublikasi qonunlari Oʻzbekiston
+		Respublikasining Prezidenti tomonidan imzolanguniga qadar —
+		Oʻzbekiston Respublikasi xalqaro shartnomalarining Oʻzbekiston
+		Respublikasi Konstitutsiyasiga muvofiqligini aniqlaydi;</p>
+	</div>
+	<div id="-6446111" dir="ltr"><p>3) referendumga chiqarilayotgan
+		masalalarning Oʻzbekiston Respublikasi Konstitutsiyasiga
+		muvofiqligi toʻgʻrisida xulosa beradi;</p>
+	</div>
+	<div id="-6446112" dir="ltr"><p>4) Qoraqalpogʻiston Respublikasi
+		Konstitutsiyasining Oʻzbekiston Respublikasining
+		Konstitutsiyasiga, Qoraqalpogʻiston Respublikasi qonunlarining
+		Oʻzbekiston Respublikasining qonunlariga muvofiqligi toʻgʻrisida
+		xulosa beradi;</p>
+	</div>
+	<div id="-6446113" dir="ltr"><p>5) Oʻzbekiston Respublikasining
+		Konstitutsiyasi va qonunlari normalariga sharh beradi;</p>
+	</div>
+	<div id="-6446114" dir="ltr"><p>6) Oʻzbekiston Respublikasi Oliy
+		sudining muayyan ishda qoʻllanilishi lozim boʻlgan
+		normativ-huquqiy hujjatlarning Oʻzbekiston Respublikasining
+		Konstitutsiyasiga muvofiqligi toʻgʻrisida sudlar tashabbusi bilan
+		kiritilgan murojaatini koʻrib chiqadi;</p>
+	</div>
+	<div id="-6446115" dir="ltr"><p>7) konstitutsiyaviy sudlov ishlarini
+		yuritish amaliyotini umumlashtirish natijalari yuzasidan har yili
+		Oʻzbekiston Respublikasi Oliy Majlisi palatalariga va Oʻzbekiston
+		Respublikasi Prezidentiga mamlakatdagi konstitutsiyaviy
+		qonuniylikning holati toʻgʻrisida axborot taqdim etadi;</p>
+	</div>
+	<div id="-6446116" dir="ltr"><p>8) Oʻzbekiston Respublikasining
+		Konstitutsiyasi va qonunlari bilan berilgan vakolati doirasida
+		boshqa ishlarni koʻrib chiqadi.</p>
+	</div>
+	<div id="-6446117" dir="ltr"><p>Fuqarolar va yuridik shaxslar, agar
+		sud orqali himoya qilishning boshqa barcha vositalaridan foydalanib
+		boʻlingan boʻlsa, sudda koʻrib chiqilishi tugallangan muayyan
+		ishda sud tomonidan oʻziga nisbatan qoʻllanilgan qonunning
+		Konstitutsiyaga muvofiqligi toʻgʻrisidagi shikoyat bilan
+		Oʻzbekiston Respublikasi Konstitutsiyaviy sudiga murojaat qilishga
+		haqli.</p>
+	</div>
+	<div id="-6446118" dir="ltr"><p>Konstitutsiyaviy sudning qarori
+		rasmiy eʼlon qilingan kundan eʼtiboran kuchga kiradi.</p>
+	</div>
+	<div id="-6446119" dir="ltr"><p>Konstitutsiyaviy sudning qarori
+		qatʼiy va uning ustidan shikoyat qilinishi mumkin emas.</p>
+	</div>
+	<div id="-6446120" dir="ltr"><p>Konstitutsiyaviy sudni tashkil etish
+		va uning faoliyati tartibi qonun bilan belgilanadi.</p>
+	</div>
+	<div id="-6446121" dir="ltr"><p>134-modda.</p>
+	</div>
+	<div id="-6446123" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy sudi
+		fuqarolik, jinoiy, iqtisodiy va maʼmuriy sud ishlarini yuritish
+		sohasida sud hokimiyatining oliy organi hisoblanadi.</p>
+	</div>
+	<div id="-6446124" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy sudi
+		tomonidan qabul qilingan hujjatlar qatʼiy hisoblanadi va
+		Oʻzbekiston Respublikasining butun hududida bajarilishi
+		majburiydir.</p>
+	</div>
+	<div id="-6446125" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy sudi
+		quyi sudlarning sudlov faoliyati ustidan nazorat olib borish
+		huquqiga ega.</p>
+	</div>
+	<div id="-6446126" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		sudining raisi va uning oʻrinbosarlari Oʻzbekiston Respublikasi
+		Prezidentining taqdimiga binoan Oʻzbekiston Respublikasi Oliy
+		Majlisining Senati tomonidan besh yillik muddatga saylanadi. Ayni
+		bir shaxs surunkasiga ikki muddatdan ortiq Oʻzbekiston
+		Respublikasi Oliy sudining raisi, rais oʻrinbosari etib saylanishi
+		mumkin emas.</p>
+	</div>
+	<div id="-6446127" dir="ltr"><p>135-modda.</p>
+	</div>
+	<div id="-6446128" dir="ltr"><p>Oʻzbekiston Respublikasi Sudyalar
+		oliy kengashi sudyalar hamjamiyatining mustaqil organi boʻlib, u
+		sudyalar korpusining shakllantirilishini, sud hokimiyati
+		mustaqilligining konstitutsiyaviy prinsipiga rioya etilishini
+		taʼminlaydi.</p>
+	</div>
+	<div id="-6446130" dir="ltr"><p>Oʻzbekiston Respublikasi Sudyalar
+		oliy kengashi raisi va uning oʻrinbosari Oʻzbekiston Respublikasi
+		Prezidentining taqdimiga binoan Oʻzbekiston Respublikasi Oliy
+		Majlisining Senati tomonidan besh yillik muddatga saylanadi. Ayni
+		bir shaxs surunkasiga ikki muddatdan ortiq Oʻzbekiston
+		Respublikasi Sudyalar oliy kengashining raisi, rais oʻrinbosari
+		etib saylanishi mumkin emas.</p>
+	</div>
+	<div id="-6446132" dir="ltr"><p>Oʻzbekiston Respublikasi Sudyalar
+		oliy kengashini tashkil etish va uning faoliyati tartibi qonun
+		bilan belgilanadi.</p>
+	</div>
+	<div id="-6446133" dir="ltr"><p>136-modda.</p>
+	</div>
+	<div id="-6446135" dir="ltr"><p>Sudyalar mustaqildirlar, faqat
+		Konstitutsiya va qonunga boʻysunadilar. Sudyalarning odil sudlovni
+		amalga oshirishga doir faoliyatiga har qanday tarzda aralashishga
+		yoʻl qoʻyilmaydi va bunday aralashish qonunga muvofiq
+		javobgarlikka sabab boʻladi. Sudyalar muayyan ishlar boʻyicha
+		hisobdor boʻlmaydi.</p>
+	</div>
+	<div id="-6446137" dir="ltr"><p>Sudyalar daxlsizdir.</p>
+	</div>
+	<div id="-6446138" dir="ltr"><p>Davlat sudyaning va uning oila
+		aʼzolarining xavfsizligini taʼminlaydi.</p>
+	</div>
+	<div id="-6446140" dir="ltr"><p>Sudyani muayyan ishning
+		muhokamasidan chetlashtirishga, uning vakolatlarini bekor qilishga
+		yoki toʻxtatib turishga, boshqa lavozimga oʻtkazishga faqat
+		qonunda belgilangan tartibda va asoslarga koʻra yoʻl qoʻyiladi.
+		Sudning qayta tashkil etilishi yoki tugatilishi sudyani lavozimidan
+		ozod etish uchun asos boʻlib xizmat qilishi mumkin emas.</p>
+	</div>
+	<div id="-6446141" dir="ltr"><p>Sudyalar senator, davlat hokimiyati
+		vakillik organlarining deputati boʻlishi mumkin emas.</p>
+	</div>
+	<div id="-6446142" dir="ltr"><p>Sudyalar siyosiy partiyalarning
+		aʼzosi boʻlishi, siyosiy harakatlarda ishtirok etishi, shuningdek
+		ilmiy, ijodiy va pedagogik faoliyatdan tashqari haq toʻlanadigan
+		boshqa faoliyat turlari bilan shugʻullanishi mumkin emas.</p>
+	</div>
+	<div id="-6446143" dir="ltr"><p>137-modda.</p>
+	</div>
+	<div id="-6446145" dir="ltr"><p>Hamma sudlarda ishlar ochiq
+		koʻriladi. Ishlarni yopiq majlisda tinglashga qonunda belgilangan
+		hollardagina yoʻl qoʻyiladi.</p>
+	</div>
+	<div id="-6446147" dir="ltr"><p>138-modda.</p>
+	</div>
+	<div id="-6446149" dir="ltr"><p>Sud hokimiyatining hujjatlari barcha
+		davlat organlari va boshqa tashkilotlar, mansabdor shaxslar hamda
+		fuqarolar uchun majburiydir.</p>
+	</div>
+	<div id="-6446150" dir="ltr"><p>139-modda.</p>
+	</div>
+	<div id="-6446151" dir="ltr"><p>Oʻzbekiston Respublikasida sud
+		ishlarini yuritish oʻzbek tilida, qoraqalpoq tilida yoki muayyan
+		joydagi koʻpchilik aholi soʻzlashadigan tilda yoxud qonunga
+		muvofiq boshqa tilda olib boriladi. Sud ishlari olib borilayotgan
+		tilni bilmaydigan sudda qatnashuvchi shaxslarning tarjimon orqali
+		ish materiallari bilan toʻla tanishish va sud ishlarida ishtirok
+		etish huquqi hamda sudda ona tilida soʻzlash huquqi taʼminlanadi.</p>
+	</div>
+	<div id="-6446153" dir="ltr"><p>140-modda.</p>
+	</div>
+	<div id="-6446154" dir="ltr"><p>Sudlarning faoliyatini
+		moliyalashtirish faqat Oʻzbekiston Respublikasining Davlat
+		budjetidan amalga oshiriladi hamda u odil sudlovni toʻliq va
+		mustaqil amalga oshirish imkoniyatini taʼminlashi kerak.</p>
+	</div>
+	<div id="-6446155" dir="ltr"><p>XXIV bob. Advokatura</p>
+	</div>
+	<div id="-6446156" dir="ltr"><p>141-modda.</p>
+	</div>
+	<div id="-6446157" dir="ltr"><p>Jismoniy va yuridik shaxslarga
+		malakali yuridik yordam koʻrsatish uchun advokatura faoliyat
+		koʻrsatadi. 
+		</p>
+	</div>
+	<div id="-6446158" dir="ltr"><p>Advokatura faoliyati qonuniylik,
+		mustaqillik va oʻzini oʻzi boshqarish prinsiplariga asoslanadi.</p>
+	</div>
+	<div id="-6446159" dir="ltr"><p>Advokaturani tashkil etish va uning
+		faoliyati tartibi qonun bilan belgilanadi.</p>
+	</div>
+	<div id="-6446160" dir="ltr"><p>142-modda.</p>
+	</div>
+	<div id="-6446161" dir="ltr"><p>Advokat oʻz kasbiy vazifalarini
+		amalga oshirayotganda uning faoliyatiga aralashishga yoʻl
+		qoʻyilmaydi.</p>
+	</div>
+	<div id="-6446162" dir="ltr"><p>Advokatga oʻz himoyasidagi shaxs
+		bilan moneliksiz va xoli uchrashish, maslahatlar berish uchun
+		shart-sharoitlar taʼminlanadi.</p>
+	</div>
+	<div id="-6446163" dir="ltr"><p>Advokat, uning shaʼni, qadr-qimmati
+		va kasbiy faoliyati davlat himoyasida boʻladi va qonun bilan
+		muhofaza qilinadi.</p>
+	</div>
+	<div id="-6446164" dir="ltr"><p>XXV bob. Prokuratura</p>
+	</div>
+	<div id="-6446165" dir="ltr"><p>143-modda.</p>
+	</div>
+	<div id="-6446166" dir="ltr"><p>Oʻzbekiston Respublikasi hududida
+		qonunlarning aniq va bir xilda bajarilishi ustidan nazoratni
+		Oʻzbekiston Respublikasining Bosh prokurori va unga boʻysunuvchi
+		prokurorlar amalga oshiradi.</p>
+	</div>
+	<div id="-6446167" dir="ltr"><p>144-modda.</p>
+	</div>
+	<div id="-6446168" dir="ltr"><p>Prokuratura organlarining yagona
+		markazlashtirilgan tizimiga Oʻzbekiston Respublikasining Bosh
+		prokurori boshchilik qiladi.</p>
+	</div>
+	<div id="-6446169" dir="ltr"><p>Qoraqalpogʻiston Respublikasining
+		prokurori Oʻzbekiston Respublikasining Bosh prokurori bilan
+		kelishilgan holda Qoraqalpogʻiston Respublikasining oliy vakillik
+		organi tomonidan tayinlanadi.</p>
+	</div>
+	<div id="-6446170" dir="ltr"><p>Viloyatlarning prokurorlari, tuman
+		va shahar prokurorlari Oʻzbekiston Respublikasining Bosh prokurori
+		tomonidan tayinlanadi.</p>
+	</div>
+	<div id="-6446171" dir="ltr"><p>Oʻzbekiston Respublikasi Bosh
+		prokurorining, Qoraqalpogʻiston Respublikasi prokurorining,
+		viloyat, tuman va shahar prokurorlarining vakolat muddati — besh
+		yil.</p>
+	</div>
+	<div id="-6446172" dir="ltr"><p>Ayni bir shaxs surunkasiga ikki
+		muddatdan ortiq Oʻzbekiston Respublikasining Bosh prokurori
+		lavozimini egallashi mumkin emas.</p>
+	</div>
+	<div id="-6446173" dir="ltr"><p>145-modda.</p>
+	</div>
+	<div id="-6446174" dir="ltr"><p>Oʻzbekiston Respublikasining
+		prokuratura organlari oʻz vakolatlarini boshqa davlat
+		organlaridan, oʻzga tashkilotlardan, mansabdor shaxslardan
+		mustaqil ravishda, faqat Oʻzbekiston Respublikasining
+		Konstitutsiyasiga va qonunlariga boʻysungan holda amalga oshiradi.</p>
+	</div>
+	<div id="-6446175" dir="ltr"><p>Prokurorlar oʻz vakolatlari davrida
+		siyosiy partiyalarga va siyosiy maqsadlarni koʻzlovchi boshqa
+		jamoat birlashmalariga aʼzolikni toʻxtatib turadilar.</p>
+	</div>
+	<div id="-6446176" dir="ltr"><p>Prokuratura organlarini tashkil
+		etish, ularning vakolatlari va faoliyat koʻrsatish tartibi qonun
+		bilan belgilanadi.</p>
+	</div>
+	<div id="-6446177" dir="ltr"><p>146-modda.</p>
+	</div>
+	<div id="-6446179" dir="ltr"><p>Oʻzbekiston Respublikasi hududida
+		jinoyatchilikka qarshi kurash boʻyicha tezkor-qidiruv, tergov va
+		boshqa maxsus vazifalarni mustaqil ravishda bajaruvchi xususiy
+		tashkilotlar, jamoat birlashmalari va ularning boʻlinmalarini
+		tuzish hamda ularning faoliyat koʻrsatishi taqiqlanadi.</p>
+	</div>
+	<div id="-6446182" dir="ltr"><p>Qonuniylik va huquqiy tartibotni,
+		fuqarolarning huquqlari va erkinliklarini himoya qilishda huquqni
+		muhofaza qiluvchi organlarga jamoat tashkilotlari va fuqarolar
+		yordam koʻrsatishlari mumkin.</p>
+	</div>
+	<div id="-6446183" dir="ltr"><p>XXVI bob. Moliya, pul va bank tizimi</p>
+	</div>
+	<div id="-6446184" dir="ltr"><p>147-modda.</p>
+	</div>
+	<div id="-6446185" dir="ltr"><p>Oʻzbekiston Respublikasi oʻzining
+		yagona moliya, pul va bank tizimiga ega.</p>
+	</div>
+	<div id="-6446186" dir="ltr"><p>148-modda.</p>
+	</div>
+	<div id="-6446187" dir="ltr"><p>Oʻzbekiston Respublikasining Davlat
+		budjeti respublika budjetidan, Qoraqalpogʻiston Respublikasi
+		budjetidan va mahalliy budjetlardan iboratdir.</p>
+	</div>
+	<div id="-6446188" dir="ltr"><p>Oʻzbekiston Respublikasining Davlat
+		budjetini shakllantirish hamda ijro etish tartib-taomillari
+		ochiqlik va shaffoflik prinsiplari asosida amalga oshiriladi.</p>
+	</div>
+	<div id="-6446189" dir="ltr"><p>Fuqarolar va fuqarolik jamiyati
+		institutlari Oʻzbekiston Respublikasi Davlat budjetining
+		shakllantirilishi hamda ijro etilishi ustidan jamoatchilik
+		nazoratini amalga oshiradi.</p>
+	</div>
+	<div id="-6446190" dir="ltr"><p>Fuqarolarning hamda fuqarolik
+		jamiyati institutlarining budjet jarayonida ishtirok etishi tartibi
+		va shakllari qonun bilan belgilanadi.</p>
+	</div>
+	<div id="-6446191" dir="ltr"><p>149-modda.</p>
+	</div>
+	<div id="-6446192" dir="ltr"><p>Oʻzbekiston Respublikasi hududida
+		yagona soliq tizimi amal qiladi. Soliqlarni joriy qilish huquqi
+		Oʻzbekiston Respublikasining Oliy Majlisiga tegishlidir.</p>
+	</div>
+	<div id="-6446193" dir="ltr"><p>150-modda.</p>
+	</div>
+	<div id="-6446194" dir="ltr"><p>Oʻzbekiston Respublikasining pul
+		birligi soʻmdir.</p>
+	</div>
+	<div id="-6446196" dir="ltr"><p>Soʻm Oʻzbekiston Respublikasining
+		butun hududida yagona cheklanmagan qonuniy toʻlov vositasidir.</p>
+	</div>
+	<div id="-6446197" dir="ltr"><p>Oʻzbekiston Respublikasi Markaziy
+		banki Oʻzbekiston Respublikasining hududida qonuniy toʻlov
+		vositalari sifatida pul belgilarini muomalaga kiritishda va ularni
+		muomaladan chiqarishda mutlaq huquqqa egadir.</p>
+	</div>
+	<div id="-6446198" dir="ltr"><p>151-modda.</p>
+	</div>
+	<div id="-6446199" dir="ltr"><p>Oʻzbekiston Respublikasining bank
+		tizimi Oʻzbekiston Respublikasi Markaziy bankidan va banklardan
+		iboratdir.</p>
+	</div>
+	<div id="-6446200" dir="ltr"><p>Oʻzbekiston Respublikasi Markaziy
+		banki pul-kredit va valyuta siyosatini ishlab chiqadi hamda amalga
+		oshiradi.</p>
+	</div>
+	<div id="-6446201" dir="ltr"><p>Oʻzbekiston Respublikasi Markaziy
+		banki mamlakatda banklar faoliyatini tartibga solishni amalga
+		oshiradi, bank va toʻlov tizimlarining barqaror faoliyat
+		koʻrsatishini taʼminlaydi.</p>
+	</div>
+	<div id="-6446202" dir="ltr"><p>Oʻzbekiston Respublikasi Markaziy
+		banki oʻz vazifalarini bajarishda mustaqildir.</p>
+	</div>
+	<div id="-6446203" dir="ltr"><p>Oʻzbekiston Respublikasi Markaziy
+		bankining faoliyatini tashkil etish tartibi qonun bilan
+		belgilanadi.</p>
+	</div>
+	<div id="-6446204" dir="ltr"><p>XXVII bob. Mudofaa va xavfsizlik</p>
+	</div>
+	<div id="-6446205" dir="ltr"><p>152-modda.</p>
+	</div>
+	<div id="-6446206" dir="ltr"><p>Oʻzbekiston Respublikasi Qurolli
+		Kuchlari Oʻzbekiston Respublikasining davlat suverenitetini va
+		hududiy yaxlitligini, aholining tinch hayoti va xavfsizligini
+		himoya qilish uchun tuziladi.</p>
+	</div>
+	<div id="-6446207" dir="ltr"><p>Qurolli Kuchlarning tuzilishi va
+		ularni tashkil etish qonun bilan belgilanadi.</p>
+	</div>
+	<div id="-6446209" dir="ltr"><p>153-modda.</p>
+	</div>
+	<div id="-6446210" dir="ltr"><p>Oʻzbekiston Respublikasi oʻz
+		xavfsizligini taʼminlash uchun yetarli darajada Qurolli Kuchlariga
+		ega.</p>
+	</div>
+	<div id="-6446211" dir="ltr"><p>OLTINCHI BOʻLIM. KONSTITUTSIYANI
+		OʻZGARTIRISH TARTIBI</p>
+	</div>
+	<div id="-6446212" dir="ltr"><p>154-modda.</p>
+	</div>
+	<div id="-6446213" dir="ltr"><p>Oʻzbekiston Respublikasining
+		Konstitutsiyasiga oʻzgartirish va qoʻshimchalar tegishincha
+		Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasi
+		deputatlari va Senati aʼzolari umumiy sonining kamida uchdan ikki
+		qismidan iborat koʻpchiligi tomonidan qabul qilingan
+		konstitutsiyaviy qonun yoki Oʻzbekiston Respublikasining
+		referendumi bilan kiritiladi.</p>
+	</div>
+	<div id="-6446214" dir="ltr"><p>Ushbu Konstitutsiya <a href="https://lex.uz/uz/docs/-6445145#-6445171">1-moddasining
+		</a>va ushbu modda <a href="https://lex.uz/uz/docs/-6445145#-6446214">ikkinchi
+		qismining</a> qoidalari qayta koʻrib chiqilishi mumkin emas.</p>
+	</div>
+	<div id="-6446215" dir="ltr"><p>Oʻzbekiston Respublikasining
+		Konstitutsiyasiga oʻzgartirish va qoʻshimchalar kiritish
+		toʻgʻrisidagi konstitutsiyaviy qonunda uning normalarini,
+		shuningdek Konstitutsiyaning normalarini qoʻllashning oʻziga xos
+		xususiyatlari nazarda tutilishi mumkin.</p>
+	</div>
+	<div id="-6446216" dir="ltr"><p>155-modda.</p>
+	</div>
+	<div id="-6446217" dir="ltr"><p>Oʻzbekiston Respublikasi Oliy
+		Majlisi tegishli taklif kiritilgandan keyin olti oy mobaynida
+		Konstitutsiyaga oʻzgartirish va qoʻshimchalar kiritish
+		toʻgʻrisida keng va har taraflama muhokamani hisobga olgan holda
+		konstitutsiyaviy qonun qabul qilishi mumkin. Agar Oʻzbekiston
+		Respublikasi Oliy Majlisi Konstitutsiyani oʻzgartirish
+		toʻgʻrisidagi taklifni rad etsa, taklif bir yil oʻtgandan
+		keyingina qayta kiritilishi mumkin.</p>
+	</div>
+</div>
+</body>
+</html>
