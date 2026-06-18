@@ -2,7 +2,7 @@
 Legal document retriever with metadata filtering
 """
 
-from typing import List, Optional, Tuple, Dict, Any,TYPE_CHECKING
+from typing import List, Optional, Tuple, Dict, Any, TYPE_CHECKING
 from source.utils.logger import get_logger
 from source.utils.config import get_config
 from source.embeddings.embedder import EmbeddingService
@@ -27,14 +27,7 @@ class LegalRetriever:
         vector_store: VectorStore,
         reranker: Optional["CrossEncoderReranker"] = None
     ):
-        """
-        Initialize legal retriever.
-
-        Args:
-            embedding_service: Embedding service
-            vector_store: Vector store
-            reranker: Optional cross-encoder reranker
-        """
+        """Initialize legal retriever."""
         self.config = get_config()
         self.logger = logger
         self.embedding_service = embedding_service
@@ -45,7 +38,7 @@ class LegalRetriever:
         self,
         query: str,
         code_filter: Optional[str] = None,
-        top_k: int = 5
+        top_k: int = 10  # ← 5 dan 10 ga oshirildi
     ) -> List[Tuple[ChunkPayload, float]]:
         """
         Retrieve relevant legal documents.
@@ -63,13 +56,13 @@ class LegalRetriever:
 
         # Build metadata filter
         metadata_filter = {"is_active": True}
-        if code_filter:
+        if code_filter and code_filter != "null":
             metadata_filter["code_short"] = code_filter.upper()
 
-        # Get score threshold from config
-        score_threshold = self.config.retrieval.get("score_threshold", 0.7)
+        # ⭐ MUHIM: score_threshold ni 0.5 ga tushirish
+        score_threshold = self.config.retrieval.get("score_threshold", 0.5)
 
-        # Search vector store
+        # Search vector store - ko'proq natija olish
         results = await self.vector_store.search(
             query_embedding=query_embedding,
             top_k=top_k * 2,  # Get more for reranking
@@ -77,40 +70,56 @@ class LegalRetriever:
             score_threshold=score_threshold
         )
 
+        self.logger.info(f"Retrieved {len(results)} raw results (threshold: {score_threshold})")
+
         # Apply reranking if enabled
         if self.reranker and len(results) > 0:
             results = await self.reranker.rerank(query, results, top_k)
         else:
             results = results[:top_k]
 
-        self.logger.info(f"Retrieved {len(results)} results for query: {query[:50]}...")
+        self.logger.info(f"Final results: {len(results)} for query: {query[:50]}...")
         return results
 
     async def detect_legal_code(self, query: str) -> Optional[str]:
         """
         Detect which legal code the query is about.
-
-        Args:
-            query: User query
-
-        Returns:
-            Short code (e.g., "MK", "JK") or None
         """
-        # Simple keyword-based detection
-        # Can be improved with ML classifier
+        # Kengaytirilgan kalit so'zlar
         code_keywords = {
+            # Mehnat
             "mehnat": "MK",
             "ish": "MK",
             "ta'til": "MK",
+            "ish haqi": "MK",
+            "maosh": "MK",
+            "ish beruvchi": "MK",
+            "xodim": "MK",
+            # Jinoyat
             "jinoyat": "JK",
             "jazo": "JK",
+            "qamoq": "JK",
+            "og'irlik": "JK",
+            "o'g'irlik": "JK",
+            # Soliq
             "soliq": "SK",
             "vergi": "SK",
+            "qqs": "SK",
+            "qqS": "SK",
+            "solik": "SK",
+            # Fuqarolik
             "fuqarolik": "FK",
+            "shartnoma": "FK",
+            "mulkiy": "FK",
+            # Oila
             "oila": "OK",
             "nikoh": "OK",
+            "ajrim": "OK",
+            "aliment": "OK",
+            # Ma'muriy
             "ma'muriy": "MJK",
             "jarima": "MJK",
+            # Konstitutsiya
             "konstitutsiya": "KONST",
             "asosiy": "KONST",
         }
@@ -128,18 +137,10 @@ class LegalRetriever:
         self,
         query: str,
         code_filter: Optional[str] = None,
-        top_k: int = 5
+        top_k: int = 10  # ← 5 dan 10 ga oshirildi
     ) -> Dict[str, Any]:
         """
         Retrieve documents with additional context information.
-
-        Args:
-            query: User query
-            code_filter: Optional legal code filter
-            top_k: Number of results
-
-        Returns:
-            Dictionary with results and metadata
         """
         results = await self.retrieve(query, code_filter, top_k)
 

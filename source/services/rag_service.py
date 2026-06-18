@@ -4,6 +4,9 @@ Main RAG service orchestrating all components
 
 from typing import Dict, Any, List, Optional
 import time
+
+from pip._internal.index import sources
+
 from source.utils.logger import get_logger
 from source.utils.config import get_config
 from source.embeddings.embedder import EmbeddingService
@@ -21,10 +24,6 @@ logger = get_logger(__name__)
 
 
 class RAGService:
-    """
-    Main RAG service orchestrating the entire pipeline.
-    """
-    
     def __init__(self):
         """Initialize RAG service"""
         self.config = get_config()
@@ -82,17 +81,6 @@ class RAGService:
         code_filter: Optional[str] = None,
         chat_id: Optional[str] = None
     ) -> Dict[str, Any]:
-        """
-        Process user query through RAG pipeline.
-        
-        Args:
-            query: User query
-            code_filter: Optional legal code filter
-            chat_id: Optional chat session ID
-        
-        Returns:
-            Response dictionary
-        """
         start_time = time.time()
         
         # Check cache
@@ -102,20 +90,26 @@ class RAGService:
             self.logger.info("Cache hit for query")
             return cached_response
         
-        # Detect legal code if not specified
-        if not code_filter:
-            code_filter = await self.retriever.detect_legal_code(query)
-        
+        # ⭐ MUHIM: code_filter'ni to'g'ri ishlatish
+        # Agar code_filter "null" string bo'lsa, None ga o'tkazish
+        if code_filter == "null" or code_filter == "":
+            code_filter = None
+
+        # ⚠️ detect_legal_code'ni olib tashladim - bu ko'pincha noto'g'ri ishlaydi
+        # Foydalanuvchi o'zi kodeksni tanlashi kerak
+
+        self.logger.info(f"Processing query: {query[:100]}... (code_filter: {code_filter})")
+
         # Retrieve relevant documents
         retrieval_result = await self.retriever.retrieve_with_context(
             query=query,
             code_filter=code_filter,
             top_k=self.config.retrieval.get("top_k", 5)
         )
-        
+
         # Extract content and sources
         context_chunks = [
-            result["content"] 
+            result["content"]
             for result in retrieval_result["results"]
         ]
         sources = [
@@ -127,14 +121,19 @@ class RAGService:
             }
             for r in retrieval_result["results"]
         ]
-        
-        # Generate answer
+
+        self.logger.info(f"Retrieved {len(context_chunks)} context chunks")
+
+        # ⭐ MUHIM: Prompt yaratishda code_filter'ni uzatish
         system_prompt = self.prompt_templates.get_system_prompt()
         qa_prompt = self.prompt_templates.get_qa_prompt(
             query=query,
-            context_chunks=context_chunks
+            context_chunks=context_chunks,
+            code_filter=code_filter,  # ← BU QO'SHILDI!
+            sources=sources
         )
-        
+
+        # Generate answer - streaming bilan
         answer = ""
         async for chunk in self.llm_client.generate_response(
             prompt=qa_prompt,
@@ -142,15 +141,18 @@ class RAGService:
             stream=True
         ):
             answer += chunk
-        
-        # Extract citations
+
+        self.logger.info(f"Generated answer: {len(answer)} characters")
+
+        # ⭐ MUHIM: Citations'ni to'g'ri ajratish
         citations = self.output_parser.extract_citations(answer)
-        
-        # Clean answer
-        answer = self.output_parser.clean_response(answer)
-        
+
+        # ⚠️ clean_response'ni ehtiyotkorlik bilan ishlatish
+        # Faqat keraksiz qismlarni olib tashlash, formatni saqlash
+        answer = self._clean_answer_preserve_format(answer)
+
         processing_time = (time.time() - start_time) * 1000
-        
+
         # Build response
         response = {
             "answer": answer,
@@ -161,7 +163,7 @@ class RAGService:
             "processing_time_ms": processing_time,
             "code_filter": code_filter
         }
-        
+
         # Cache response
         await self.cache_service.set(
             "response",
@@ -169,7 +171,7 @@ class RAGService:
             response,
             ttl=3600  # 1 hour
         )
-        
+
         # Save to chat history
         if chat_id:
             await self.chat_history.save_message(
@@ -180,16 +182,31 @@ class RAGService:
                 sources=sources,
                 processing_time_ms=processing_time
             )
-        
+
+        self.logger.info(f"Query processed in {processing_time:.2f}ms")
+
         return response
+
+    def _clean_answer_preserve_format(self, answer: str) -> str:
+        import re
+
+        # Faqat keraksiz qismlarni olib tashlash
+        # 1. "Javob:" yoki "Answer:" kabi prefikslarni olib tashlash
+        answer = re.sub(r'^(Javob:|Answer:|Response:)\s*', '', answer, flags=re.IGNORECASE)
+
+        # 2. Ortiqcha bo'sh joylarni tozalash (3+ yangi qatorni 2 ga)
+        answer = re.sub(r'\n{3,}', '\n\n', answer)
+
+        # 3. Bosh va oxiridagi bo'sh joylarni tozalash
+        answer = answer.strip()
+
+        # 4. Agar javob bo'sh bo'lsa, fallback
+        if not answer or len(answer) < 20:
+            answer = "Afsuski, berilgan ma'lumotlarda bu savolga javob topilmadi."
+
+        return answer
     
     async def get_stats(self) -> Dict[str, Any]:
-        """
-        Get RAG service statistics.
-        
-        Returns:
-            Statistics dictionary
-        """
         vector_stats = self.vector_store.get_stats()
         
         return {
@@ -207,15 +224,6 @@ class RAGService:
         self,
         documents: List[Dict[str, Any]]
     ) -> Dict[str, int]:
-        """
-        Ingest documents into the system.
-        
-        Args:
-            documents: List of document dictionaries
-        
-        Returns:
-            Ingestion statistics
-        """
         from source.ingestion.parser import LegalDocumentParser
         from source.chunking.chunker import ArticleChunker
         from source.chunking.metadata_enricher import MetadataEnricher

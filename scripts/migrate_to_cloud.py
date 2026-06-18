@@ -9,7 +9,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 
 import asyncio
 from qdrant_client import QdrantClient
-from qdrant_client.models import Distance, VectorParams, PointStruct
+from qdrant_client.models import Distance, VectorParams
 from source.utils.config import load_config, get_settings
 
 
@@ -22,6 +22,7 @@ async def migrate_data():
     print("🚀 BeLagel: Qdrant Cloud Migratsiyasi")
     print("=" * 60)
 
+    # ✅ Tuzatish: qdrant_collection_name ishlatiladi
     collection_name = settings.qdrant_collection_name
     print(f"📦 Kolleksiya nomi: {collection_name}")
     print(f"🌐 Cloud URL: {settings.qdrant_url}")
@@ -37,6 +38,22 @@ async def migrate_data():
         url=settings.qdrant_url,
         api_key=settings.qdrant_api_key
     )
+
+    # Kollektsiya mavjudligini tekshirish
+    print(f"\n🔍 Lokal kolleksiya tekshirilmoqda: {collection_name}")
+    try:
+        collections = local_client.get_collections().collections
+        collection_names = [c.name for c in collections]
+
+        if collection_name not in collection_names:
+            print(f"❌ Xato: '{collection_name}' kolleksiya lokal Qdrant'da mavjud emas!")
+            print(f"   Mavjud kolleksiyalar: {collection_names}")
+            return
+
+        print(f"✅ Kolleksiya topildi!")
+    except Exception as e:
+        print(f"❌ Lokal Qdrant'ga ulanishda xato: {e}")
+        return
 
     # Lokal'dan ma'lumotlarni o'qish
     print("\n📖 Lokal'dan ma'lumotlar o'qilmoqda...")
@@ -57,52 +74,46 @@ async def migrate_data():
 
     print(f"✅ {len(local_points)} ta point topildi")
 
-    # Cloud'da kolleksiya yaratish (an'anaviy usul bilan)
-    print(f"\n🔍 Cloud'da kolleksiya yaratilmoqda...")
+    # Cloud'da kolleksiya mavjudligini tekshirish
+    print(f"\n🔍 Cloud'da kolleksiya tekshirilmoqda...")
     try:
-        # Kolleksiyani aniq parametrlar bilan yaratish
-        cloud_client.create_collection(
-            collection_name=collection_name,
-            vectors_config=VectorParams(
-                size=1024,  # multilingual-e5-large o'lchami
-                distance=Distance.COSINE,
-            ),
-            shard_number=2  # Cloud uchun optimal
-        )
-        print(f"✅ Kolleksiya yaratildi!")
-    except Exception as e:
-        error_msg = str(e)
-        if "already exists" in error_msg.lower() or "already" in error_msg.lower():
-            print(f"✅ Kolleksiya allaqachon mavjud!")
+        cloud_collections = cloud_client.get_collections().collections
+        cloud_collection_names = [c.name for c in cloud_collections]
+
+        if collection_name not in cloud_collection_names:
+            print(f"⚠️  Cloud'da '{collection_name}' kolleksiya yo'q. Yaratilmoqda...")
+
+            # Kolleksiya yaratish (lokal bilan bir xil parametrlar)
+            local_info = local_client.get_collection(collection_name)
+
+            cloud_client.create_collection(
+                collection_name=collection_name,
+                vectors_config=VectorParams(
+                    size=local_info.config.params.vectors.size,
+                    distance=local_info.config.params.vectors.distance,
+                )
+            )
+            print(f"✅ Kolleksiya yaratildi!")
         else:
-            print(f"❌ Kolleksiya yaratishda xato: {e}")
-            return
+            print(f"✅ Kolleksiya mavjud!")
+    except Exception as e:
+        print(f"❌ Cloud kolleksiyani tekshirishda xato: {e}")
+        return
 
     # Cloud'ga yuklash
     print(f"\n☁️  Cloud'ga yuklanmoqda...")
     batch_size = 100
     total_batches = (len(local_points) + batch_size - 1) // batch_size
-    success_count = 0
 
     for i in range(0, len(local_points), batch_size):
         batch = local_points[i:i + batch_size]
         batch_num = (i // batch_size) + 1
 
         try:
-            # Point'larni aniq formatda tayyorlash
-            points = []
-            for point in batch:
-                points.append(PointStruct(
-                    id=point.id,
-                    vector=point.vector,
-                    payload=point.payload
-                ))
-
             cloud_client.upsert(
                 collection_name=collection_name,
-                points=points
+                points=batch
             )
-            success_count += len(batch)
             progress = min(i + batch_size, len(local_points))
             percentage = (progress / len(local_points)) * 100
             print(f"   ✅ Batch {batch_num}/{total_batches} ({percentage:.1f}%) - {progress}/{len(local_points)} points")
@@ -110,9 +121,17 @@ async def migrate_data():
             print(f"   ❌ Batch {batch_num} yuklashda xato: {e}")
             continue
 
+    # Yakuniy tekshiruv
+    print(f"\n🔍 Cloud'dagi ma'lumotlar tekshirilmoqda...")
+    try:
+        cloud_info = cloud_client.get_collection(collection_name)
+        print(f"✅ Cloud'da {cloud_info.points_count} ta point mavjud")
+    except Exception as e:
+        print(f"⚠️  Cloud kolleksiya ma'lumotlarini olishda xato: {e}")
+
     print("\n" + "=" * 60)
     print(f"🎉 Migratsiya tugadi!")
-    print(f"   📊 Jami {success_count}/{len(local_points)} ta point cloud'ga yuklandi")
+    print(f"   📊 Jami {len(local_points)} ta point cloud'ga yuklandi")
     print("=" * 60)
 
     # Klientlarni yopish

@@ -18,7 +18,7 @@ class PromptTemplates:
         """Initialize prompt templates"""
         self.config = get_config()
         self.version = self.config.prompt.get(
-            "system_template_version", "v3"
+            "system_template_version", "v4"  # ← v3 dan v4 ga o'zgartirildi
         )
 
     @staticmethod
@@ -26,99 +26,82 @@ class PromptTemplates:
         """Professional system prompt - BeLagel AI yuridik yordamchi"""
         return """# BELEGAL - O'ZBEKISTON QONUNCHILIGI BO'YICHA AI YURIDIK YORDAMCHI
 
-    ## 🎯 ROLINGIZ
-    Siz **BeLagel** - O'zbekiston Respublikasi qonunchiligi bo'yicha professional yuridik AI yordamchisiz. Sizning vazifangiz - foydalanuvchilarga **faqat berilgan kontekstdagi ma'lumotlar asosida** aniq, ishonchli va professional javoblar berish.
+## 🎯 ROLINGIZ
+Siz **BeLagel** - O'zbekiston Respublikasi qonunchiligi bo'yicha professional yuridik AI yordamchisiz. Sizning vazifangiz - foydalanuvchilarga **faqat berilgan kontekstdagi ma'lumotlar asosida** aniq, ishonchli va professional javoblar berish.
 
-    ## 📚 BILIM BAZASI
-    Sizga quyidagi O'zbekiston qonun hujjatlari taqdim etilgan:
-    - Konstitutsiya (KONST)
-    - Jinoyat kodeksi (JK)
-    - Jinoyat-protsessual kodeksi (JPK)
-    - Fuqarolik kodeksi (FK)
-    - Mehnat kodeksi (MK)
-    - Oila kodeksi (OK)
-    - Soliq kodeksi (SK)
-    - Fuqarolik protsessual kodeksi (FPK)
-    - Iqtisodiy protsessual kodeksi (IPK)
+## ⚖️ ASOSIY QOIDALAR (BUZILMAS!)
 
-    ## ⚖️ ASOSIY QOIDALAR
+### 1. FAKTGA ASOSLANGANLIK - ENG MUHIM!
+✅ **Faqat** berilgan kontekstdagi ma'lumotlardan foydalaning
+❌ Hech qachon kontekstdan tashqari ma'lumot QO'SHMANG
+❌ Hech qachon modda raqamlarini O'YLAb TOPMANG
+❌ Kontekstda yo'q modda raqamlarini yozmang
+❌ Kontekstda javob bo'lmasa: "Berilgan ma'lumotlarda bu savolga javob topilmadi"
 
-    ### 1. KONSEPTUAL CHEGARALAR
-    ✅ **Faqat** berilgan kontekstdagi ma'lumotlardan foydalaning
-    ❌ Hech qachon kontekstdan tashqari ma'lumot qo'shmang
-     Hech qachon raqamlar, muddatlar, jazolarni o'ylab topmang
-    ❌ Kontekstda javob bo'lmasa: "Berilgan ma'lumotlarda bu savolga javob topilmadi"
+### 2. MODDA RAQAMLARI - ANIQ BO'LSIN!
+✅ Har bir da'voni kontekstdagi ANIQ modda raqami bilan tasdiqlang
+✅ Modda raqamlarini kontekstdan OLING (masalan: "163-modda", "164-modda")
+❌ "Modda 1", "Modda 2", "Modda 4", "Modda 5" kabi umumiy raqamlarni ishlatmang
+❌ Kontekstda ko'rsatilmagan modda raqamlarini yozmang
 
-    ### 2. ANIQLIK TALABLARI
-    ✅ Har bir da'voni **an modda raqami** bilan tasdiqlang
-    ✅ Jazo turlarini **to'liq ro'yxat** shaklida ko'rsating
-    ✅ Jazo muddatlarini **aniq** yozing: "2 yildan 4 yilgacha", "360-480 soat"
-    ✅ Superscript moddalarni to'g'ri yozing: 128¹, 260²
-    ✅ Qisqartmalarni birinchi marta **to'liq** yozing: "QQS (Qo'shilgan qiymat solig'i)"
+### 3. ANIQLIK TALABLARI
+✅ Jazo turlarini **to'liq ro'yxat** shaklida ko'rsating
+✅ Jazo muddatlarini **aniq** yozing: "2 yildan 4 yilgacha", "360-480 soat"
+✅ Superscript moddalarni to'g'ri yozing: 128¹, 260²
+✅ Qisqartmalarni birinchi marta **to'liq** yozing: "QQS (Qo'shilgan qiymat solig'i)"
 
-    ### 3. JAVOB STRUKTURASI
-    Har bir javob quyidagi tartibda bo'lishi **shart**:
+### 4. JAVOB STRUKTURASI
+Har bir javob quyidagi tartibda bo'lishi **shart**:
 
-    **📌 QISQACHA JAVOB**
-    [Bir-ikki gapda asosiy javob]
+### 📌 QISQACHA JAVOB
+[Bir-ikki gapda asosiy javob]
 
-    ** BATAFSIL TUSHUNTIRISH**
-    [To'liq tahlil, moddalar bo'yicha]
+### 📖 BATAFSIL TUSHUNTIRISH
+[To'liq tahlil, moddalar bo'yicha]
 
-    **⚖️ QO'LLANILADIGAN QOIDALAR**
-    [Aniq moddalar ro'yxati, jazo turlari]
+### ⚖️ QO'LLANILADIGAN QOIDALAR
+[Aniq moddalar ro'yxati, jazo turlari]
 
-    **📚 MANBA**
-    - [Kodeks nomi], [Modda raqami]-modda[, [Qism] qism][, [Band] band]
+### 📚 MANBA
+- [Kodeksning to'liq nomi], **[Modda raqami]-modda**
 
-    ##  MAXSUS HOLATLAR
+## 🚫 TAQIQLANGAN HARAKATLAR
+- ❌ Gallyutsinatsiya (o'ylab topish)
+- ❌ Kontekstda yo'q modda raqamlarini yozish
+- ❌ Umumiy modda raqamlarini ishlatish ("Modda 1", "Modda 2")
+- ❌ Eski/bekor qilingan qonunlarga havola
+- ❌ Shaxsiy fikr yoki maslahat
+- ❌ Boshqa davlat qonunlarini qo'llash
 
-    ### Jazo haqida so'ralganda:
-    - Barcha alternativ jazolarni ro'yxat shaklida ko'rsating
-    - Har bir jazo turini alohida punkt bilan
-    - Jazo muddatlarini aniq yozing
-    - Og'irlashtiruvchi/yengillashtiruvchi holatlarni eslang
+## 💡 MISOL (TO'G'RI JAVOB)
 
-    ### Qisqartma haqida so'ralganda:
-    1. Avval to'liq nomini yozing: "QQS (Qo'shilgan qiymat solig'i)"
-    2. Keyin ta'rifini bering
-    3. Tegishli moddani ko'rsating
+**Savol:** "Korxona soliq organining qaroridan norozi bo'lsa qayerga murojaat qiladi?"
 
-    ### Kontekstda javob bo'lmasa:
-    "Afsuski, berilgan qonun hujjatlarida bu savolga javob topilmadi. Iltimos, savolingizni boshqacha ibora bilan qayta bering yoki aniqroq kodeksni ko'rsating."
+**Kontekstda:**
+- 163-modda: Shikoyat qilinganda soliq organlari qarorlarini ijro etish...
+- 164-modda: Soliq organlarining qarorlarini ijro etish...
 
-    ##  TAQIQLANGAN HARAKATLAR
-    - ❌ Gallyutsinatsiya (o'ylab topish)
-    - ❌ Eski/bekor qilingan qonunlarga havola
-    - ❌ Shaxsiy fikr yoki maslahat
-    - ❌ Aniq raqamlarni taxmin qilish
-    - ❌ Boshqa davlat qonunlarini qo'llash
+**To'g'ri Javob:**
 
-    ## 💡 MISOL
+### 📌 QISQACHA JAVOB
+Korxona soliq organining qaroridan norozi bo'lsa, yuqori turuvchi soliq organiga shikoyat qiladi.
 
-    **Savol:** "16 yoshdan 18 yoshgacha bo'lgan shaxs bilan moddiy qimmatliklar berish orqali jinsiy aloqa qilishga qanday jazo bor?"
+### 📖 BATAFSIL TUSHUNTIRISH
+Soliq kodeksining **163-moddasiga** ko'ra, soliq tekshiruvi natijalari bo'yicha qabul qilingan soliq organining qarori ustidan shikoyat qilinganda, bunday qaror yuqori turuvchi soliq organi tomonidan bekor qilinmagan va ustidan shikoyat qilinmagan qismi bo'yicha shikoyat yuzasidan yuqori turuvchi soliq organi tomonidan qaror qabul qilingan kundan e'tiboran kuchga kiradi.
 
-    **Javob:**
+**164-moddaga** ko'ra, soliq tekshiruvi natijalari bo'yicha qaror u kuchga kirgan kundan e'tiboran ijro etilishi lozim.
 
-    **📌 QISQACHA JAVOB**
-    Jinoyat kodeksining 128¹-moddasiga ko'ra, bunday harakat 360-480 soat majburiy jamoat ishlari, 2 yilgacha axloq tuzatish ishlari, 2-4 yil ozodlikni cheklash yoki 2-4 yil ozodlikdan mahrum qilish bilan jazolanadi.
+### ⚖️ QO'LLANILADIGAN QOIDALAR
+- Soliq organining qarori ustidan shikoyat qilish tartibi **163-modda** da belgilangan
+- Qarorni ijro etish tartibi **164-modda** da belgilangan
 
-    ** BATAFSIL TUSHUNTIRISH**
-    O'n olti yoshdan o'n sakkiz yoshgacha bo'lgan shaxs bilan moddiy qimmatliklar berish yoki mulkiy yoxud boshqacha tarzda manfaatdor etish orqali jinsiy aloqa qilish, shuningdek jinsiy ehtiyojni g'ayritabiiy usulda qondirish jinoyat hisoblanadi.
+### 📚 MANBA
+- O'zbekiston Respublikasi Soliq kodeksi, **163-modda**
+- O'zbekiston Respublikasi Soliq kodeksi, **164-modda**
 
-    **⚖️ QO'LLANILADIGAN JAZO TURLARI**
-    Qonun quyidagi alternativ jazolarni belgilagan:
-    - **360 soatdan 480 soatgacha** majburiy jamoat ishlari;
-    - **Yoki 2 yilgacha** axloq tuzatish ishlari;
-    - **Yoki 2 yildan 4 yilgacha** ozodlikni cheklash;
-    - **Yoki 2 yildan 4 yilgacha** ozodlikdan mahrum qilish.
+---
 
-    **📚 MANBA**
-    - O'zbekiston Respublikasi Jinoyat kodeksi, **128¹-modda**
-
-    ---
-
-    **ESLATMA:** Yuqoridagi qoidalarga qat'iy rioya qiling. Har bir javobingiz **faktga asoslangan**, **aniq** va **professional** bo'lishi kerak."""
+**ESLATMA:** Har bir javobingiz **faktga asoslangan**, **aniq modda raqamlari** bilan bo'lishi kerak!"""
 
     def _clean_context_chunk(self, chunk: str) -> str:
         """Kontekst chunkini tozalash - HTML teglarini olib tashlash"""
@@ -131,8 +114,8 @@ class PromptTemplates:
         chunk = chunk.replace('&gt;', '>')
         # URL'larni olib tashlash
         chunk = re.sub(r'https?://\S+', '', chunk)
-        # Ortiqcha bo'sh joylarni tozalash
-        chunk = re.sub(r'\s+', ' ', chunk)
+        # Ortiqcha bo'sh joylarni tozalash (lekin yangi qatorlarni saqlash)
+        chunk = re.sub(r'[ \t]+', ' ', chunk)  # ← Faqat gorizontal bo'sh joylar
         return chunk.strip()
 
     def get_qa_prompt(
@@ -140,7 +123,8 @@ class PromptTemplates:
         query: str,
         context_chunks: List[str],
         chat_history: Optional[str] = None,
-        code_filter: Optional[str] = None
+        code_filter: Optional[str] = None,
+        sources: Optional[List[Dict[str, Any]]] = None  # ← YANGI PARAMETR
     ) -> str:
         """
         Build QA prompt with context.
@@ -150,25 +134,10 @@ class PromptTemplates:
             context_chunks: Retrieved context chunks
             chat_history: Optional chat history
             code_filter: Optional legal code filter (e.g., "JK", "MK")
-
-        Returns:
-            Formatted prompt
+            sources: List of source metadata (code_name, article_number)
         """
-        # Kontekstni tozalash va formatlash
-        cleaned_chunks = []
-        for i, chunk in enumerate(context_chunks):
-            cleaned = self._clean_context_chunk(chunk)
-            if cleaned and len(cleaned) > 20:  # Bo'sh yoki juda qisqa bo'lsa o'tkazib yuborish
-                cleaned_chunks.append(cleaned)
-
-        # Kontekst matnini yaratish
-        if cleaned_chunks:
-            context_text = "\n\n---\n\n".join([
-                f"### Modda {i+1}:\n{chunk}"
-                for i, chunk in enumerate(cleaned_chunks)
-            ])
-        else:
-            context_text = "[KONTEKST TOPILMADI]"
+        # ⭐ MUHIM: Kontekstni manbalar bilan birga formatlash
+        context_text = self._format_context_with_sources(context_chunks, sources)
 
         # Code filter haqida eslatma
         filter_note = ""
@@ -186,10 +155,21 @@ Boshqa kodekslarga murojaat QILMANG. Faqat {code_filter} kodeksidagi moddalardan
 {chat_history}
 """
 
+        # ⭐ MUHIM: Mavjud modda raqamlarini aniq ko'rsatish
+        available_articles = ""
+        if sources:
+            article_list = [f"{s.get('article_number', '?')}-modda" for s in sources if s.get('article_number')]
+            if article_list:
+                available_articles = f"""
+📋 **KONTEKSTDA MAVJUD MODDALAR:** {', '.join(article_list)}
+⚠️ **Faqat shu modda raqamlaridan foydalaning! Boshqa modda raqamlarini O'YLAb TOPMANG!**
+"""
+
         # To'liq promptni yaratish
         prompt = f"""{self.get_system_prompt()}
 
 {filter_note}
+{available_articles}
 
 ---
 
@@ -207,25 +187,56 @@ Quyidagi ma'lumotlar sizning yagona bilim manbangiz hisoblanadi. **FAQAT** shu m
 
 ---
 
-Yuqoridagi qonun hujjatlari asosida savolga **ANIQ**, **TO'LIQ** va **PROFESSIONAL** javob bering. 
+## 📝 JAVOB BERISH QOIDALARI
 
-**ESLATMA:**
-- Har bir da'voni modda raqami bilan tasdiqlang
-- Jazo turlarini to'liq ro'yxat shaklida ko'rsating
-- Javob strukturasi qoidalariga rioya qiling
-- Oxirida manbani aniq ko'rsating
+1. **Faqat yuqoridagi kontekstdan foydalaning**
+2. **Aniq modda raqamlarini ko'rsating** (masalan: "163-modda", "164-modda")
+3. **"Modda 1", "Modda 2" kabi umumiy raqamlarni ishlatmang**
+4. **Markdown formatida yozing** (##, **, -)
+5. **Oxirida manbani aniq ko'rsating**
 
 **JAVOBINGIZ:**"""
 
         return prompt
 
-    def get_citation_prompt(self) -> str:
+    def _format_context_with_sources(
+        self,
+        context_chunks: List[str],
+        sources: Optional[List[Dict[str, Any]]] = None
+    ) -> str:
         """
-        Get prompt for extracting citations from LLM response.
+        Kontekstni manbalar bilan birga formatlash.
+        Har bir chunk uchun modda raqamini aniq ko'rsatish.
+        """
+        if not context_chunks:
+            return "[KONTEKST TOPILMADI]"
 
-        Returns:
-            Citation extraction prompt
-        """
+        formatted_parts = []
+
+        for i, chunk in enumerate(context_chunks):
+            cleaned = self._clean_context_chunk(chunk)
+            if not cleaned or len(cleaned) < 20:
+                continue
+
+            # Manba ma'lumotini olish
+            source_info = ""
+            if sources and i < len(sources):
+                source = sources[i]
+                code_name = source.get('code_name', '')
+                article_number = source.get('article_number', '')
+                code_short = source.get('code_short', '')
+
+                if article_number:
+                    source_info = f"\n📌 **MANBA: {code_name}, {article_number}-modda** ({code_short})\n"
+
+            formatted_parts.append(
+                f"### KONTEKST {i+1}:{source_info}\n{cleaned}"
+            )
+
+        return "\n\n---\n\n".join(formatted_parts)
+
+    def get_citation_prompt(self) -> str:
+        """Get prompt for extracting citations from LLM response."""
         return """Quyidagi javobdan barcha yuridik manbalarni (kodeks nomi va modda raqami) ajratib oling.
 
 **QOIDALAR:**

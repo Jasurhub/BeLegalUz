@@ -45,7 +45,7 @@ legal_codes:
     file_pattern: "JINOYAT KODEKSI"
   - name: "O'zbekiston Respublikasi Ma'muriy javobgarlik to'g'risidagi kodeksi"
     short_code: "MJK"
-    file_pattern: "Ma'muriy javobgarlik"
+    file_pattern: "Ma'muriy javobgarlik"  # ← BU MUHIM!
   - name: "O'zbekiston Respublikasi Fuqarolik kodeksi"
     short_code: "FK"
     file_pattern: "FUQAROLIK KODEKSI"
